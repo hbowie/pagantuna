@@ -1,0 +1,55 @@
+Title:  Process, Projects and Customers -- The Unholy Trinity
+
+Date:   Mon Jul 27, 2009
+
+Status: 9 - Closed
+
+Tags:   Lean and Agile, PaganTuna
+
+Teaser: 
+ 
+<p>One of the statements I regularly hear from IT developers that always surprises me is the assertion that: &#8220;Our customers dictate our process to us.&#8221;</p><br><br><p>I&#8217;m even further astonished when I hear developers justify this position by quoting an alleged lean principle to the effect that &#8220;if our customer is not willing to pay for something [an activity or interim deliverable], then it is waste, and should be eliminated.&#8221;</p><br><br><p>Really&#8230;?</p><br><br><p>I was under the impression that lean principles got their start at Toyota, and that Toyota was in the business of building cars. Now I&#8217;ve bought several cars in my lifetime, and I recall talking to auto dealers about things like price, quality, features, performance and warranties, but I honestly can&#8217;t recall a conversation in which I quizzed the salesperson about the process Toyota used to build that car, or the number of drawings or other specifications they produced before they started stamping sheet metal. </p>
+
+Body:   
+ 
+One of the statements I regularly hear from IT developers that always surprises me is the assertion that: "Our customers dictate our process to us."
+
+I'm even further astonished when I hear developers justify this position by quoting an alleged lean principle to the effect that "if our customer is not willing to pay for something [an activity or interim deliverable], then it is waste, and should be eliminated."
+
+Really...?
+
+I was under the impression that lean principles got their start at Toyota, and that Toyota was in the business of building cars. Now I've bought several cars in my lifetime, and I recall talking to auto dealers about things like price, quality, features, performance and warranties, but I honestly can't recall a conversation in which I quizzed the salesperson about the process Toyota used to build that car, or the number of drawings or other specifications they produced before they started stamping sheet metal. 
+
+And frankly, if I walked into an auto showroom, and the dealer pulled me into his office, showed me a process flow diagram, pointed to a bubble on it, and asked me how I felt about paying for that step in their process, I would no doubt run, not walk, to the nearest exit, and immediately sell my shares in that company if I happened to own any. For while I don't know a lot about designing and building automobiles, I do know that it's a complicated business, and if a company is asking me for advice on how to do it, then they must be pretty clueless.
+
+I don't imagine that many people would take issue with my reported stance as an auto buyer in the scenario described above. And yet I regularly see people assert a very different position about customers of IT software development without so much as blinking an eye. So how do we end up in this position, actually believing that our customers are in a position to tell us how our software development processes should work?
+
+I see several contributing factors that lead us down this slippery slope. 
+
+* IT software developers are generally in a somewhat different position than automakers, in that they are building one item (an application system) for one customer. Further, the customer is often an internal one, so there is no corporate veil between producer and customer. In this situation, it is natural for the customer to have more visibility into the producer's process, and for their voice to carry more weight. 
+
+* IT customers are often required participants in the development process, and so if they don't understand or accept their prescribed role in the process, then they may well balk, or refuse to participate, or simply not show up when needed. 
+
+* Historically, IT process improvement efforts have often tried to increase the amount of documentation produced, and the number of steps in the process, and customers have often had difficulty understanding how any of this was going to increase the speed of delivery or quality of the product, or decrease the project's cost. 
+
+* If the customer's trust level in IT is low to begin with, then it may well be difficult for an app development team to make a convincing case that complex process changes will contribute to better results for the customer. 
+
+* Certain steps in the development process -- definition of requirements or of acceptance test cases, let's say -- are sometimes portrayed by IT as being primarily, or even exclusively, the responsibility of the customer. In this case, the customer may feel, with some justification, that IT is simply trying to shift some of their responsibilities onto their customer's shoulders. 
+
+* Finally, IT developers are often themselves skeptical about the value of changes in their development process, and so may be all too willing to lend legitimacy to any reservations their customers might have about such efforts.
+
+So what do I recommend in this area?
+
+1. IT customers of course have a role and a legitimate voice in any software development process used, and so they should be included in any dialogue about potential process improvements. 
+
+2. If customers are not starting with high levels of trust in IT, then IT must be open and honest about whatever failures have led to this situation, and must focus their improvement efforts on earning their customers' confidence. 
+
+3. Ultimately, IT must accept responsibility for process expertise as well as technical expertise. Without accepting responsibility for process, it is hard to see how IT can maintain a long-term position as a credible supplier of products and services.  
+
+And oh, by the way, here is how I would state the lean principles about value and waste so as to avoid the confusion indicated above. 
+
+> An activity adds value if it influences the form, fit and/or function of a product or service in a way that the customer would be willing to pay for.
+
+> Any other activity is a form of waste. 
+
+

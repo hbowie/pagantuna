@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>To COTS or Not That is the Question | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Thoughts on Technology and Leadership from Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/software.html' rel='tag'>Software</a>, <a href='tags/software-development.html' rel='tag'>Software Development</a>, <a href='tags/technology.html' rel='tag'>Technology</a></p>
+		      <h1>To COTS or Not That is the Question</h1>
+
+<p>When I talk to IT software developers, one of the areas of controversy that comes up frequently is the use of purchased applications packages. </p>
+
+<p>Too often we in IT seem to be lured by the promise of off-the-shelf functionality whose development costs will be spread over a large customer base, yet end up with purchased software that we then have to modify or extend to fit our special requirements, ensuring that we end up with the worst of both worlds.</p>
+
+<p>Having been involved in this debate for a decade or two, I&#8217;ve noticed certain recurring issues that seem to frequently get little or no attention, so I thought it might be worth discussing them here. </p>
+
+<p>Here are some of the key questions that I think need to be considered.</p>
+
+<p><strong>1. Can system requirements be based on some set of rules that are generally accepted by industry?</strong></p>
+
+<p>As an example, a computer-aided design (CAD) system is based on certain rules of geometry &#8212; pretty hard for a user to insist that these need to be customized! Similarly, an application like <a href="http://www.turbotax.com">TurboTax</a> is based on a particular country&#8217;s tax code &#8212; which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a <a href="http://en.wikipedia.org/wiki/Material_requirements_planning">Materials Requirements Planning</a> (MRP) system, which can rely on standard practices defined by the <a href="http://www.apics.org">APICS</a> organization.</p>
+
+<p>In my experience, COTS packages that are largely based on standard sets of rules such as these are frequently well accepted by users and developers, while others with more variable or controversial requirements are not. </p>
+
+<p><strong>2. How hard would it be to develop the system internally?</strong></p>
+
+<p>If the system that is needed is relatively simple, without any significant technical challenges, then a COTS solution is often expensive overkill. </p>
+
+<p>Notice that the answer to this question may well change over time, as new technical capabilities become more generally available through various layers of infrastructure software. </p>
+
+<p><strong>3. Can the business benefit from a rapid response to requests for functional enhancements?</strong></p>
+
+<p>Cycle times for changes to COTS software &#8212; measured from concept to cash, from original idea to working software in the hands of users &#8212; can often be an order of magnitude longer than for internally developed systems. </p>
+
+<p><strong>4. Will the internal integration requirements be so complex that upgrades to future releases of the application will be virtually impossible?</strong></p>
+
+<p>Customers often optimistically expect to be able to benefit from future releases of an application, but in practice, the web of connections to other applications becomes so complex over time that the costs of implementing a new release often outweigh the benefits. And even when these connections start out being well managed by IT, interfaces with user-developed software and data stores often overwhelm the best laid IT architecture. </p>
+
+<p><strong>5. Is there a viable business model for an <a href="http://en.wikipedia.org/wiki/Independent_software_vendor">independent software vendor</a> (ISV) to produce the desired system over the long haul?</strong></p>
+
+<p>Companies routinely assess the financial stability of potential suppliers, but often fail to question the long-term viability of a vendor&#8217;s business model. What matters is not how many customers and how much cash in the bank they have today, but how they will maintain those numbers over time. As a notorious example, suppliers that market software specifically designed for government contractors tend to go belly-up with disturbing regularity. </p>
+
+<p><strong>6. Will a unique, internally developed system provide us with some lasting advantage over our competitors?</strong></p>
+
+<p>The alternative would be that we only need a system that is as good as similar systems used by our competitors. If our goal is only parity, then an internally developed system might actually be wasteful, since we may spend time dreaming up unique requirements that add cost but no useful business differentiation. </p>
+
+<p>Well, there you have it. Answer these six questions honestly and thoughtfully and, I would argue, 90% of the time you can make the right make-or-buy decision without ever evaluating a single package. </p>
+
+          <p class="pub-date">May 13, 2009</p>
+<p class="next">Next: <a href="customer-communication.html">Customer Communication</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+Title:  Effective Compliance
+
+Date:   Sat Dec 5, 2015
+
+Status: 9 - Closed
+
+Tags:   Leadership, PaganTuna, Technology
+
+Teaser: 
+ 
+<p>In a corporate environment, the term &#8220;compliance&#8221; is often used to mean a number of different things. </p><br><br><ol><br><li><p>The practice of following one or more sets of binding laws, regulations, policies and/or procedures. </p></li><br><li><p>An organization or function that is put in place to validate that compliance (in the sense above) is maintained.</p></li><br><li><p>The demonstration, or the ability to demonstrate upon demand, that compliance (in the first sense) is being maintained. </p></li><br></ol><br><br><p>Compliance in the second and third senses above &#8212; what we might call the big &#8220;C&#8221; Compliance &#8212; often becomes most important in areas where failure to comply may produce long-term negative consequences, without any corresponding short-term issues or visibility. Information Security and Disaster Recovery Planning are good examples. Because there are no other quick feedback loops in cases like these, special oversight is often put in place to ensure that everyone is doing the right thing now to prevent or mitigate some possible catastrophe in the future. </p><br><br><p>In my experience, it&#8217;s important to keep in mind a number of key ideas in order to maximize the effectiveness of your compliance activities. </p>
+
+
+Body:   
+ 
+In a corporate environment, the term "compliance" is often used to mean a number of different things. 
+
+1. The practice of following one or more sets of binding laws, regulations, policies and/or procedures. 
+
+2. An organization or function that is put in place to validate that compliance (in the sense above) is maintained.
+
+3. The demonstration, or the ability to demonstrate upon demand, that compliance (in the first sense) is being maintained. 
+
+Compliance in the second and third senses above -- what we might call the big "C" Compliance -- often becomes most important in areas where failure to comply may produce long-term negative consequences, without any corresponding short-term issues or visibility. Information Security and Disaster Recovery Planning are good examples. Because there are no other quick feedback loops in cases like these, special oversight is often put in place to ensure that everyone is doing the right thing now to prevent or mitigate some possible catastrophe in the future. 
+
+In my experience, it's important to keep in mind a number of key ideas in order to maximize the effectiveness of your compliance activities. 
+
+### 1. Always keep the underlying intent in mind.
+
+Avoid a "check the box" mentality by continually reinforcing the underlying intent of the Compliance activities. Without this continual emphasis, people can become like mice in a maze, modifying their behavior to maximize short-term rewards and avoid short-term punishment, without much consideration for whether any of their activities are really accomplishing the underlying intent of the whole thing. So, for example, if you have punishment and reward systems set up to make sure people complete documentation per a required schedule, without any review of the content, then you may be in for a nasty surprise somewhere down the road when someone actually needs the documentation for some real purpose. 
+
+### 2. Be careful not to make every good idea a Compliance issue.
+
+If big "C" Compliance offers a stick to punish people for non-compliance, then over time various well-intentioned souls will try to avail themselves of the Compliance stick in order to coerce people into doing things they think are good or perhaps even necessary. If this is allowed to go on unchecked, though, then the gradual accretion of additional Compliance requirements will necessarily dilute the force of all of them. In other words, if you require too much under the banner of Compliance, then you run the risk of people losing sight of the stuff that really is essential. 
+
+### 3. Leave as much as possible to the discretion of those performing the work.
+
+Compliance is a blunt object. It is not designed to help with subtle distinctions. If you need to do fine, detailed work, then don't use a hammer, or you're going to make a mess of things. If you tell the people doing the work that someone else making the compliance rules knows better than they do, then the biggest danger is that they are liable to start believing that fiction, and then will stop thinking about the work they are doing, since they no longer have the authority to decide how to do it. 
+
+Always consider education and coaching and experiential learning first, before resorting to Compliance to try to change people's behavior. 
+
+### 4. Become familiar with the [Dreyfus Model of Skill Acquisition](http://pagantuna.com/posts/the-dreyfus-model-of-skill-acquisition.html).
+
+Given sufficient time and opportunity, people will proceed up a scale gradually from novice to expert. At the lower levels, they will feel responsible for following rules they've been given. At the higher levels, they will internalize the rules and will feel responsible for achieving results. But if you turn general rules into big "C" Compliance requirements, then you run the risk of actually holding people back in their progress up this ladder, keeping them forever thinking that the rules are more important than the results. *You really don't want to do that.*
+
+### 5. Understand Your Compliance Posture before the Auditor Arrives.
+
+If you're working in the Compliance arena, then sooner or later you will have to answer to an auditor. If you understand the underlying compliance requirements, and can articulate how you are meeting those requirements in your environment, then you stand a good chance of emerging from the audit relatively unscathed. The last thing you want to do in such a situation is to come in ignorant and unprepared, and wait for the visitor to audit you into compliance. If you do this, then you will find over time that the second auditor will find the recommendations of the first auditor to be deficient, and will give you a new set of recommendations. The only defense against this sort of continual writhing is to figure out for yourself how best to meet the compliance requirements in your environment, and then defend your position vigorously and honestly when confronted by an auditor.  
+
+### 6. Avoid Robo-Signing.
+
+If your Compliance activities involve oversight and approval forms, and if you require certain forms to be reviewed and renewed on a regular schedule, then at some point you will be tempted to centralize the the review and approval of these forms in order to make the whole process more "efficient." The danger, of course, is that the whole process will then become meaningless, and you will then be well along the slippery slope of "robo-signing". It is hard to think of a situation in which such an approach would actually do much to achieve the original goals that were the initial motivation for the whole process. 
+	
+## Summary
+
+There you have it: six key ideas to keep in mind as you approach your Compliance work. Above all, remember that, if the goal of your Compliance work is to reduce risk, then make sure every step in your process is actually helping you to achieve that goal, and not just something you are doing to help you feel more "Compliant."
+
+

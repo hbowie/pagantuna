@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>An Agile Acid Test | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Thoughts on Technology and Leadership from Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/lean-and-agile.html' rel='tag'>Lean and Agile</a></p>
+		      <h1>An Agile Acid Test</h1>
+
+<p>One of the problems with Agile Software Development is the lack of any rigorous tool or method for determining any given project&#8217;s agility. To some extent, this can be considered a &#8220;feature&#8221; of Agile (and not a bug) since one of the core <a href="http://agilemanifesto.org/">Agile values</a> is a preference for &#8220;individuals and interactions over processes and tools.&#8221; At the same time, when managing a large-scale agile deployment at an organizational level, or providing consulting help to a number of different teams, there arises a legitimate need to distinguish between projects that can be fairly classified as Agile vs. others that may only be aspiring to this state. </p>
+
+<p>The way in which Agile Development is defined makes this somewhat difficult. At a lower level of detail, we have sources that define specific practices. However, we have multiple such sources &#8212; most notably, for Scrum and Extreme Programming &#8212; and these various sources are far from congruent. The <a href="http://agilemanifesto.org/">Agile Manifesto</a> successfully generalizes these lower-level practices into a higher-level definition, but this definition is so general as to leave it open to broad interpretation, and so offers no easy way to assure consistent application.  </p>
+
+<p>While I can&#8217;t claim any definitive authority for such a list, it does seem to me that there is a fairly small set of essential elements that can be used to determine whether a project is &#8220;really&#8221; Agile. So here, then, are the constituents of what I would call an &#8220;Agile Acid Test.&#8221;</p>
+
+<ol>
+<li><p>The project must <em>deliver</em> working software to its customers on a fairly regular basis &#8212; at least once every two months. </p>
+
+<p>Note that the customers may elect to defer use of a particular software release, but the delivered software must be usable. </p>
+
+<p>Also note that the first release may in some cases take longer &#8212; say, up to six months &#8212; to lay the foundation for further development with a minimum useful set of features. </p></li>
+<li><p>The project must <em>demonstrate</em> new or revised software to its customers on a regular basis &#8212; at least once every four weeks. </p>
+
+<p>Note that, if projects are <em>delivering</em> working software at least every four weeks, then element 1 would also satisfy this requirement. If they are delivering less frequently, however, then they must be demonstrating software more often. </p></li>
+<li><p>The project must work to an actively managed feature backlog. </p>
+
+<p>There are several implications here:</p>
+
+<ul>
+<li>Project requirements are primarily defined in terms of desired software features, rather than in more abstract concepts or models.</li>
+<li>The backlog of feature requests must be managed as a list of items that can be individually identified and prioritized in relationship to one another.  </li>
+<li>The list must not be frozen. Items should be added to and removed from the list as customers and developers gain more knowledge about what needs to be accomplished. </li>
+<li>The relative priorities of items on the list, and the sequence in which they are to be implemented, should be reviewed at least once at the beginning of each new incremental delivery cycle.  </li>
+<li>Each feature request should be small enough to be completed within a single incremental delivery cycle.</li>
+</ul></li>
+<li><p>The project must focus on fulfilling an overarching product vision. </p>
+
+<p>The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat. A product vision provides the cohesion necessary to make both the project team and the features being implemented more than just the sums of their respective parts. </p></li>
+<li><p>The project should produce just enough documentation that is done as needed, on a just-in-time basis.</p>
+
+<p>Documentation can be useful to help clarify issues before committing them to code, but it should be the software code, not a separate set of documents, that serves as the primary repository for the knowledge gained by the team over the course of the project. </p></li>
+<li><p>The project team must regularly engage in retrospectives that help the team continuously improve their development practices. </p></li>
+<li><p>Most team communication must happen on a direct, real-time basis, and the team must be small enough &#8212; fifteen members at the most &#8212; to allow this to be practical.   </p></li>
+</ol>
+
+<p>These then are what I would suggest as the essential practices of Agile software development. There are other important practices as well, of course, but I would consider those supporting practices, rather than essential ones. </p>
+
+<p>As confessed above, I can offer no definitive authority for this list. But if we take a look at the elements of the Agile Manifesto, I think I can explain how these are all directly related. I&#8217;ve listed my suggestions for essential agile practices down the left side of the following table, and used succeeding columns to explain how each practice supports the Manifesto element called out in the column heading. </p>
+
+<table>
+    <caption align="top">
+        The Essential Practices of Agile Software Development
+    </caption>
+    <tr>
+        <th width="15%">Essential Practice</th>
+        <th width="17%">Uncovering better ways of developing software by doing it</th>
+        <th width="17%">Individuals and interactions over processes and tools</th>
+        <th width="17%">Working software over comprehensive documentation</th>
+        <th width="17%">Customer collaboration over contract negotiation</th>
+        <th width="17%">Responding to change over following a plan</th>
+    </tr>
+    <tr>
+        <th>1. Delivery of working software at least every two months</th>
+        <td>The more frequently each delivery cycle is completed, the more rapidly the team can observe the results of their efforts and try improvements</td>
+        <td> </td>
+        <td>Rapid delivery of working software reduces the need for more extensive documentation</td>
+        <td> </td>
+        <td>Rapid completion of each delivery cycle allows changes to the overall delivery plan to be incorporated relatively quickly</td>
+    </tr>
+    <tr>
+        <th>2. Demonstration of new or revised software at least every four weeks</th>
+        <td> </td>
+        <td>The demonstration of working software is the compelling event that generates the most meaningful interaction between all the individuals involved with the project, and reduces the need for more complex processes and tools </td>
+        <td>Rapid creation and demonstration of working software reduces the need for more extensive documentation</td>
+        <td>Frequent demonstration of working software provides the most meaningful opportunities for customer collaboration, and reduces the need for contracts to specify complex statements of work </td>
+        <td>Demonstration of working software is the most reliable means of eliciting further ideas for change, and frequent demonstration opportunities provide the best means of demonstrating responsiveness to these changes</td>
+    </tr>
+    <tr>
+        <th>3. An actively managed feature backlog </th>
+        <td> </td>
+        <td>Desired software features are topics that can generate interaction between developers and customers</td>
+        <td>Desired software features can be translated relatively easily and rapidly into working software</td>
+        <td>Customers and developers can easily collaborate on software feature requests </td>
+        <td>A list of requested features, with relatively little investment in the initial definition of each feature, is a document that lends itself to easy and rapid change</td>
+    </tr>
+    <tr>
+        <th>4. An overarching product vision </th>
+        <td> Without an explicit vision for the product to be developed, it is difficult to tell to what degree the team is succeeding </td>
+        <td>A compelling vision can engage both developers and customers in meaningful interaction, without the need for complex processes or tools </td>
+        <td>A compelling vision does not require comprehensive documentation, and can help shape the evolution of working software </td>
+        <td>Customers and developers are encouraged to collaborate on the means of fulfilling their common vision for the product </td>
+        <td>An overarching vision to be fulfilled is different from a detailed plan to be followed, and tactical changes can be easily accommodated without disturbing the overall vision </td>
+    </tr>
+    <tr>
+        <th>5. Documentation that is just enough and just-in-time </th>
+        <td>Allows more time and energy to be focused on actual software development </td>
+        <td>Since documentation is a less interactive form of dialogue, minimal documentation places greater focus on real-time interaction between customers and developers </td>
+        <td>Less focus on comprehensive documentation </td>
+        <td>A contract is a complex, binding document, so minimal documentation implies less reliance on a contract, and greater reliance on direct collaboration </td>
+        <td>A smaller investment in documentation makes it easier for the development team to respond to changes </td>
+    </tr>
+    <tr>
+        <th>6. Continuous improvement through retrospectives </th>
+        <td>Provides a forum for uncovering better ways of developing software </td>
+        <td>Provides a forum for team interactions about improvements and reduces dependence on rigid, unchanging processes </td>
+        <td> </td>
+        <td> </td>
+        <td>Allows the team to rapidly respond to ideas for process changes </td>
+    </tr>
+    <tr>
+        <th>7. Direct, real-time team communication among no more than 15 people </th>
+        <td>Allows team members to quickly share experiences and learn from each other </td>
+        <td>Larger teams require more complex processes and tools for communication and control </td>
+        <td>Larger teams require more documentation to ensure adequate communication </td>
+        <td>Larger teams require more definitive, documented statements of work in order to keep the team on track </td>
+        <td>With larger teams, responding to change is more like turning the battleship rather than turning on a dime </td>
+    </tr>
+    <tr>
+        <th width="15%">Essential Practice</th>
+        <th width="17%">Uncovering better ways of developing software by doing it</th>
+        <th width="17%">Individuals and interactions over processes and tools</th>
+        <th width="17%">Working software over comprehensive documentation</th>
+        <th width="17%">Customer collaboration over contract negotiation</th>
+        <th width="17%">Responding to change over following a plan</th>
+    </tr>
+</table> 
+
+<p>If Agile offers &#8212; as I believe it does &#8212; an approach to software development that is essentially different from others, then we owe it to ourselves to draw the line between Agile and non-Agile in such a way that the two cannot easily be confused. From my perspective, the practices I&#8217;ve listed above are all essential: if any one of them is missing, then I would suggest that a project&#8217;s approach would be better described using some other terminology.  </p>
+
+          <p class="pub-date">July 20, 2009</p>
+<p class="next">Next: <a href="process-projects-and-customers-the-unholy-trinity.html">Process, Projects and Customers -- The Unholy Trinity</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

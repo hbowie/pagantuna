@@ -1,0 +1,40 @@
+Title:  Customer Communication
+
+Date:   Wed May 13, 2009
+
+Status: 9 - Closed
+
+Tags:   Communication, Customers, Improvement, PaganTuna, Project Management
+
+Teaser: 
+ 
+<p>One of the most important project practices is Communication. </p><br><br><p>At first, this might seem like a case of belaboring the obvious &#8212; sort of like stating that breathing is a best practice for living a long and healthy life. I mean, between meetings, e-mail, web sites, wikis, PowerPoint presentations and Word documents, it sometimes seems like we are constantly swimming in a veritable sea of communication, and the last thing we need is to be reminded to communicate. </p><br><br><p>Ah, not so fast, little grasshopper! For there is communication and then there is Communication. In particular, there is the practice of regular and proactive Communication with your Customer. And, if you are to achieve this, there is the need for a Communication Plan. </p><br><br><p>I learned the risks of not doing such communication many years ago, when I was developing a new Installment Loan system for my employer, a Savings and Loan in California. We already had a large and robust Mortgage Loan system, but the company had decided it would be advantageous to offer installment loans to its customers as well, and so they had requested a new system for this very purpose. </p>
+
+
+Body:   
+ 
+One of the most important project practices is Communication. 
+
+At first, this might seem like a case of belaboring the obvious -- sort of like stating that breathing is a best practice for living a long and healthy life. I mean, between meetings, e-mail, web sites, wikis, PowerPoint presentations and Word documents, it sometimes seems like we are constantly swimming in a veritable sea of communication, and the last thing we need is to be reminded to communicate. 
+
+Ah, not so fast, little grasshopper! For there is communication and then there is Communication. In particular, there is the practice of regular and proactive Communication with your Customer. And, if you are to achieve this, there is the need for a Communication Plan. 
+
+I learned the risks of not doing such communication many years ago, when I was developing a new Installment Loan system for my employer, a Savings and Loan in California. We already had a large and robust Mortgage Loan system, but the company had decided it would be advantageous to offer installment loans to its customers as well, and so they had requested a new system for this very purpose. 
+
+We were following a waterfall development model at the time, and so I dutifully collected the requirements, designed the user interface and database, collected the requisite approvals on all of the above, then started out on the actual programming. This kept me busy for several months, and I had done such an outstanding job of documenting the requirements and design that I had no need to bother my customers with any pesky questions. I was learning to use a new development language for the project, and all of this kept me quite busy and contented, doing programming and unit testing on one program after another, all according to the schedule we had established. 
+
+Finally, the day came when every last program had been written, every unit test had been performed, and all was as it should be. I called my customer to let them know they could begin acceptance testing the following week, just as we had scheduled those many months ago. 
+
+"Oh," they said. "The new Installment Loan system?" Pregnant pause. "I guess we forgot to tell you." Hesitation. "Market conditions changed a month or two ago." *And you are telling me this because...?* "We're not interested in installment loans anymore.  Sorry." Click. 
+
+And so I learned the hard way that it is important to keep in touch with your customer... even when you don't have any questions... even when you don't know of any issues... even when you're not quite sure what to tell them... and even when you feel like you are drowning in other work. 
+
+And then there was this other time.... 
+
+Oh, wait a minute. 
+
+That's all for now. Gotta run. 
+
+It's time for my weekly meeting with my customer. 
+
+

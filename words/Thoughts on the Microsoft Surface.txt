@@ -1,0 +1,26 @@
+Title:  Thoughts on the Microsoft Surface
+
+Date:   Mon Dec 3, 2012
+
+Status: 9 - Closed
+
+Tags:   Apple, Microsoft, PaganTuna, Software
+
+Teaser: 
+ 
+<p>Microsoft aficionados have been claiming that the new Surface &#8220;has all the convenience of a tablet plus the benefits of a PC.&#8221; It occurred to me this morning that this would be a bit like Schwinn and GM announcing a partnership to produce a vehicle that has &#8220;all the convenience of a bicycle plus the benefits of an automobile &#8212;  just snap on the other two wheels and you can get some real driving done!&#8221; </p><br><br><p>The question, in both cases, is whether the engineering appropriate for one device will serve the needs of the other....  </p>
+
+
+Body:   
+ 
+Microsoft aficionados have been claiming that the new Surface "has all the convenience of a tablet plus the benefits of a PC." It occurred to me this morning that this would be a bit like Schwinn and GM announcing a partnership to produce a vehicle that has "all the convenience of a bicycle plus the benefits of an automobile -- just snap on the other two wheels and you can get some real driving done!" 
+
+The question, in both cases, is whether the engineering appropriate for one device will serve the needs of the other. In my contrived example, the answer, rather obviously, is no -- the wheels and frame appropriate for a bicycle would be too light to serve the needs of an auto, and the frame and engine and steering mechanism of a car would be too heavy to serve the needs of a bike. But this is obvious to us only because of the physicality of the engineering involved -- we can easily picture examples of the two types of vehicles, and the idea that their parts could work together is immediately ludicrous. 
+
+In the case of tablets and laptops, the physical engineering is not so different, and appears to be getting closer all the time. But the harder question is whether the software for one is appropriate to the other, and it is here that our inability to visualize the engineering involved makes the idea seem feasible. Yes, we are tempted to think, why not?
+
+Apple has made a clean break between the two types of devices, opting for lighter, albeit still powerful, software to run on its tablets. Microsoft though, always eager to be different, and to drag along the twin boat anchors of Windows and Office everywhere it goes, is urging their fans to have their cake and eat it too. 
+
+How will this work out for Surface users? Time will tell, but there is always a price to be paid for every design decision, and this morning I'm guessing that the weight of all that PC-scale software engineering will prove wearying in the long run, and that they would ultimately be happier keeping their bikes and autos separate.  
+
+

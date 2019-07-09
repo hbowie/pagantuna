@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Agile Architecture | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Thoughts on Technology and Leadership from Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/agile.html' rel='tag'>Agile</a></p>
+		      <h1>Agile Architecture</h1>
+
+<p><img src="http://www.pagantuna.com/images/architecture.jpg" alt="Architecture"  title="Architecture" class="pic-right" /></p>
+
+<p>Many <a href="http://www.urbandictionary.com/define.php?term=Agilista">Agilistas</a> view any discussion of architecture as the first step down a slippery slope that, once taken, will inevitably lead a project into the fiery pit of waterfall.</p>
+
+<p>Let&#8217;s see if we can unpack this subject a bit, and possibly even reach agreement on a sensible way to do architecture on agile software development projects, especially large and complex ones.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<div id="toc">
+<ul>
+  <li>
+    <a href="#architecture-vs-design">Architecture vs. Design</a>
+  </li>
+  <li>
+    <a href="#architectural-areas">Architectural Areas</a>
+  </li>
+  <li>
+   <a href="#architectural-drivers">Architectural Drivers</a>
+  </li>
+  <li>
+    <a href="#consideration-of-alternatives-and-tradeoffs">Consideration of Alternatives and Trade-Offs</a>
+  </li>
+  <li>
+    <a href="#timing-of-architecture-and-design">Timing of Architecture and Design</a>
+  </li>
+  <li>
+    <a href="#architectural-runway-and-enabler-epics">Architectural Runway and Enabler Epics</a>
+  </li>
+  <li>
+    <a href="#a-project-roadmap">A Project Roadmap</a>
+  </li>
+  <li>
+    <a href="#architectural-deliverables">Architectural Deliverables</a>
+  </li>
+  <li>
+    <a href="#project-cadence">Project Cadence</a>
+  </li>
+  <li>
+    <a href="#design-reviews-and-gates">Design Reviews and Gates</a>
+  </li>
+  <li>
+    <a href="#what-about-detailed-design">What About Detailed Design?</a>
+  </li>
+  <li>
+    <a href="#what-about-emergent-learning">What About Emergent Learning?</a>
+  </li>
+  <li>
+    <a href="#who-does-architecture">Who Does Architecture?</a>
+  </li>
+</ul>
+
+</div>
+
+<p>First of all, what do we mean by architecture?</p>
+
+<p>There are at least two different points to be clarified here.</p>
+
+<h2 id="architecture-vs-design">Architecture vs. Design</h2>
+
+<p>The terms architecture and design have very similar definitions, so in many contexts they are used to denote the same thing, and are used interchangeably.</p>
+
+<p>If we are to try to make a distinction, though, then architecture usually refers to a more elevated level of design, expressed at a higher level of abstraction, and/or an earlier stage of design.</p>
+
+<p>More significantly perhaps, architecture may prescribe a series of patterns to be used on the project, with instantiation of those patterns constituting more detailed design work.</p>
+
+<p>In this sense, the overall solution architecture must be established before detailed design can occur, and the detailed design must work within, and be constrained by, the overall architecture.</p>
+
+<h2 id="architectural-areas">Architectural Areas</h2>
+
+<p>When we discuss the architecture of a system, there are at least five different (albeit related) areas that must be considered.</p>
+
+<ul>
+<li><p>Information: What are the major entities/objects/facets to be considered by the system, and how will each of these things be identified?</p></li>
+<li><p>Functional: What business functions will be performed, and how do they relate to each other, and to other functions that are out of scope?</p></li>
+<li><p>User Interface: How will the user navigate through the system, what will the system look like, and what sort of special controls or other UI elements may be needed?</p></li>
+<li><p>Technology/Infrastructure: What are the technologies to be used by the project, and what roles will those technologies play? On what infrastructure (both hardware and software) will the application run? What development tools will be used?</p></li>
+<li><p>Software: What software modules, or module types, will be written, and how will they relate to each other?</p></li>
+</ul>
+
+<p>If you are missing any one of these, then you don&#8217;t have a complete architecture.</p>
+
+<h2 id="architectural-drivers">Architectural Drivers</h2>
+
+<p>Architecture is driven primarily by four different items.</p>
+
+<ul>
+<li><p>Enterprise Architecture: The application architecture must work within Enterprise standards, principles and guidelines.</p></li>
+<li><p>Segment/Domain Architecture: Similarly, the application must respect the boundaries and guidance established for the particular domain that it occupies.</p></li>
+<li><p>Business/Functional Requirements: The application architecture will obviously be strongly influenced by the particular business functions the application must perform.</p></li>
+<li><p>Non-Functional Requirements (NFRs): These are often requirements that define desired quality attributes of the system to be developed.</p></li>
+</ul>
+
+<h2 id="consideration-of-alternatives-and-tradeoffs">Consideration of Alternatives and Trade-Offs</h2>
+
+<p>Whether you are using agile practices or a more traditional methodology, one hallmark of a worthwhile approach to architecture/design is the consideration of alternatives, and the evaluation of trade-offs between those alternatives.</p>
+
+<p>A common error is to assume certain architectural elements and so to adopt them without discussion, perhaps because developers on the team have used certain architectures before, and so bring them along with them to their next project.</p>
+
+<p>In this respect, it is helpful to keep in mind some <a href="http://www.forbes.com/2009/06/02/diversity-collaboration-teams-leadership-managing-creativity.html">research on diversity</a> indicating that more heterogenous teams often feel that they are struggling and floundering when compared to more homogenous ones, and yet actually perform better than their less diverse counterparts.</p>
+
+<h2 id="timing-of-architecture-and-design">Timing of Architecture and Design</h2>
+
+<p>In traditional software development, architecture and design are typically done and completed before coding starts, as part of the well known <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall approach</a>.</p>
+
+<p>Some agile enthusiasts advocate for the opposite approach, touting &#8220;<a href="http://www.agilesherpa.org/agile_coach/engineering_practices/emergent_design/">emergent design</a>,&#8221; and simply jump into coding with little or no architectural preparation. And while this may work for small efforts building on established architectures, it often falls short in larger efforts, and may lead to floundering and rework and poor designs that fail to stand up over time.</p>
+
+<p>A reasonable compromise is represented by the &#8220;JEDUF&#8221; approach: Just Enough Design Up Front. With this approach some major design decisions are made before coding, while still allowing for more detailed design to emerge during development, and with the understanding that some refactoring may occur, in order to optimize designs in the face of new discoveries that will arise along the way.</p>
+
+<p>On large projects/programs, however, the combination of some initial architecture, followed by emergent design during sprints, may still not be sufficient to provide for the right amount of architecture at the right time.</p>
+
+<h2 id="architectural-runway-and-enabler-epics">Architectural Runway and Enabler Epics</h2>
+
+<p>When decomposing the work to be done on a large agile project, it can be useful to start with a number of epics to be implemented, with each epic being broken down into a number of features, and each feature being broken down into stories.</p>
+
+<p>With this approach, it may be helpful to distinguish between Architectural epics and Business/Functional epics, with the former laying the foundation upon which the latter will be built.</p>
+
+<p>Another popular way to think about this is that the Architectural epics extend the runway far enough to allow the Business/Functional epics to proceed without disruption, with the architecture always being done just far enough in advance to prevent the business/functional work from running out of runway.</p>
+
+<p>The <a href="http://scaledagileframework.com/">Scaled Agile Framework</a> (SAFe) calls these architectural pieces of work &#8220;<a href="http://scaledagileframework.com/agile-architecture/">enablers</a>,&#8221; and that&#8217;s a good way to think about them: the enablers allow the next chunk of business/functional development to proceed.</p>
+
+<h2 id="a-project-roadmap">A Project Roadmap</h2>
+
+<p>Agile projects try to maximize flexibility by lumping all work to be done into a backlog, with the idea that items can be added, subtracted and reprioritized at will, without any unnecessary constraints on content or sequence of execution.</p>
+
+<p>While this sort of flexibility is admirable, by the time you are building a high level backlog out of both enabler and business epics, your are certainly beginning to run into some dependencies that will suggest some sequence to the work to be done.</p>
+
+<p>At this point, it is probably best to begin to represent the epics to be worked &#8212; both enablers and business epics &#8212; in a roadmap of some kind, and not simply as a backlog.</p>
+
+<p>The roadmap should still be subject to change &#8212; it shouldn&#8217;t be cast in stone &#8212; but it is important to understand when various pieces of runway will need to be extended, and what other work will need that runway in order to proceed.</p>
+
+<h2 id="architectural-deliverables">Architectural Deliverables</h2>
+
+<p>Agile practitioners are sometimes a bit vague about what is actually produced out of architectural work, and so it is worthwhile to be explicit about what deliverables will be produced by enabler epics. These deliverables essentially fall into three categories.</p>
+
+<ul>
+<li><p>Reference designs, including patterns, to be used by subsequent business/functional development.</p></li>
+<li><p>Hardware and software components (infrastructure and/or reusable application components) needed to enable later business/functional work. These are not just designs, but actual bits of hardware and software that can be used by the application.</p></li>
+<li><p>Proofs of concept that demonstrate the feasibility of the design work done, and the readiness to proceed with subsequent business/functional development.</p></li>
+</ul>
+
+<h2 id="project-cadence">Project Cadence</h2>
+
+<p>A foundational element of all agile development is the regular cadence of the work being done. Teams work in short sprints (aka iterations) of 1 - 4 weeks. More substantial projects may group multiple team sprints into larger chunks of work, such as the &#8220;<a href="http://scaledagileframework.com/program-increment/">Program Increments</a>&#8221; (or PIs) defined by SAFe. The work to be done is then subdivided into pieces small enough that they can be worked reliably within this regular cadence, rather than adjusting start and stop dates to fit the size of the work.</p>
+
+<p>But how do we fit architectural work into such a cadence?</p>
+
+<p>If any accommodation for this work is made at all, it is sometimes done by allowing for some fixed amount of architecture work to be done at the start of each iteration, or each program increment, or at the end of each, in preparation for the next.</p>
+
+<p>There are two problems with this sort of cadenced approach to architecture:</p>
+
+<ul>
+<li><p>The need for architectural work does not occur at such regular intervals;</p></li>
+<li><p>The length of time needed for each piece of architecture can vary considerably, and so cannot be reliably squeezed into a fixed amount of time for each increment.</p></li>
+</ul>
+
+<p>A better approach is to allow the work planned for each iteration/increment to consist of some combination of architectural enablers and business/functional development, with the amount of architectural work and its timing determined based on the project roadmap being followed.</p>
+
+<p>An enabler epic, then, could be started at any point in the project, and could complete after one, two or three or more iterations/increments &#8212; as many as are needed to complete the work.</p>
+
+<p>These intermittent injections of architectural work into the team&#8217;s regular cadence are sometimes referred to as &#8220;spikes,&#8221; a term that reflects the uneven distribution of this work over the course of the project.</p>
+
+<p>With such an approach, once the pump is primed with the initial architecture, enabler work and business development will proceed in parallel, with the enabler work timed to keep the runway built in advance of the proceeding business work.</p>
+
+<h2 id="design-reviews-and-gates">Design Reviews and Gates</h2>
+
+<p>If you are working in an environment where design reviews and perhaps even firm gates are required, then the natural place for these to occur is at the end of each architecture/enabler epic. These can be planned in advance based on the project roadmap, and the deliverables specified above can be inspected as part of these reviews.</p>
+
+<h2 id="what-about-detailed-design">What About Detailed Design?</h2>
+
+<p>The detailed functional design of particular screens, reports and interfaces can be done as part of the normal development work done within each iteration/increment, so long as this work is based on the more general architectural work already performed.</p>
+
+<h2 id="what-about-emergent-learning">What About Emergent Learning?</h2>
+
+<p>The guidance provided above is intended to help large and complex projects navigate their ways through some of the difficulties often encountered when doing architectural work.</p>
+
+<p>But the desire to rigidly follow an established architecture must always be weighed against the potential benefits of adapting to take advantage of new learnings that emerge doing the development work.</p>
+
+<p>It is always good to design before you build, but software development is a complex business, and there is no guarantee you will get everything right before you start building.</p>
+
+<h2 id="who-does-architecture">Who Does Architecture?</h2>
+
+<p>In a large enterprise, you will often have several layers of architects.</p>
+
+<p>Enterprise architects sit at the top of the pyramid, helping to guide and govern development work across the entire scope of the business, and establishing principles and standards to be followed by projects.</p>
+
+<p>At the next layer, you may have domain/segment architects, who try to understand a particular segment of the business, and work out the relationships between the various data stores and applications serving that domain.</p>
+
+<p>Application architects, then, will be responsible for the architecture of particular applications, and it is this work that has been the focus of our discussion today.</p>
+
+<p>Within agile, the explicit role of an architect is often omitted, giving way to the egalitarian desire to let all developers participate equally in design work. And while it is generally good to foster creativity throughout the team, and to empower developers to contribute to design work, the truth is that in most successful agile projects you will find a lead developer who ends up guiding and shaping most of the architecture/design for the application. You can call him or her what you will, but once you set out to be more intentional about the way architecture/design work is performed on an agile project, you will also need to be a bit more explicit about the roles involved as well.</p>
+
+          <p class="pub-date">February 1, 2016</p>
+<p class="next">Next: <a href="a-new-model-for-lean-culture.html">A New Model for Lean Culture</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

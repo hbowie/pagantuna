@@ -1,0 +1,48 @@
+Title:  What does it mean to be World Class IT
+
+Date:   Fri May 21, 2010
+
+Status: 9 - Closed
+
+Tags:   PaganTuna, Technology
+
+Teaser: 
+ 
+<p>Someone recently asked me the question, &#8220;What does it mean for us to be a &#8216;World Class IT&#8217; organization?&#8221; and I thought it might be worthwhile to share my thoughts on this with others as well. </p><br><br><p>First of all, in my experience, this phrase is often used more as a carrot to motivate organizations than a meaningful description of any sort of specific end state. In particular, its appearance may be a signal that someone thinks an IT organization has become too inwardly focused and complacent about the way they do business, and use of this expression may be a way to get them to consider what&#8217;s going on in the rest of the industry and to think about constructive ways they could improve.</p><br><br><p>That being said, in order to be &#8220;World Class IT,&#8221; I think you have to be effectively doing a delicate balancing act between all of the following, usually opposing, forces:</p>
+
+
+Body:   
+ 
+Someone recently asked me the question, "What does it mean for us to be a 'World Class IT' organization?" and I thought it might be worthwhile to share my thoughts on this with others as well. 
+
+First of all, in my experience, this phrase is often used more as a carrot to motivate organizations than a meaningful description of any sort of specific end state. In particular, its appearance may be a signal that someone thinks an IT organization has become too inwardly focused and complacent about the way they do business, and use of this expression may be a way to get them to consider what's going on in the rest of the industry and to think about constructive ways they could improve.
+
+That being said, in order to be "World Class IT," I think you have to be effectively doing a delicate balancing act between all of the following, usually opposing, forces:
+
+1. A desire from the business for new and innovative technical solutions vs. a desire to hold overall IT spending to reasonable levels;
+
+2. A desire to minimize the chances of some sort of catastrophic technology/security/compliance failure vs. a desire to focus investments on projects that can help increase revenues and productivity;
+
+3. A desire to be on the "leading edge" of the IT industry vs. a desire to avoid the "bleeding edge";
+
+4. A desire to be innovative vs. a desire to seek the safety of the herd;
+
+5. A desire to maintain in-house expertise vs. a desire to source work appropriately in order to achieve greater efficiencies;
+
+6. A desire to effectively prune and maintain your application portfolio vs. a desire to rapidly implement new and innovative functionality;
+
+7. A desire to optimize business processes and applications for specific business segments and functions, vs. a desire to use less expensive, more generic, "off-the-shelf" solutions;
+
+8. A desire to use robust, repeatable, stable IT processes vs. a desire to be nimble, adaptive and customer-focused;
+
+9. A desire to be business focused vs. a desire to pursue technical excellence;
+
+10. A desire to be open and transparent with the business vs. a desire to shield customers from at least some of the complexities of the IT problem space;
+
+11. Rigorous integrity in using objective data, metrics and benchmarks to validate your success vs. a willingness to do what seems right before you have all the evidence to prove you're on the best course; 
+
+12. Being open to the opinions of consultants, industry experts and vendors vs. a healthy skepticism of the latest snake oil that's being peddled on the street. 
+
+One might argue that, for some specific situation, there is at least theoretically some perfect "sweet spot" where you are achieving the appropriate balance between all these, and call that "world class IT." But that is a very tenuous, fragile, delicate balance between constantly shifting forces, and so, rather than it being some place you finally arrive at, "World Class IT" is a constant rebalancing act with occasional positive feedback that are getting it right more often than not. 
+
+

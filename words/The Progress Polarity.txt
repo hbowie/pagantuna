@@ -1,0 +1,81 @@
+Title:  The Progress Polarity
+
+Date:   Mon May 11, 2009
+
+Status: 9 - Closed
+
+Tags:   Improvement, PaganTuna
+
+Teaser: 
+ 
+<p>Every once in a while, an idea crosses my path at the right time and gets fixed in my brain as part of my general Thinking Toolkit.</p><br><br><p>I experienced one of these events a few years back during a leadership class I was attending. The course contained a module on Polarity Management(R), and this struck me as such an eminently useful concept that it has stayed with me ever since. The basic concepts came from the book <cite>Polarity Management</cite>  by Barry Johnson.</p>
+
+
+Body:   
+ 
+Every once in a while, an idea crosses my path at the right time and gets fixed in my brain as part of my general Thinking Toolkit.
+
+I experienced one of these events a few years back during a leadership class I was attending. The course contained a module on [Polarity Management](http://www.polaritypartnerships.com)(R), and this struck me as such an eminently useful concept that it has stayed with me ever since. The basic concepts came from the book <cite>[Polarity Management](http://www.amazon.com/gp/product/0874251761?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0874251761)</cite>  by Barry Johnson.
+
+In the context of this discussion, a polarity is most simply defined as a complex problem that has no solution. It might also be stated as an either/or question that has no single right answer. A more complete definition might be "A set of two opposing or contradictory extremes permitting wide variation along a spectrum of choices, with both opposing poles offering advantages and disadvantages."
+
+Let me give you an example.
+
+## Should society favor individual freedom or adherence to social norms?
+
+Hmmm.... While some talk-show hosts might give you the impression that the right answer is "individual freedom," most of us can agree that we need to strike some sort of balance between the two, and that either extreme would be suboptimal. We are tempted to say that the right answer is "both" but, since they are opposing extremes, you can't really have both: the more you have of one, the less you have of the other.
+
+With this sort of situation, it is important to realize that there is no single right answer. Instead, the best approach is to strike some sort of balance between the two poles, with the optimal balance point depending on the details of the particular situation you are in. With the polarity above, for example, both a prison and a university would require you to find an optimal balance point, but the exact location of that point would probably be different for each type of institution.
+
+I find this concept helpful because it seems that many of the challenges we face when doing software engineering process improvement are these sorts of polarity issues.
+
+One such polarity might be stated as follows:
+
+## Should our organizational processes remain stable or should they change?
+
+We can see that both extremes have their advantages and disadvantages.
+
+### Advantages of Stability
+
+1. Increased likelihood of practitioner knowledge and understanding
+2. Less work required to stay current with latest version of process
+3. Emphasizes importance of fundamental process elements
+
+### Disadvantages of Stability
+
+1. Can lead to stagnation 
+2. Inability to make any improvements 
+3. Process more likely to be treated as a figurehead that is paid lip service but not actually followed
+
+### Advantages of Change
+
+1. Ability to make process easier to use 
+2. Ability to increase effectiveness of process 
+3. Ability to respond to evolving business priorities 
+4. Ability to leverage industry knowledge and best practices as they become available
+
+### Disadvantages of Change
+
+1. Can lead to sense of chaos, disorientation 
+2. Can generate confusion, lack of understanding of latest process 
+3. Practitioners may feel overwhelmed trying to keep up with the changes
+
+[Alfred North Whitehead](http://en.wikiquote.org/wiki/Alfred_North_Whitehead) expressed this polarity neatly with the following observation:
+
+> "The art of progress is to preserve order amid change, and to preserve change amid order."
+
+[Sydney Harris](http://en.wikiquote.org/wiki/Sydney_J._Harris) put it this way:
+
+> "Our dilemma is that we hate change and love it at the same time; what we really want is for things to remain the same but get better."
+
+As purveyors of an organizational process, we frequently hear arguments from both sides. "Stop," we hear, "there is too much change!" But then, from others, we hear "You mean you haven't fixed that yet? What do you mean, we have to wait for the next release?"
+
+For many years now, we have stuck with the following pace:
+
+* Significant changes gathered together into major releases, published at the end of each calendar quarter. 
+
+* Minor defect correction and cosmetic/clarifying changes done whenever they are ready.
+
+We recognize that this is not a perfect solution -- not the "right" answer to this complex problem. On balance, though, it seems to be the pace that strikes the best balance for our community, that gets us closest to that ideal of preserving order amid change, and change amid order.
+
+

@@ -1,0 +1,59 @@
+Title:  To COTS or Not That is the Question
+
+Date:   Wed May 13, 2009
+
+Status: 9 - Closed
+
+Tags:   PaganTuna, Software, Software Development, Technology
+
+Teaser: 
+ 
+<p>When I talk to IT software developers, one of the areas of controversy that comes up frequently is the use of purchased applications packages. </p><br><br><p>Too often we in IT seem to be lured by the promise of off-the-shelf functionality whose development costs will be spread over a large customer base, yet end up with purchased software that we then have to modify or extend to fit our special requirements, ensuring that we end up with the worst of both worlds.</p>
+
+
+Body:   
+ 
+When I talk to IT software developers, one of the areas of controversy that comes up frequently is the use of purchased applications packages. 
+
+Too often we in IT seem to be lured by the promise of off-the-shelf functionality whose development costs will be spread over a large customer base, yet end up with purchased software that we then have to modify or extend to fit our special requirements, ensuring that we end up with the worst of both worlds.
+
+Having been involved in this debate for a decade or two, I've noticed certain recurring issues that seem to frequently get little or no attention, so I thought it might be worth discussing them here. 
+
+Here are some of the key questions that I think need to be considered.
+
+**1. Can system requirements be based on some set of rules that are generally accepted by industry?**
+
+As an example, a computer-aided design (CAD) system is based on certain rules of geometry -- pretty hard for a user to insist that these need to be customized! Similarly, an application like [TurboTax][0] is based on a particular country's tax code -- which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a [Materials Requirements Planning][1] (MRP) system, which can rely on standard practices defined by the [APICS][2] organization.
+
+In my experience, COTS packages that are largely based on standard sets of rules such as these are frequently well accepted by users and developers, while others with more variable or controversial requirements are not. 
+
+**2. How hard would it be to develop the system internally?**
+
+If the system that is needed is relatively simple, without any significant technical challenges, then a COTS solution is often expensive overkill. 
+
+Notice that the answer to this question may well change over time, as new technical capabilities become more generally available through various layers of infrastructure software. 
+
+**3. Can the business benefit from a rapid response to requests for functional enhancements?**
+
+Cycle times for changes to COTS software -- measured from concept to cash, from original idea to working software in the hands of users -- can often be an order of magnitude longer than for internally developed systems. 
+
+**4. Will the internal integration requirements be so complex that upgrades to future releases of the application will be virtually impossible?**
+
+Customers often optimistically expect to be able to benefit from future releases of an application, but in practice, the web of connections to other applications becomes so complex over time that the costs of implementing a new release often outweigh the benefits. And even when these connections start out being well managed by IT, interfaces with user-developed software and data stores often overwhelm the best laid IT architecture. 
+
+**5. Is there a viable business model for an [independent software vendor][3] (ISV) to produce the desired system over the long haul?**
+
+Companies routinely assess the financial stability of potential suppliers, but often fail to question the long-term viability of a vendor's business model. What matters is not how many customers and how much cash in the bank they have today, but how they will maintain those numbers over time. As a notorious example, suppliers that market software specifically designed for government contractors tend to go belly-up with disturbing regularity. 
+
+**6. Will a unique, internally developed system provide us with some lasting advantage over our competitors?**
+
+The alternative would be that we only need a system that is as good as similar systems used by our competitors. If our goal is only parity, then an internally developed system might actually be wasteful, since we may spend time dreaming up unique requirements that add cost but no useful business differentiation. 
+
+Well, there you have it. Answer these six questions honestly and thoughtfully and, I would argue, 90% of the time you can make the right make-or-buy decision without ever evaluating a single package. 
+
+[0]: http://www.turbotax.com
+[1]: http://en.wikipedia.org/wiki/Material_requirements_planning
+[2]: http://www.apics.org
+[3]: http://en.wikipedia.org/wiki/Independent_software_vendor
+
+

@@ -1,0 +1,10 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	file		#PATH#../../../Dropbox/Text/Words/twodue_split.tab
+filter	add	equals	status	9
+filter	set		params	
+sort	add	Ascending	tags	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	file		#PATH#../factory/posts/tags/index_by_tag_template.html
+template	generate			

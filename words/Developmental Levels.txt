@@ -1,0 +1,142 @@
+Title:  Developmental Levels
+
+Date:   Thu Oct 22, 2009
+
+Status: 9 - Closed
+
+Tags:   Culture, Humanity, PaganTuna, Philosophy, Practopian
+
+Teaser: 
+ 
+<p>A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. Ken Wilber was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken&#8217;s take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan. </p><br><br><p>The following reference table lists the levels in this general, unifying model, showing the color schemes used by both Integral Theory and Spiral Dynamics. </p>
+
+Body:   
+ 
+I was first introduced to the idea of developmental levels by Ken Wilber, in his book <cite>[A Brief History of Everything][bhoe]</cite>. I've also come across the concept in the book <cite>[Spiral Dynamics: Mastering Values, Leadership and Change][sd]</cite>, by Clare W. Graves, Don Beck and Chris Cowan. As with the Four Quadrants Model, which I discussed in my [last post][4Q], I've found the concept of developmental levels to be tremendously useful, and so wanted to share a brief introductory overview with others. 
+
+These levels represent developments in human culture, as well as stages of development within individuals. Individuals cannot develop to a stage that is not yet present in their surrounding culture; on the other hand, having a culture that has developed to a certain level does not guarantee that all individuals developing within that culture will continue to the same level. It is possible for individuals to stop development at a certain level, or perhaps to favor a certain level over others. 
+
+Each successive level should be understood, not as a replacement for preceding levels, but as a complement to them. Later levels are not inherently better than "lower" levels (one reason why colors instead of numbers are often used to represent the levels), but it is better to have higher levels available, both for a culture and for an individual.
+
+One attribute of the levels is that they build on one another. It is not possible to completely skip one level and proceed to a later one. 
+
+Note that, from a cultural perspective, we can be referring to a level as it applies to a society within a certain geopolitical boundary, or to a culture as it exists within an organization, such as a corporation. 
+
+With these introductory concepts in place, let's now look at the levels. 
+
+1. Archaic / Instinctual
+
+An individual operating at this level is focused exclusively on immediate survival needs, and very physical pain / pleasure responses. 
+
+Nothing wrong with this level; we all have such survival instincts, and primitive senses of pain and pleasure; on the other hand, this level doesn't get us very far. 
+
+Newborn children are good examples of this level, as are the occasional "wild child" examples of humans growing up without benefit of human company.  
+
+From a societal perspective, this is ground zero. Essentially no human culture exists at this level. In fact, there is nothing about this level that can be presumed to be exclusively human. 
+
+2. Magical / Animistic
+
+
+<td>Beginning to differentiate self from world, and elements of world from one another, and to intuit causal relationships, but no accurate understanding of these relationships; impulsive, possessing faith in magic and superheroes; tribal kinship bonds, ethnic tribes, ancestral stories, superstitious beliefs. </td>
+<td class="purple">Purple </td>
+<td class="magenta">Magenta </td> 
+
+<table>	
+  <caption align="top">
+    Developmental Levels
+	</caption>
+  <tr>
+    <th>#</th>
+    <th>Name</th>
+	<th>Characteristics</th>
+    <th>Spiral Dynamics Color</th>
+    <th>Integral Color</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>Archaic / Instinctual</td>
+    <td>Focused solely on immediate survival needs; minimal sense of self; behavior based on natural instincts and reflexes; concern only for physical self and physical environment; nothing that we would recognize as human society or culture. </td>
+    <td class="beige">Beige</td>
+    <td class="infrared">Infrared </td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>Magical / Animistic</td>
+    <td>Beginning to differentiate self from world, and elements of world from one another, and to intuit causal relationships, but no accurate understanding of these relationships; impulsive, possessing faith in magic and superheroes; tribal kinship bonds, ethnic tribes, ancestral stories, superstitious beliefs. </td>
+    <td class="purple">Purple </td>
+    <td class="magenta">Magenta </td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Tribal / Power Gods </td>
+    <td>Egocentric; asserting self for dominance, conquest and power; evident in feudal empires and criminal gangs; people organize themselves based on power hierarchies, with the most powerful individuals leading the weaker; might makes right. </td>
+    <td class="red">Red </td>
+    <td class="red">Red </td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Traditional / Mythic Order </td>
+    <td>People organize themselves around mythic, fundamentalist principles of truth, with groups requiring close conformity to their particular principles, but with no reliable way to make value judgments comparing one group's "truth" to another's; group membership now based on professed allegiance and obedience to shared principles, rather than on family ties or geography; fundamental principles held to be absolute and unvarying; belief in the law and in an authoritarian hierarchy from which the law is passed down.         </td>
+    <td class="blue">Blue </td>
+    <td class="amber">Amber </td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>Modern / Rational</td>
+    <td>Society advances based on use of the scientific method; quantitative methods are introduced that allow people to make objective decisions about what is true and what is false; truth is determined based on the testing of a variety of hypotheses, rather than reference to an absolute authority; oriented towards achievement of results.  </td>
+    <td class="orange">Orange </td>
+    <td class="orange">Orange </td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>Postmodern / Pluralistic</td>
+    <td>Relativistic; situational; accepting of fluid affiliations; acknowledges that there are multiple, valid ways of perceiving reality, and tries to accept all people and life forms by placing value on diversity; may be seen as a means of accommodating multiple tribes, gangs and mythic orders within a single, overarching social order; consensus-based decision-making.   </td>
+    <td class="green">Green </td>
+    <td class="green">Green </td>
+  </tr>
+  <tr>
+    <td>G</td>
+    <td>Integral / Systemic </td>
+    <td>Sees the importance of the earlier levels, and of the developmental model as a whole; while still acknowledging the value of diversity, also recognizes the validity of healthy value hierarchies. </td>
+    <td class="yellow">Yellow </td>
+    <td class="teal">Teal </td>
+  </tr>
+  <tr>
+    <td>H</td>
+    <td>Integral / Holistic </td>
+    <td>Sort of like the prior level but with a more holistic sense of the kosmos.  </td>
+    <td class="turquoise">Turquoise </td>
+    <td class="turquoise">Turquoise </td>
+  </tr>
+  <tr>
+    <td>I</td>
+    <td>Post-Integral </td>
+    <td>This is sort of a place-holder for higher levels, based on the belief that continued human evolution will continue to produce higher levels of consciousness.  </td>
+    <td class="coral">Coral </td>
+    <td class="indigo">Indigo </td>
+  </tr>
+</table>
+
+These developmental levels can be seen in the fields of psychology, sociology, economics and organizational development, among others. 
+
+I have found the basic concepts of these levels to be tremendously useful in terms of understanding any field of human interaction, including politics and organizational functioning, and so I present my own summaries of them here, described in the ways that I have found most useful. 
+
+Note that Spiral Dynamics originally associated the colors with the levels. Ken Wilber initially used the same colors but, at some point, decided that some divergence of color schemes was necessary. Colors are generally used to avoid the implication that "higher" levels are "better" than "lower" levels. While I respect this intention, I have also added numbers, simply for ease of reference. 
+
+It must be understood that boundaries between these levels may not be crisply defined, or may be defined in different ways, from different perspectives. It must also be understood that individuals and societies should not be thought of as occupying only one level: in general, they function at multiple levels. Higher levels also should not be thought of as superior to lower levels; on the other hand, the order of the levels is generally meant to convey the normal (or perhaps only) sequence of development, so one generally has to go through a lower level before reaching a higher level.  
+
+Note also that what I am referring to as levels 1 - 6 are sometimes referred to as "first tier", while higher levels are "second tier" or "third tier". It seems to me that gradations of levels beyond 6 are sometimes based more on wishful thinking than on actual observation of human social behavior, so I am not entirely convinced that distinctions between levels above first tier are meaningful: of course, proponents of these higher levels would probably insist that my position is based on me being "stuck" at a lower level. I will leave it to the reader to make these sorts of judgments.
+
+[4Q]: http://www.pagantuna.com/posts/the-four-quadrants-of-human-knowledge.html
+
+[altitude]: http://holons-news.com/altitudes.html
+
+[bhoe]: http://www.amazon.com/Brief-History-Everything-Ken-Wilber/dp/1570627401/ref=sr_1_3?s=books&ie=UTF8&qid=1351079735&sr=1-3&keywords=ken+wilber
+
+[sd]: http://www.amazon.com/Spiral-Dynamics-Mastering-Values-Leadership/dp/1405133562
+
+[spiraldynamics]: http://en.wikipedia.org/wiki/Spiral_Dynamics
+
+[wilber]:  ../wisdom/authors/ken-wilber.html
+
+

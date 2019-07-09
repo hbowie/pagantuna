@@ -1,0 +1,78 @@
+Title:  Process QA
+
+Date:   Sun Jan 17, 2010
+
+Status: 9 - Closed
+
+Tags:   CMMI, Improvement, PaganTuna
+
+Teaser: 
+ 
+<p>Process Quality Assurance seems to be one of the most often misunderstood elements of the CMMI. </p>
+
+
+Body:   
+ 
+Process Quality Assurance seems to be one of the most often misunderstood elements of the [CMMI][]. 
+
+I think there a number of strictly semantic reasons for this widespread lack of understanding. 
+
+* The software industry's terminology works against us, since most software development professionals equate quality assurance with testing (part of what the CMMI would categorize as "product QA"). 
+
+* Industry at large uses a number of different terms to describe roughly similar practices: process surveillance, process monitoring, process audits, process quality assurance, quality gates, etc. 
+
+* The CMM community itself has changed its language over the years. In <cite>Managing the Software Process,</cite> and the original CMM, the term "Software Quality Assurance" is used to include process QA, but in the CMMI the phrase becomes "Process and Product Quality Assurance." 
+
+* In many QA discussions that talk about more than just testing, the meanings of "[Quality][]" and "[Quality Assurance][qa]" become so [broad and amorphous as to appear almost mystical to the uninitiated][what-is-quality]. 
+
+And then, of course, there is the whole stigma about audits and auditors, which somehow manages to suggest all the worst aspects of Stalinist Russia, without any of the [corresponding benefits][stalin-benefits]. 
+
+This situation is unfortunate, because all of my experience indicates that -- whatever we call it -- some sort of independent audit of project teams to ensure process discipline -- when done well -- is almost always of significant benefit to an organization. 
+
+In order to understand what kind of value this sort of process QA can deliver, it may help to ask ourselves the following questions.
+
+1. **Do the actions of our project teams have both short- and long-term consequences of some significance?**
+
+	The issue here, of course, is that it is human nature to pay more attention to short-term consequences than long-term ones. The fact that the cookie tastes good today sways us more than the fact that it will add to our growing waistline tomorrow. And the chain of causality linking our actions today to long-term consequences often seems murky, further decreasing the likelihood that we will take the necessary actions today to achieve our desired ends. 
+
+	Interestingly, much of the benefit of Agile arguably comes from moving many of these consequences from the long-term to the short-term: continuous integration, for example, means that the build is broken today, not at some far distant point in the future when integration happens. 
+
+	Some would probably argue that Agile effectively moves *all* significant consequences into the short term, but I don't believe this to be the case. Some attributes of software -- scalability, reliability, the ability to adequately protect sensitive information, compliance with organizational architecture standards, some aspects of usability, and others -- tend not to be as immediately apparent as other attributes, no matter how many agile practices you implement.
+
+2. **Are project teams under significant pressure to maximize short-term consequences -- to meet their delivery dates, to come in under budget, to squeeze a few extra features into the next release, to increase their productivity/velocity, etc.?**
+
+	If so, then of course they will tend to sacrifice long-term consequences for the sake of the short-term ones. (And I've never seen a development team that wasn't under this sort of pressure.)
+
+3. **Is there some relatively simple way to ensure that teams have not skipped any process steps that might be important to achieve the desired long-term consequences?**
+
+	Of course, this is not always the case. In some cases, finding out whether a team has done the "right" thing may be exceedingly difficult, and require lots of expert scrutiny. 
+
+	But the question is not whether *everything* is amenable to correction through such process surveillance, but whether *anything* is. Because if anything is, then process QA can pay big benefits. 
+
+	And the fact is that just asking people whether they have done something, or asking them to fill out a form attesting that they have done something, or asking for evidence that they have done something, often has an almost magical ability to influence behavior. Because, as much as we hate to admit it, **if management does not invest the time and effort to perform such oversight, the implicit message is that they don't really want people to take the time to do these things.** This impression is not the result of some vast conspiracy, or a colossal misunderstanding of management's true intentions. It is simply the case that *all the very real pressures to maximize short-term benefits will inevitably influence practitioners to reduce long-term benefits, unless there is some effective counterweight in the form of process QA.*  
+
+I think that the logic of the argument above, accompanied by any sort of understanding of human behavior, will inevitably lead an organization to implement some form of process QA. But now we have further evidence. Much of what I'm saying here is confirmed by a fascinating new book by Atul Gawande called <cite>[The Checklist Manifesto: How to Get Things Right][checklist-manifesto]</cite>. (A [recent interview][npr-gawande] with Gawande on the subject of his new book is available from NPR.) Gawande is a surgeon, and his book is based on data from doctors and hospitals, but it turns out that surgeons are a lot like software developers: highly trained, highly experienced, and performing highly complex work in which no two problems turn out to be exactly alike. 
+
+When asked to consider the use of simple checklists, Gawande reports that most surgeons felt that such things were beneath them, constituted meaningless paperwork, and were a waste of time. 
+
+When they actually used them, though, amazing things happened. In one study, a hospital implemented a simple checklist to perform a series of steps to reduce the chances of patients becoming infected by insertion of central lines to supply intravenous fluids. None of the individual steps were remarkable, and all the surgeons were already familiar with all of the steps. Nonetheless, when the checklist was used consistently over a two-year period -- and when nurses were given the authority to stop doctors if they observed them to be skipping any of the steps -- the hospital calculated that, as a direct result, *use of the checklists had prevented forty-three infections and eight deaths and saved two million dollars*. 
+
+So it turns out that [Watts Humphrey][watts] summarized the situation pretty well back in 1989, in <cite>Managing the Software Process</cite>:
+
+> It is hard for anyone to be objective about auditors. We generally do our own jobs pretty carefully and resent any contrary implication. The need for "outside" review, however, is a matter of perspective. Suppose you had just packed a parachute and were about to take a jump. The odds are you would be happy to have a qualified inspector monitor your every step to make sure you did it just right. When quality is vital, some independent checks are necessary, not because people are untrustworthy but because they are human. The issues with software are not whether checks are needed, but who does them and how.
+
+Gawande's book confirms Humphrey's analysis. Before running his tests, most surgeons thought the checklists were a waste of time. After having a chance to use them and see the results, 80% of the doctors thought they were something they wanted to continue to use. The other 20%, though, remained strongly against it. 
+
+But then they asked one more question. "If you were to have an operation, would you want the checklist?" Ninety-four percent answered in the affirmative.
+
+
+[cmmi]: http://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+[stalin-benefits]: http://www.associatedcontent.com/article/1398771/benefits_of_stalins_rule.html
+[quality]: http://en.wikipedia.org/wiki/Quality_(business)
+[qa]: http://en.wikipedia.org/wiki/Quality_assurance
+[what-is-quality]: http://syque.com/articles/what_is_quality/what_is_quality_1.htm
+[checklist-manifesto]: http://www.amazon.com/gp/product/0805091742?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0805091742
+[npr-gawande]: http://www.npr.org/templates/story/story.php?storyId=122226184
+[watts]: http://en.wikipedia.org/wiki/Watts_Humphrey
+
+

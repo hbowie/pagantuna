@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Templates -- The Devil's Spawn or the One True Path | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Often irreverent, and sometimes slightly fishy, ramblings by Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent, and sometimes slightly fishy, ramblings by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/documentation.html' rel='tag'>Documentation</a></p>
+		      <h1>Templates &#8212; The Devil&#8217;s Spawn or the One True Path</h1>
+
+﻿<p>It is hard to talk about documentation without addressing the subject of templates: some set of skeleton documents that you can use as a starting point for the Great American Specification that you will be writing as part of your next project. </p>
+
+<p>No writer likes the shock of seeing a completely blank page in front of them, so it would seem that templates would be universally acknowledged as a good thing. However, templates have been taking a lot of heat lately from a number of different quarters. </p>
+
+<p>Here&#8217;s a few words from <a href="http://www.joelonsoftware.com/">Joel Spolsky</a> on the subject, from his 2004 opus, <cite><a href="http://www.amazon.com/gp/product/B001TKN2MI/ref=as_li_ss_tl?ie=UTF8&amp;tag=reasontorock-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001TKN2MI">Joel On Software</a></cite>:</p>
+
+<blockquote>
+  <p>Avoid the temptation to make a standard template for specs. &#8230;if you have templates, what tends to happen is that you add a bunch of sections to the template for things that you think are important for every feature. As these sections accumulate, the template gets pretty large. The trouble with such a large template is that it scares people away from writing specs because it looks like such a daunting task. </p>
+
+<p>A spec is a document that you want people to read. In that way, it is no different than an essay in <cite><a href="http://www.newyorker.com">The New Yorker</a></cite> or a college paper. Have you ever heard of a professor passing out templates for students to write their college papers? Have you ever read two good essays that could be fit into a template? Just drop the idea. </p>
+</blockquote>
+
+<p>Author <a href="http://www.systemsguild.com/tdm.htm">Tom DeMarco</a> and company even went so far as to excoriate template users in the title of their 2008 book <cite><a href="http://www.amazon.com/gp/product/0932633676/ref=as_li_ss_tl?ie=UTF8&amp;tag=reasontorock-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0932633676">Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior</a></cite>, elaborating in their text that: </p>
+
+<blockquote>
+  <p>When you find a project team that is focused on producing a standard document rather than on considering the content of that document, then you are in the land of the template zombies. </p>
+
+<p>In the land of the template zombies, form takes precedence. It is not necessary to think about the content of the document. It is not really necessary to think at all. The important thing is to have something&#8212;anything&#8212;under each of the prescribed headings. Not surprisingly, template zombies are adept in the art of cutting and pasting and ignoring anything that does not fit the dictates of the template. </p>
+</blockquote>
+
+<p>Now, in a research paper just published on March 20 of 2009, <a href="http://www.forrester.com/">Forrester</a> is jumping on the bandwagon, provocatively asking the question, &#8220;Are Your Project Teams Living in &#8216;Template Hell?&#8217;&#8221; Their paper, primarily authored by Mary Gerush, goes on to say that templates can be useful, but cautions readers to keep the following points in mind:</p>
+
+<blockquote>
+  <ul>
+<li>Factor in your consumers&#8217; preferences, as different audiences have different needs.</li>
+<li>Remember that diverse project types benefit from flexibility in required deliverables.  </li>
+<li>Be consistent where it makes sense, but value flexibility over rigor.</li>
+<li>Keep it simple: value quality over quantity and simplicity over comprehensiveness. </li>
+<li>Improve your templates over time. </li>
+</ul>
+</blockquote>
+
+<p>In my own personal experience, some of the completed templates I have read over the years have caused me to suspect that their authors must have taken career advice similar to that offered to Mike in the 1936 mystery by <a href="http://en.wikipedia.org/wiki/J._I._M._Stewart">Michael Innes</a>, <cite><a href="http://www.amazon.com/gp/product/1842327321/ref=as_li_ss_tl?ie=UTF8&amp;tag=reasontorock-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1842327321">Death at the President&#8217;s Lodging</a></cite>:</p>
+
+<blockquote>
+  <p>&#8220;And your remarks on the text,&#8221; Mr. Gott declared, &#8220;are merely a muddle.&#8221;</p>
+
+<p>&#8220;Yes, Gott,&#8221; said Mike meekly.</p>
+
+<p>&#8220;You must just keep to the cackle and write nicely. You write very nicely.&#8221;</p>
+
+<p>&#8220;Yes,&#8221; said Mike, dubiously.</p>
+
+<p>&#8220;Keep off thinking things out, and you&#8217;ll do well. In fact, you&#8217;ll go far.&#8221;</p>
+</blockquote>
+
+<p>My own personal advice is that it is often better start writing a document without any template, so that you can focus completely on the message: what is it that needs to be said, and how best to say it?</p>
+
+<p>Once you feel comfortable with your naked text sprawled out in front of you, then go ahead and dress it in the latest template fashion, using the skeleton format there to perhaps prompt you to think of some important areas that you neglected in your original draft. </p>
+
+<p>I suspect that you&#8217;re much more likely to end up with a document that someone will actually read if you address it in this fashion, rather than starting your composition as a fill-in-the-blanks exercise. </p>
+
+          <p class="pub-date">May 11, 2009</p>
+<p class="next">Next: <a href="the-progress-polarity.html">The Progress Polarity</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2013 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

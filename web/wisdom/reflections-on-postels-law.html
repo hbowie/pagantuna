@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Reflections on Postel's Law | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff_wisdom.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portable Wisdom Quotations from Pagan Tuna">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="New Portable Wisdom Quotations from Pagan Tuna" href="http://www.pagantuna.com/wisdom/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+<!-- end bbinclude -->
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+
+          <div id="wisdom">
+            <h1>Reflections on Postel's Law</h1>
+            <blockquote>
+              [Jon Postel][postel] was an American computer scientist who helped to develop the basic [protocols][] on which the Internet is built. Among other accomplishments, he is remembered today for the formulation of a robustness principle, now often referred to as Postel's Law. > Be liberal in what you accept, and conservative in what you send. This was originally included as part of an early specification for the Transmission Control Protocol (TCP), and was stated in this way: > TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others. In other words, software code that sends commands or data to other programs should conform completely to the relevant specifications, but code that receives input should accept nonconforming input as long as the meaning is clear and the effects are benign. Note that, for a computer scientist, this principle is much more akin to an ethical admonition than a technical specification. That is, it does not state an absolute law or standard, but a general social code for software: be strict in your own behavior, but tolerant of harmless quirks in others. And, like most ethical principles, it is not universally accepted. Some have argued, for example, that being tolerant of minor failings is a slippery slope, and can allow problematic software to pass through implementation gates without correction, and then cause problems in the wild, when these problems may be much harder to identify and fix. In general, though, I think that the proposition and acceptance of Postel's law marks the passing of our computer systems from relatively small, well bounded, tightly controlled architectures to more sprawling, unbounded, and extensive systems. If a single architect can tightly control all elements of the architecture, and all instances of its implementation, then the need for Postel's law never arises. It is only when we enter the era of systems like the Internet and the World-Wide Web -- [small pieces loosely joined][pieces] -- that the value of Postel's law emerges. In systems like these, excessive fussiness can cause the entire network to become unreliable. Postel's law, as originally stated, was intended to apply to program-to-program communications. But what about communications between humans and software programs? It can be applied there as well. When a user interface asks for my phone number, and then rejects it because I've entered it without dashes -- or with, depending on the whims of the interface designer -- then I know I'm dealing with an intolerant interface. On the other hand, when my entry is happily accepted, however I punctuate it, and then reformatted for me to a convenient standard -- as happens when I enter such information into Apple's [Contacts][] app, for example -- I know I'm dealing with a human interface based on Postel's Law: *be liberal in what you accept, and conservative in what you send*. The evolution of the Hypertext Markup Language ([HTML][]) specification over the last decade or so can also be seen as an example of Postel's law at work. The original HTML language was designed to be written by humans, and early Web browsers were tolerant of minor irregularities in coding, so long as the intent of the author was clear. Upper-case tags? No problem. Lower-case tags? More, please. A paragraph tag without a matching closing tag before the next paragraph? Works for me. But then, along came eXtensible Markup Language ([XML][]). And (despite its use of the letter "X" as an abbreviation for "extensible") XML parsers were not at all tolerant of minor quirks in others. No. As a matter of fact, they were notoriously and intentionally fussy, making the office grammarian who insists on correcting others' usage of "who" and "whom" seem like a generous and indulgent soul by comparison. So when someone had the bright idea of staging a shotgun wedding between HTML and XML, giving birth to little XHTML, trouble eventually ensued. No more mixed case in tags. Oh no. We can't put up with that. No more starting tags without matching tags, unless such tags are carefully identified as self-closing. And so forth. Web authors put up with this for a while, but when the XML zealots started to get really fundamentalist on them about interpretation of the specifications, they finally rebelled, and the result was HTML5. And the most notable feature of this new language specification is that it requires no version declaration, because one of the rules of the new HTML is that it always and forever accepts all prior versions as legitimate: *be liberal in what you accept....* And what about communications between people? Are these too subject to Postel's law? I believe so. As [human societies develop][levels] from traditional, fundamentalist levels to postmodern, pluralistic levels, they of necessity embrace Postel's law, just as computer systems do when they evolve in a parallel fashion. *Live and let live. Turn the other cheek. [Different strokes for different folks.][sly] Do unto others as you would have them do unto you.* All of these maxims reflect the same underlying intent of Postel's Law: *follow the highest standards in your own behavior, but accept diversity in others.* And so, as we continue our adventures in developing and participating in ever larger and more complex systems -- whether computer systems or human societies -- it is worthwhile to reflect on Postel's law from time to time. There's an awful lot of practical wisdom packed into this simple principle.  [contacts]: http://www.apple.com/osx/apps/#contacts [html]: http://www.alistapart.com/articles/a-brief-history-of-markup/ [postel]: http://en.wikipedia.org/wiki/Jon_Postel [protocols]: http://en.wikipedia.org/wiki/Internet_protocol_suite [principle]: http://en.wikipedia.org/wiki/Robustness_Principle [pieces]: http://www.amazon.com/Small-Pieces-Loosely-Joined-Unified/dp/0738208507 [xml]: http://en.wikipedia.org/wiki/XML [levels]: http://www.pagantuna.com/posts/developmental-levels.html [sly]: http://en.wikipedia.org/wiki/Everyday_People
+            </blockquote>
+            <p class="byline">
+              &mdash;
+              <span class="authors">
+                <a href="authors/.html">
+                  
+                </a>
+              </span>
+            </p>
+            <p class="itemidline">
+              No.
+              <span class="itemid">
+                
+              </span>
+            </p>
+      </div> <!-- end wisdom -->
+
+		</div>
+
+
+		</div>
+
+	</div>
+  <!-- #bbinclude "footer_wisdom.html" -->
+<hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          The Portable Wisdom collection of quotations is curated by Herb Bowie
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

@@ -1,0 +1,184 @@
+/* 
+
+STYLE SHEET FOR PaganTuna.com 2.0
+Created by Herb Bowie
+
+*/
+
+* {
+
+}
+html {
+
+}
+
+body {
+	color: #000000;
+	background-color: #ffffff;
+	text-align: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Geneva, Arial, sans-serif;
+	font-size: 90%;
+	line-height: 1.5em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+}
+
+/* Left Column (LC) width = 134 + padding of 10 = 154 */
+/* Right Column (RC) width = 134 + padding of 10 = 154 */
+
+body {
+  padding: 0;
+  margin: 0;
+  min-width: 462px;      /* 2x LC width + RC width */
+}
+
+#header {
+	background-image: url(../images/bg-header.png);
+	background-repeat: repeat-x;
+	background-color: #3A4E6A;
+	color: white;
+	height: 138px;
+}
+
+#logo {
+  float: left;
+	width: 134px;
+	height: 118px;
+	margin: 0;
+	padding: 10px;
+}
+
+#title-and-slogan {
+	margin-left: 174px;
+}
+
+#site-title {
+	font-size: 3em;
+	line-height: normal;
+	padding-top: 20px;
+	padding-bottom: 14px;
+}
+
+#site-title a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-slogan {
+	font-size: 1em;
+	font-style: italic;
+}
+
+#column-container {
+  padding-left: 154px;   /* LC width */
+  padding-right: 154px;  /* RC width */
+}
+
+#column-container .column {
+  position: relative;
+  float: left;
+}
+
+#center {
+  width: 100%;
+  padding: 20px; 
+}
+
+#left {
+  width: 134px;          /* LC content width */
+  right: 154px;          /* LC width */
+  margin-left: -100%;
+  padding: 0;
+}
+
+/*** IE6 Fix ***/
+* html #left {
+  left: 154px;           /* RC width */
+} 
+
+#right {
+  width: 154px;          /* RC content width */
+  margin-right: -100%;   /* RC width */
+  padding: 0;
+}
+
+#footer {
+  clear: both;
+}
+
+/* Left column (# 1) elements */
+
+#nav
+{
+	width: 134px;
+	margin: 0;
+	padding: 10px;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+/* float-clearing rules */
+.separator {
+		clear: both;
+}
+
+.separatorInvisible {
+		clear: both;
+		height: 1px;
+}
+
+.clearFix:after {
+    	content: "."; 
+    	display: block; 
+    	height: 0; 
+    	clear: both; 
+    	visibility: hidden;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+

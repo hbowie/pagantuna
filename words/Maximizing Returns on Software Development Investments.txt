@@ -1,0 +1,73 @@
+Title:  Maximizing Returns on Software Development Investments
+
+Date:   Sun Dec 14, 2014
+
+Status: 9 - Closed
+
+Tags:   PaganTuna, Software Development
+
+Teaser: 
+ 
+<p>I sometimes wonder if many of us in Information Technology are yet taking an informed perspective when contemplating investments in new software development efforts. Here are several things I think we should be keeping in mind. </p>
+
+
+Body:   
+ 
+# Maximizing Returns on Software Development Investments
+
+I sometimes wonder if many of us in Information Technology are yet taking an informed perspective when contemplating investments in new software development efforts. Here are several things I think we should be keeping in mind. 
+
+## 1. Develop on the Current Frontier
+
+The IT era has proceeded in waves. Roughly speaking, we can think of automation proceeding through the following stages of development. 
+
+* Back-office calculations 
+* Back-office data storage 
+* Office productivity 
+* Global information sharing 
+* Consumer interactions
+
+Why is this relevant in a discussion of software development efforts? 
+
+Because most big investments will be made in building out the current wave, since this is the area that actually provides the greatest opportunities for large rewards. Going back into prior waves and investing large amounts in redoing work that's already been done will rarely if ever be a smart investment decision. 
+
+## 2. Don't Reinvent the Wheel
+
+Make the widest possible use of code already developed. Operating systems, database systems, application frameworks, development tools, applications and a whole host of other categories of software have already been written. Your development team should probably not be rewriting any of this stuff.
+
+Focus your development activities on new software unlike anything that's been written before -- at least in some essential respect. Stand on the shoulders of giants that have come before -- don't try to stand next to them. 
+
+## 3. Respect the Long Tail of IT Costs
+
+Most software development investment decisions are based on the estimates of costs for initial development, offset by some relatively near-term financial rewards. 
+
+What gets ignored are the costs of sustaining a set of features over a decade or two or three, including data storage, backup and archival costs, as well as the cost of maintaining the software. 
+
+Be sure and take all these costs into account when calculating any potential return on your investment. 
+
+## 4. Focus Investment Dollars on High-Value Features
+
+Any piece of software can be thought of as a collection of features. If your feature list contains every item that anyone ever thought to ask for, then it contains way too much. Each feature has some incremental cost, and the maintenance costs for your software tend to grow exponentially as you add new features, due to the increasing complexity of the system as a whole. 
+
+Apple has [taken a lot of heat in recent years](http://www.theverge.com/2013/10/29/5042880/apple-iwork-2013-refresh-complaints) for releasing new versions of software that removed features rather than adding new ones, but this sort of careful pruning is sometimes necessary to create and maintain a coherent code base that can be reasonably maintained by a small team of developers over the long term. 
+
+Continually adding new features, and carrying forward every feature ever developed for any user in the past, is a recipe for maintenance costs that will snowball over time. 
+
+## Implications for System Rewrites
+
+Note that all of the above principles are reasons to beware the [second system syndrome](http://en.wikipedia.org/wiki/Second-system_effect). If you tackle a complete rewrite of an existing system in order to retire technical debt and/or aging technology, then you are probably:
+
+1. not working at the frontier;
+2. reinventing an already serviceable wheel; 
+3. introducing new issues that will keep maintenance costs high for an extended period; 
+4. spending valuable investment dollars in carrying forward all existing features as well as adding new ones. 
+
+## Implications for IT Governance
+
+Many [IT governance](http://en.wikipedia.org/wiki/Corporate_governance_of_information_technology) functions operate like bankers: they look at the estimated investment requirements, the anticipated returns, and the resulting hockey stick chart, and decide to fund or not to fund -- as if these were the only relevant factors. 
+
+I wonder if it isn't time for IT governance bodies to start acting more like venture capitalists. Everyone in the industry has been moaning for decades now about the high failure rates for IT projects (usually in order to sell us some new panacea that seems to help for a while, but does little in the long run to move the needle). But maybe IT projects -- like entrepreneurial startups -- are inherently risky investments. And so perhaps the job of an IT governance body should be to look for projects where the high opportunities for return outweigh the risks of failure -- just as a venture capitalist does when evaluating potential investment opportunities. 
+
+If our corporate IT investment boards started operating more like [Shark Tank](http://www.cnbcprime.com/shark-tank) -- taking risk factors like the ones above into account -- then perhaps we would see better overall returns on our software development investments.  
+
+

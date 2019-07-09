@@ -1,0 +1,104 @@
+Title:  This Thinking Business
+
+Date:   Sat Nov 23, 2013
+
+Status: 9 - Closed
+
+Tags:   PaganTuna, Software Development, Thought
+
+Teaser: 
+ 
+<p>A sure sign of danger on a software development project occurs whenever anyone says, &#8220;Don&#8217;t worry about the problem &#8211; just trust the process.&#8221; </p><br><br><p>This danger is equally present whether the process to be followed is of the waterfall variety, or of an agile persuasion. </p><br><br><p>The chief danger is not in picking the wrong process, but in placing an excess of faith in any process, no matter what it is. </p>
+
+
+Body:   
+ 
+# This Thinking Business
+
+A sure sign of danger on a software development project occurs whenever anyone says, "Don't worry about the problem -- just trust the process." 
+
+This danger is equally present whether the process to be followed is of the waterfall variety, or of an agile persuasion. 
+
+The chief danger is not in picking the wrong process, but in placing an excess of faith in any process, no matter what it is. 
+
+[Steve Jobs][jobs] made this point in a comment from <cite>[The Lost Interview][lost]</cite>:
+
+> People get confused... companies get confused. When they start getting bigger they want to replicate their initial success. And a lot of them think, well somehow there's some magic in the process of how that success was created. So they start to try to institutionalize process across the company. And before very long, people get very confused that the process is the content. In my career, I've found that the best people are the ones that really understand the content.... That's what makes good products: it's not process, it's content.
+
+[Fred Brooks][brooks] was more concise, but spoke to the same end, in an [interview][wired] with <cite>Wired</cite> magazine.
+
+> Wired: In your experience, what's the best process for design?
+
+> Brooks: Great design does not come from great processes; it comes from great designers.
+
+Development methods and artifacts are meant to be aids to thinking, not replacements for them. We would be wise to bear in mind the cautionary words of [Michael Innes][innes], British detective author, in his book <cite>[The Seven Suspects][seven]</cite>, written in 1936:
+
+> "And your remarks on the text," Mr. Gott declared, "are merely a muddle."
+
+> "Yes, Gott," said Mike meekly.
+
+> "You see, Mike, you haven't any brain really."
+
+> "No, of course not," said Mike.
+
+> "You must just keep to the cackle and write nicely. You write very nicely."
+
+> "Yes," said Mike, dubiously.
+
+> "Keep off thinking things out, and you'll do well. In fact, you'll go far."
+
+Too many development projects, of course, seem to have followed Mr. Gott's advice: they've kept off thinking things out, and have instead kept to the cackle. The cackle could consists of piles and piles of meaningless documents, or mounds of software code that have been produced in numerous brief iterations. And make no mistake, such projects can go very far indeed. In the end, however, the unfortunate result seems to be the same: merely a muddle. 
+
+This thinking thing, though, is a difficult business. 
+
+Here are some words on the topic from another mystery writer, [Dashiell Hammett][hammett], in his book <cite>[The Dain Curse][curse]</cite>, from 1929:
+
+> Nobody thinks clearly, no matter what they pretend. Thinking's a dizzy business, a matter of catching as many of those foggy glimpses as you can and fitting them together the best you can. That's why people hang on so tight to their beliefs and opinions; because, compared to the haphazard way in which they're arrived at, even the goofiest opinion seems wonderfully clear, sane and self-evident. And if you let it get away from you, then you've got to dive back into that foggy muddle to wrangle yourself out another to take its place.
+
+But can it really be this bad? Surely there must be a thinking process we can follow!
+
+Here's a [description of an effective problem-solving process][dymond] used by Nobel Prize winner [Richard Feynman][feynman], as described by another recipient of the award:
+
+> First, he writes down the question on a blackboard or a yellow pad of paper.
+
+> Next, he thinks real hard....
+
+> Then, he writes down the answer.
+
+Perhaps this is why I enjoy mystery novels so much: they show people thinking hard about problems, and the quality and speed of their thought having significant real-world consequences. Because it's been the same story on every successful software development project I've ever worked on.  
+
+I remember visiting the Wright Brothers Memorial in Kitty Hawk a few years back, and reading [some of the details of how these two men discovered the secrets to human flight][kitty]. First, they had to break the problem down into the separate components of lift, thrust and control. Then they had to question all of the conventional wisdom provided to them by others. Then they had to identify design alternatives and determine how well each of them worked.  
+
+The same thinking "process" is required on all development projects. We have to break the big problem down into smaller ones. We have to question conventional wisdom. We have to identify design alternatives. And we have to use rational means to decide which of those alternatives will best suit our needs. 
+
+Of course, a series of steps like this is not a mechanical process to be followed mindlessly. It's just a roadmap. Ultimately, we still have to dive into that foggy muddle and wrangle out some answers. And there's no easy way to tell someone how to do that. 
+
+I remember once receiving the most flattering, and the most unexpected, compliment of my life. A trusted colleague I had worked with for several years thanked me for teaching him how to think. 
+
+That floored me. I had never set out with such a goal in mind. And  if I had achieved it, I couldn't tell you how I had done it. 
+
+Of course, upon sober reflection, maybe he really said I had taught him how to drink. We were sitting in a bar at the time, so that could have been the case. We had certainly worked on some projects together that could have driven us to either outcome. 
+
+So, whichever it was, here's to thinking: there's nothing easy about it, but it never goes out of fashion. 
+
+
+
+
+[jobs]: http://en.wikipedia.org/wiki/Steve_Jobs
+[lost]: http://www.magpictures.com/stevejobsthelostinterview/
+
+[brooks]: http://en.wikipedia.org/wiki/Fred_Brooks
+[wired]:  http://www.wired.com/magazine/2010/07/ff_fred_brooks/
+
+[innes]: http://en.wikipedia.org/wiki/Michael_Innes
+[seven]: http://www.amazon.com/exec/obidos/ASIN/0140068864/pagantuna-20
+
+[hammett]: http://en.wikipedia.org/wiki/Dashiell_Hammett
+[curse]: http://www.amazon.com/exec/obidos/ASIN/0679722602/pagantuna-20
+
+[feynman]: http://en.wikipedia.org/wiki/Richard_feynman
+[dymond]: http://www.amazon.com/exec/obidos/ASIN/0964600803/pagantuna-20
+
+[kitty]: http://www.nps.gov/wrbr/historyculture/solvingtheproblemsofflight.htm
+
+

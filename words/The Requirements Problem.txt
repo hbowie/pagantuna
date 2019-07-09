@@ -1,0 +1,66 @@
+Title:  The Requirements Problem
+
+Date:   Fri May 29, 2009
+
+Status: 9 - Closed
+
+Tags:   Improvement, PaganTuna, Software, Software Development
+
+Teaser: 
+ 
+<p>One of the great myths of software development is that we can ask our customers to give us their requirements, that they will write them down for us, and we can then successfully build software based on those documents. </p><br><br><p>Watts Humphrey, the father of the Software CMM, puts it this way, in his seminal work, <cite>Managing the Software Process</cite>:</p>
+
+
+Body:   
+ 
+One of the great myths of software development is that we can ask our customers to give us their requirements, that they will write them down for us, and we can then successfully build software based on those documents. 
+
+[Watts Humphrey](http://en.wikipedia.org/wiki/Watts_Humphrey), the father of the Software [CMM](http://en.wikipedia.org/wiki/Capability_Maturity_Model), puts it this way, in his seminal work, <cite>[Managing the Software Process](http://www.amazon.com/gp/product/0201180952?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201180952)</cite>:
+
+> A common misperception is that we must start with firm requirements. There is a widespread but fallacious view that requirements are the customers' job and that development should not start until they are explicitly defined. The fact is that the demand for firm and unchanging requirements is mostly wishful thinking....
+
+[Henry Ford](http://en.wikipedia.org/wiki/Henry_Ford) expressed a similar idea a bit more succinctly when he famously said: 
+
+> If I had asked people what they wanted, they would have said faster horses.
+
+[Steve Jobs](http://en.wikipedia.org/wiki/Steve_jobs), a more recent innovator, said something similar in a 1998 article in <cite>[Business Week](http://businessweek.com)</cite> magazine:
+
+> It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.
+
+But then, for those of us who have heard of the [Edsel](http://en.wikipedia.org/wiki/Edsel) (or the [Zune](http://en.wikipedia.org/wiki/Zune), for that matter), we are also mindful of the dangers of excessive arrogance in regards to our customers' desires. As Nathaniel S. Borenstein says, in his book <cite>[Programming As If People Mattered: Friendly Programs, Software Engineering, and Other Noble Delusions](http://www.amazon.com/gp/product/0691037639?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0691037639)</cite>:
+
+> You [the software developer] will need humility to recognize that the users are always the final and most appropriate judges of your work. Even though you're the expert in interpreting your users' comments and meeting their needs, their judgments of your work are final and without appeal.
+
+![1959 Edsel Corsair convertible](../images/edsel.jpg)
+
+![All three models of the Zune](../images/zunes.png)
+
+So what is a poor software developer supposed to do?
+
+Alan M. Davis offers good advice in his encyclopedic work, <cite>[201 Principles of Software Development](http://www.amazon.com/gp/product/0070158401?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0070158401)</cite>:
+
+> Requirements are hard to understand and harder to specify. The wrong solution to this problem is to do a slipshod job of requirements specification, and rush ahead to design and code.... The right solution is to do whatever it takes to learn as many of the requirements as possible *now*. Do prototyping. Talk with more customers. Work for a month with a customer to get to know his or her job firsthand. Collect data. Do whatever it takes.
+
+Although Davis also warns, in his later work <cite>[Just Enough Requirements](http://www.amazon.com/gp/product/0932633641?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633641)</cite>, about the dangers of going overboard here:
+
+> If you do not pay enough attention to requirements, you endanger the project's success by introducing too much risk. If you pay too much attention to requirements, you overburden the project and raise the likelihood of being late and over-budget.
+
+And Suzanne and James Robertson, writing in <cite>[Mastering the Requirements Process](http://www.amazon.com/gp/product/0321419499?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321419499)</cite>, get a little closer to the Henry Ford and Steve Jobs insights:
+
+> The requirements analyst has to inject something new into the process: his vision of what the product might be. In other words, the requirements are not simply the passive interpretation of an existing piece of work, but contain inventions that will make the work easier, better, more interesting and more pleasant.
+
+Taking all of this wisdom into account, here are what I would consider the key points to keep in mind about requirements.
+
+1. Software requirements must be grounded in a solid understanding of your customers and the way they see the world. 
+
+2. Requirements analysis is a creative process that discovers or even invents new approaches to stating and addressing your customer's wants and needs. 
+
+3. Requirements prioritization is essential, to provide focus to both your elicitation and delivery: trying to discover all possible requirements is an endless job, and creating a design that gives equal weight to all requirements is a recipe for disaster. 
+
+4. Requirements are dynamic. Change is inevitable, and the best way to cope with this reality is to try to discern the difference between requirements that are likely to be fundamental and unchanging vs. those that are likely to be subject to the latest whims of management and users.   
+
+5. Requirements validation requires us to show our customers what we propose to give them. 
+
+6. A certain degree of risk is inherent in the process, and your best approach is not to try to avoid risk altogether, but to try to keep the degree of risk within acceptable levels, while also being mindful of cost and schedule. 
+
+

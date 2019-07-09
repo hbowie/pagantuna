@@ -1,0 +1,89 @@
+Title:  The Process Prescription Polarity
+
+Date:   Fri May 15, 2009
+
+Status: 9 - Closed
+
+Tags:   Improvement, PaganTuna
+
+Teaser: 
+ 
+<p>I talked in a recent post about the concepts of Polarity Management and what I called the Progress Polarity<br>. </p><br><br><p>Another polarity often encountered in Software Process Improvement is what might be called that of Process Prescription. In other words: </p><br><br><h3>Should our organizational processes tell projects exactly what to do, or should these processes allow projects considerable latitude and discretion?</h3>
+
+
+Body:   
+ 
+I talked in a recent post about the concepts of [Polarity Management][polarity-mgmt] and what I called the [Progress Polarity][progress-polarity]. 
+
+Another polarity often encountered in Software Process Improvement is what might be called that of Process Prescription. In other words: 
+
+**Should our organizational processes tell projects exactly what to do, or should these processes allow projects considerable latitude and discretion?**
+
+The more prescriptive approach is often associated with the [CMMI][] and its adherents, while the *laissez-faire* attitude is more typical of [Agile][] proponents. In fact, this polarity was described in a recent paper from the [SEI][], entitled "[CMMI&reg; or Agile: Why Not Embrace Both!][cmmi-agile-embrace]"
+
+> There is a balance to achieve across organizational, project, and
+> individual prerogatives and responsibilities.... 
+> 
+> If the balance is weighted too heavily in favor of the organization,
+> projects and practitioners may lack the flexibility they need to be
+> successful and motivation fails. 
+> 
+> On the other hand, too much flexibility can expose the organization to
+> excessive risk... and missed opportunities for organizational learning
+> that over the longer term might lead to improved product quality and
+> productivity. 
+> 
+> It is difficult to achieve the right balance.
+
+A [Forrester][] research paper from November 17, 2006 said much the same thing, labeling the two extremes as "Process Dictatorship" vs. "Process Anarchy." 
+
+As with all polarities, we can see that both extremes have their advantages and disadvantages.
+
+### Advantages of Process Prescription
+
+1. Ability to pass on organizational learning
+2. Ability for team members to easily move from one project to another
+3. Assurance that important steps and deliverables will not be skipped
+4. Consistent, reliable execution
+5. Consistent interfaces at process boundaries
+6. Provides "training wheels" for junior staff members
+
+### Disadvantages of Process Prescription
+
+1. Feelings of disempowerment among team members 
+2. Burdening all projects with steps and deliverables that may only be needed by some 
+3. Inability for project teams and team members to learn from their own experiences
+4. Provides "straight jacket" for senior staff members
+
+### Advantages of the Laissez-Faire Approach
+
+1. Feelings of empowerment and ownership among team members
+2. Ability of team to rapidly improve its processes (especially for projects working with short delivery cycles)
+3. Ability to fully leverage the knowledge of the project team
+4. Reduction of waste through "right-sizing" of process to fit the project
+
+### Disadvantages of the Laissez-Faire Approach
+
+1. Propensity of developers to avoid analysis, documentation and testing
+2. Junior developers may not know how to proceed, or may make common mistakes 
+3. Practitioners may feel overwhelmed trying to keep up with the changes
+4. Large learning curves when developers switch from one team to another
+5. Inconsistend hand-offs to other organizations and processes
+
+Again, as will all polarities, the challenge is find the best balance point between the two extremes. 
+
+Some of the typical ways to achieve compromise are:
+
+* Providing multiple softare development lifecycles to choose from. 
+* Allowing some flexibility, or tailoring of a selected lifecycle to "right-size" it for the task at hand. 
+* Providing some consistent tailoring guidance, to indicate in what conditions certain steps and deliverables are recommended or required. 
+
+[agile]:              http://agilemanifesto.org/
+[cmmi]:               http://www.sei.cmu.edu/cmmi/
+[cmmi-agile-embrace]: http://www.sei.cmu.edu/pub/documents/08.reports/08tn003.pdf
+[forrester]:          http://www.forrester.com/
+[polarity-mgmt]:      http://www.polaritypartnerships.com/
+[progress-polarity]:  the-progress-polarity.html
+[sei]:                http://www.sei.cmu.edu/
+
+

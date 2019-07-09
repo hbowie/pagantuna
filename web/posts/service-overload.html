@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Service Overload | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Thoughts on Technology and Leadership from Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/improvement.html' rel='tag'>Improvement</a>, <a href='tags/technology.html' rel='tag'>Technology</a></p>
+		      <h1>Service Overload</h1>
+
+<p>The term &#8220;service&#8221; seems to be popping all over IT these days, so I thought it might be helpful to talk a little about the different ways in which the term is being used by different communities, as well as some potential concerns about taking &#8220;services&#8221; a bit too far. </p>
+
+<p><img src="http://media.eremedia.com/uploads/2011/10/22011422/CustomerService.jpg" alt="Customer Service" class="pic-left">
+<img src="http://www.w3.org/TR/2003/WD-ws-arch-20030808/images/SOM.png" alt="Service-Oriented Model" class="pic-right"></p>
+
+<p><br clear="all"></p>
+
+<p>I am aware of four different ways in which this seemingly innocuous term is currently being used. </p>
+
+<ol>
+<li><p><strong><a href="http://en.wikipedia.org/wiki/Software_as_a_service">Software-as-a-Service</a></strong>.  This is a software delivery model in which customers purchase access to software on a pay-as-you-go basis, and access the software over the Internet. This is in contrast to the more traditional model of buying a license that allows you to install a software package on your own local computing equipment, and then use it for as long as you like. </p></li>
+<li><p><strong><a href="http://en.wikipedia.org/wiki/Service-oriented_architecture">Software-Module-as-a-Service</a></strong>. These sorts of services form the basis for what is known as a Service-Oriented Architecture (SOA). This is a reuse model in which applications are built on top of reusable business services, with the services being defined abstractly, and then instantiated typically as software that is loosely coupled via network connections. These types of services are often called <a href="http://en.wikipedia.org/wiki/Web_service">Web services</a>. </p>
+
+<p>In some ways, SOA is just the most technically up-to-date manifestation of the idea that developers should think of their software in terms of reusable modules, rather than a series of unique applications that inevitably seem to involve the production of a lot of code that ends up looking an awful lot like the code written for the last project. </p></li>
+<li><p><strong><a href="http://en.wikipedia.org/wiki/ITSM">Everything-as-a-Service</a></strong>. The latest version of the <a href="http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library">Information Technology Infrastructure Library</a> (ITIL) takes the position that IT is best thought of as a service management operation in which everything IT delivers to a customer can be thought of as a service. This sort of approach tries to encourage us to take a more customer-focused view of IT work, and to reduce our tendency to consider IT as the job of finding a never-ending series of shiny new toys to bring back to the businesses we support.  </p></li>
+<li><p><strong><a href="http://en.wikipedia.org/wiki/Service_(economics)">Service-as-a-Service</a></strong>. In the midst of all this service frenzy, we should not forget that IT has typically used the term &#8220;service&#8221; in a more traditional sense to describe work that does not provide the customer with any tangible product. Transportation and installation of computing hardware might be one such example; a help desk might be another.    </p></li>
+</ol>
+
+<p>So, now that we&#8217;re clear on these varying usages of the term, here are a few points about services worth keeping in mind. </p>
+
+<ol>
+<li><p>The common thread here is that, over the long term, neither IT customers nor IT want to be encumbered by  long-term commitments to specific pieces of software and hardware &#8212; commitments that are usually associated with the ownership of such technology.</p></li>
+<li><p>The rise of the World-Wide Web has been a key enabler for this sort of service orientation. In essence, the ubiquitous presence of a Web browser and a network connection, alongside the more traditional electrical outlets and telephone jacks, has made it possible to think of everything obtained through the Web as an abstract service, and allowed us to distance ourselves from the actual hardware and software providing the information and interfaces that we are using. </p></li>
+<li><p>Using the term &#8220;service&#8221; in this many specialized contexts is bound to cause confusion, so we should be careful not to insist that listeners and readers automatically understand the sense in which we want to use the term. </p></li>
+<li><p>In some ways, the idea that everything IT delivers is a service is a useful conceptual abstraction, but a tough idea for customers to relate to in the real world. I&#8217;m reminded of a typical <a href="http://en.wikipedia.org/wiki/Product_Structure_Modeling">bill-of-material system</a>, in which everything in the bill of materials is represented by a part or item master. While this makes for a nice, neat data model, when you start using the term &#8220;part&#8221; to talk to your customers about raw materials, or end items, or final assembly operations, you are forcing them to enter your world, rather than meeting them in theirs. </p></li>
+<li><p>The idea of treating everything as a service is not likely to be met with a warm reception by either customers or workers. </p>
+
+<p>Remember the digital music services that were around before Apple entered the market? They offered deals that allowed customers to pay a monthly membership fee, and then listen to as much music as they wanted from the service&#8217;s libraries. Everybody in the industry thought that such services represented the wave of the future. </p>
+
+<p>Then Apple came along. They sold iPods, which were products, not services. Customers paid once to download a particular product from an artist &#8212; a track or an album &#8212; and then had the right to play that piece of music forever. iTunes is the product that plays the music, and connects the iTunes store to your computer and in turn to your iPod. And, of course, this product-based model has been wildly successful. Why? <em>Because customers tend to become attached to products in a way that they never do to services.</em> </p>
+
+<p>Workers tend to feel the same way. They tend to take pride in the creation of a product to a much greater degree than in the delivery of a service. For example, when Edward Weiler, chief scientist for the Hubble telescope, recently saw the telescope&#8217;s camera again at the Smithsonian, he said it was like &#8220;<a href="http://www.npr.org/templates/story/story.php?storyId=120539846">seeing a long-lost brother or sister</a>.&#8221;</p></li>
+</ol>
+
+<p>So while services in all their many forms are here to stay, it&#8217;s best to remember to use the term in moderation: a little bit of &#8220;service&#8221; goes a long way.  </p>
+
+          <p class="pub-date">November 23, 2009</p>
+<p class="next">Next: <a href="the-dreyfus-model-of-skill-acquisition.html">The Dreyfus Model of Skill Acquisition</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

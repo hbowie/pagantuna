@@ -1,0 +1,450 @@
+/* 
+
+STYLE SHEET FOR PaganTuna.com 3.0
+Created by Herb Bowie
+
+*/
+
+/* Global Defaults */
+
+body {
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.428571429;
+  color: #4F4C4E;
+  background-color: #ffffff;
+}
+
+/* Table Defaults */
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+}
+
+caption {
+	border: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-top: 0.4em;
+	margin-bottom: 0.2em;
+}
+
+th {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	padding: 5px;
+}
+
+td {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+/* List Defaults */
+
+ul li {
+	margin-bottom: 1em;
+}
+
+a:link {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:active {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3C4A66;
+	text-decoration: none;
+	border-bottom: 1px #3C4A66 dotted;
+}
+
+.container { max-width: 720px; }
+
+/* Style the header */
+
+#header {
+	/* background-image: url(../images/bg-header.png);
+	background-repeat: repeat-x;
+	background-color: #3A4E6A; 
+	color: white;
+	height: 138px; */
+	margin-top: 1em;
+	text-align: center;
+}
+
+#logo {
+	display: block;
+  margin-left: auto;
+  margin-right: auto
+	width: 134px;
+	height: 118px;
+	margin: 10px;
+	padding: 10px;
+
+} 
+
+#title-and-slogan {
+	/* margin-left: 30px; */
+	margin-bottom: 2em;
+}
+
+#site-title
+{
+	font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 3em;
+	line-height: normal;
+	padding-top: 20px;
+	padding-bottom: 14px;
+	color: #75829C;
+	/* color: white; */
+}
+
+#site-title a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+#site-slogan {
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: italic;
+	font-size: 21px;
+	color: #75829C;
+	margin-bottom: 1em;
+	/* color: white; */
+}
+
+#nav {
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #435773;
+}
+
+#nav a {
+  color: #8E9CB4;
+}
+
+#nav a:hover {
+	text-decoration: none;
+	border-bottom: none;
+	color: #75829B;
+}
+
+.dropdown-menu > li {
+  margin-bottom: 0;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  text-decoration: none;
+  color: #75829B;
+  background-color: #FFFFFF;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color: #75829B;
+  text-decoration: none;
+  outline: 0;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  color: #435773;
+  font-size: 1.7em;
+  line-height: 1.5em;
+  margin-top: 8px;
+  font-weight: normal;
+  font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  color: #687C99;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-weight: normal;
+}
+
+h3 {
+  color: #687C99;
+  font-size: 1.1em;
+  line-height: 1.3em;
+  font-weight: normal;
+}
+
+#multiple h1 {
+  color: #687C99;
+  font-size: 1.4em;
+  line-height: 1.5em;
+}
+
+#multiple h2 {
+  color: #687C99;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+h1 a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+h1 a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+h1 a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+h1 a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none; 
+	/* border-bottom: 0; */
+	border-bottom: 1px dotted #687C99;
+}
+
+cite.majortitle { font-style: italic; }
+
+.pub-date {
+	color: #8E9CB4;
+	text-align: right;
+}
+
+.tags {
+  font-style: italic;
+  color: #8E9CB4;
+}
+
+.read-more {
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #5D718E;
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+	text-decoration: none;
+	margin-bottom: 2em;
+}
+
+.read-more a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+.read-more a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+.read-more a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	/* text-decoration: none; */
+}
+
+.read-more a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none; 
+	border-bottom: 1px dotted #687C99; 
+}
+
+blockquote {
+  border: none;
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 20px;
+  line-height: 1.428571429;
+}
+
+blockquote p {
+  font-size: 20px;
+  line-height: 1.428571429;
+  font-weight: normal;
+}
+
+.next {
+	font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+
+#footer {
+	font-size: 0.7em;
+	font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin-top: 2em;
+	text-align: center;
+}
+
+/* Utility styles */
+
+.pic-right {
+  float: right;
+  padding: 4px;
+}
+
+.pic-left {
+  float: left;
+  padding: 4px;
+}
+
+#amazon {
+  margin-top: 30px;
+}
+
+/* Colors */
+
+.infrared
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #EA60B5;
+}
+.magenta
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D5007D;
+}
+.red
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #CA0018;
+}
+.amber
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D45507;
+}
+.orange
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #FF8E01;
+}
+.green
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #019B2D;
+}
+.teal
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #00C89A;
+}
+.turqoise
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #006BD8;
+}
+.indigo
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #013388;
+}
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+.turquoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #40E0D0;
+}
+.coral
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FF7F50;
+}

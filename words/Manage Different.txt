@@ -1,0 +1,48 @@
+Title:  Manage Different
+
+Date:   Tue Feb 23, 2010
+
+Status: 9 - Closed
+
+Tags:   Leadership, PaganTuna
+
+Teaser: 
+ 
+<p>Perhaps it is time for modern corporations to begin consideration of a different model for management excellence. I&#8217;ve recently made note of three items that might lead one to this conclusion.</p>
+
+
+Body:   
+ 
+<img src="http://media.wwnorton.com/cms/books/9780393065534_300.jpg" alt="The Management Myth Book Cover" class="pic-right"> Perhaps it is time for modern corporations to begin consideration of a different model for management excellence. I've recently made note of three items that might lead one to this conclusion.
+
+The first comes from Jim Womack, author of <cite>[Lean Thinking][lean-thinking]</cite>, and Chairman of the [Lean Enterprise Institute][lei], who recently shared via e-mail the summarized responses he received from over 300 correspondents about "where we go from here in the Lean Community." What he called Theme Number Three was that "most of you suggested failures of management at the top, middle, and bottom of your organization as the most important challenge you face in creating a sustainable lean enterprise." Wow. So, in the quest to "create ever more value for customers with ever fewer resources," (Womack's definition of lean), most improvement professionals state that management is not their ally, not passive bystanders, but their biggest challenge. And they find this to be true whether they are talking about executives, line managers, or middle management. 
+
+The second item is the recent selection of Steve Jobs as "[CEO of the Decade][ceo-of-decade]" by <cite>Fortune Magazine</cite>. Such a choice seems an implicit insult to management gurus, pundits, academics and corporate leadership professionals who make their various livings by claiming the ability to describe good management practices in any sort of abstract sense. Jobs, after all, has never claimed to be a good all-purpose executive. He's never attended a business school. He's never exhibited any general ability to turn around failing businesses. He's never authored a best seller purporting to tell the masses how they too can achieve management success. To my knowledge, he's never even claimed any special skill at, or interest in, management as some special discipline unto itself. So if he is CEO of the decade, then this result seems more a repudiation of traditional management practices than an endorsement of them. 
+
+And then there is the new book, <cite>[The Management Myth: Why the Experts Keep Getting it Wrong][management-myth]</cite>, by Matthew Stewart, which very explicitly insults the alleged management experts, by pointing out that the basis for most modern consulting practice and academic management theory is completely unfounded at best, and terribly misguided at worst. For example, Stewart says about self-appointed management gurus:
+
+> The more important lesson to draw from the gurus' underwhelming record is not that they fail to see into the future, but that they are in a certain sense <em>behind</em> the times. If there is one idea that unites the gurus, paradoxically, it is that the conventional wisdom is dead wrong. If you want to succeed, they howl in unison, you must break with the pack. But the guru literature itself <em>is</em> the pack. True to their calling as mass entertainers, they are followers rather than leaders. 
+
+Steve Jobs would seem to agree with this view, since he has said:
+
+> There's an old Wayne Gretzky quote that I love. "I skate to where the puck is going to be, not where it has been." And we've always tried to do that at Apple. 
+
+All of this seems consistent with a [previous post][lean-culture] of mine in which I observed that the key cultural shift in lean thinking requires leaders to be trained, coached and motivated "to solve problems, to analyze alternatives, and to resolve issues," rather than to conform to existing structures, as so commonly seems to be the case.  
+
+What, then, are we to say about good management practice? Perhaps, to paraphrase [Raymond Chandler talking about the detective story][chandler-quote], we should conclude that:
+
+> Nor is it any part of my thesis to maintain that we can teach a vital and significant theory of management. There are no vital and significant theories of management; there is only good management, and precious little of that. The growth of corporations and MBA programs has in no way increased the amount; it has merely increased the adeptness with which substitutes can be produced and packaged.
+
+[lean-thinking]: http://www.amazon.com/gp/product/0684810352?ie=UTF8&tag=pagantuna-20
+
+[lei]: http://www.lean.org/
+
+[lean-culture]: a-new-model-for-lean-culture.html
+
+[ceo-of-decade]: http://money.cnn.com/magazines/fortune/steve_jobs/2009/
+
+[management-myth]: http://www.amazon.com/gp/product/0393065537?ie=UTF8&tag=pagantuna-20
+
+[chandler-quote]: ../wisdom/vital-and-significant-forms-of-art.html
+
+

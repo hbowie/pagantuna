@@ -1,0 +1,11 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	itunes		#PATH#../../../Music/Tardis Tunes/iTunes Library.xml
+sort	add	Ascending	Artist Sort Key	
+sort	add	Ascending	Year	
+sort	add	Ascending	Album Title	
+sort	set		params	
+filter	add	not equal to	Podcast	Podcast
+filter	set		params	
+template	open	file		#PATH#../factory/tunes/albums_template.html
+template	generate			

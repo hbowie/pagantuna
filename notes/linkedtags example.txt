@@ -1,0 +1,3 @@
+linkedtags example:
+
+<a href='../tags/culture.html' rel='tag'>Culture</a>, <a href='../tags/apple.html' rel='tag'>Apple</a>

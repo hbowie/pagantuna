@@ -1,0 +1,504 @@
+/* 
+
+STYLE SHEET FOR PaganTuna.com 2.0
+Created by Herb Bowie
+
+*/
+
+/* Global Defaults */
+
+* {
+
+}
+html {
+
+}
+
+body {
+	color: #333333;
+	background-color: #ffffff;
+	text-align: left;
+	font-family: 'concourse-text', sans-serif;
+	font-size: 110%;
+	line-height: 1.5em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	margin: 0;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.img-top-right {
+	margin-left: 15px;
+	margin-bottom: 15px;
+	border: 0;
+	float: right;
+}
+
+a:link {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:active {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3C4A66;
+	text-decoration: none;
+	border-bottom: 1px #3C4A66 dotted;
+}
+
+h1 {
+  color: #5D718E;
+  font-size: 1.7em;
+  line-height: 1.5em;
+  margin-top: 8px;
+  font-weight: normal;
+}
+
+h2 {
+  color: #687C99;
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: normal;
+}
+
+h3 {
+  color: #687C99;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+#multiple h1 {
+  color: #687C99;
+  font-size: 1.4em;
+  line-height: 1.5em;
+}
+
+#multiple h2 {
+  color: #687C99;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+p {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+cite
+{
+	clear: none;
+	display: inline;
+	color: inherit;
+	font-style: italic;
+	background: none;
+	padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+caption {
+	border: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-top: 0.4em;
+	margin-bottom: 0.2em;
+}
+
+th {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	padding: 5px;
+}
+
+td {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+#footer {
+	font-size: 0.8em;
+}
+
+/* Essential Structure */
+
+/* Left Column (LC) width = 134 + padding of 10 = 154 */
+/* Right Column (RC) width = 134 + padding of 10 = 154 */
+/* Center Column (CC) padding = 20 */
+
+body {
+  min-width: 542px;         /* 2 x (LC fullwidth + CC total padding) + RC fullwidth */
+}
+
+#container {
+  padding-left: 154px;      /* LC fullwidth */
+  padding-right: 194px;     /* RC fullwidth + CC total padding */
+}
+
+#container .column {
+  position: relative;
+  float: left;
+}
+
+#center {
+  padding: 20px;            /* CC padding */
+  width: 100%;
+}
+
+#left {
+	width: 134px;             /* LC width */
+	padding: 10px;            /* LC padding */
+	right: 194px;             /* LC fullwidth + CC padding */
+	margin-left: -100%;
+}
+
+#right {
+  width: 134px;             /* RC width */
+  padding: 10px;            /* RC padding */
+  margin-right: -100%;
+}
+
+#footer {
+  clear: both;
+}
+
+/*** IE Fix ***/
+* html #left {
+  left: 154px;              /* RC fullwidth */
+}
+
+/*** Equal-height Columns ***/
+
+#container {
+  overflow: hidden;
+}
+
+#container .column {
+  padding-bottom: 1001em;     /* X + padding-bottom */
+  margin-bottom: -1000em;     /* X */
+}
+
+/*** Footer Fix ***/
+
+* html body {
+  overflow: hidden;
+}
+
+* html #footer-wrapper {
+  float: left;
+  position: relative;
+  width: 100%;
+  padding-bottom: 10010px;
+  margin-bottom: -10000px;
+  background: #FFF;         /*** Same as body background ***/
+}
+
+/* Style the header */
+
+#header {
+	background-image: url(../images/bg-header.png);
+	background-repeat: repeat-x;
+	background-color: #3A4E6A;
+	color: white;
+	height: 138px;
+}
+
+#logo {
+  float: left;
+	width: 134px;
+	height: 118px;
+	margin: 0;
+	padding: 10px;
+}
+
+#title-and-slogan {
+	margin-left: 174px;
+}
+
+#site-title {
+	font-size: 3em;
+	line-height: normal;
+	padding-top: 20px;
+	padding-bottom: 14px;
+}
+
+#site-title a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+#site-slogan {
+	font-size: 1em;
+	font-style: italic;
+}
+
+/* Style the navigation links */
+
+#nav {
+  margin-top: 24px;
+}
+
+#nav ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+}
+
+#nav > ul > li {
+	font-size: 1.0em;
+	margin-top: 1.0em;
+	margin-bottom: 0.5em;
+	letter-spacing: 0.12em;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#nav ul > li > ul > li {
+	font-size: 0.9em;
+	margin-top: 0.1em;
+	font-weight: normal;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+#nav ul ul {
+	margin-left: 0;
+	margin-top: 0.5em;
+	padding-left: 12px;
+	list-style: none;
+	/* list-style-image: url(../images/bulleta.gif); */
+	/* color: black; */
+}
+
+/* #nav ul ul a:link {
+	color: black;
+	text-decoration: none;
+}
+
+#nav ul ul a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3C4A66;
+	text-decoration: none;
+	border-bottom: 1px #3C4A66 dotted;
+}
+*/
+
+#amazon {
+  margin-top: 30px;
+}
+
+/* Style the footer */
+
+#footer {
+	text-align: left;
+	margin-left: 174px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* Utility styles */
+
+.pic-right {
+  float: right;
+  padding: 4px;
+}
+
+.pic-left {
+  float: left;
+  padding: 4px;
+}
+
+.read-more {
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+	margin-bottom: 2em;
+	margin-right: 100px;
+}
+
+.pub-date {
+	color: #999999;
+}
+
+.tags {
+  font-style: italic;
+}
+
+.next {
+	font-style: italic;
+}
+
+
+
+.albums th {
+	border: 0;
+	text-align: left;
+	padding: 5px;
+}
+
+.albums td {
+	border: 0;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.artist {
+  color: #687C99;
+  font-size: 1.4em;
+  line-height: 1.5em;
+}
+
+/* Colors */
+
+.infrared
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #EA60B5;
+}
+.magenta
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D5007D;
+}
+.red
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #CA0018;
+}
+.amber
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D45507;
+}
+.orange
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #FF8E01;
+}
+.green
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #019B2D;
+}
+.teal
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #00C89A;
+}
+.turqoise
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #006BD8;
+}
+.indigo
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #013388;
+}
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+.turquoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #40E0D0;
+}
+.coral
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FF7F50;
+}
+

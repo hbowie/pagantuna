@@ -1,0 +1,40 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	file		#PATH#../data/export.tab
+sort	add	Ascending	itemid	
+sort	set		params	
+template	open	file		#PATH#../factory/wisdom/wisdom_page_template.html
+template	generate			
+template	open	file		#PATH#../factory/wisdom_navigate_template.js
+template	generate			
+sort	clear			
+sort	set		params	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	file		#PATH#../factory/wisdom/index-by-title_template.html
+template	generate			
+sort	clear			
+sort	set		params	
+sort	add	Descending	dateadded	
+sort	set		params	
+template	open	file		#PATH#../factory/wisdom/wisdom_rss_template.xml
+template	generate			
+template	open	file		#PATH#../factory/wisdom/index-latest_template.html
+template	generate			
+sort	clear			
+sort	set		params	
+sort	add	Ascending	authorlastnamefirst	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	file		#PATH#../factory/wisdom/authors/author_page_template.html
+template	generate			
+template	open	file		#PATH#../factory/wisdom/authors/index-by-author_template.html
+template	generate			
+input	open	file		#PATH#../data/split_export.tab
+sort	add	Ascending	category	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	file		#PATH#../factory/wisdom/tags/tag_page_template.html
+template	generate			
+template	open	file		#PATH#../factory/wisdom/tags/index_by_tag_template.html
+template	generate			

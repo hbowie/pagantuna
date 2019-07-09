@@ -1,0 +1,42 @@
+Title:  The Documentation Dilemma
+
+Date:   Sat Apr 4, 2009
+
+Status: 9 - Closed
+
+Tags:   Documentation, PaganTuna
+
+Teaser: 
+ 
+<p>I remember being hired a few years back to develop a new system for my employer.</p><br><br><p>On my very first day, I was handed a couple of thick manuals that spelled out, in great detail, the development methodology that the company was using. As with any such approach, it described the various phases of our systems development lifecycle, and the primary documents to be delivered by each phase, with each successive set gradually moving closer to the level of the actual code to be produced. </p><br><br><p>Being the new guy on the block, I did what I was told, and followed the set of manuals pretty closely. By the time I was done with the project, I had my own set of binders, full of all the requisite documentation for the new system. </p>
+
+
+Body:   
+ 
+I remember being hired a few years back to develop a new system for my employer.
+
+On my very first day, I was handed a couple of thick manuals that spelled out, in great detail, the development methodology that the company was using. As with any such approach, it described the various phases of our systems development lifecycle, and the primary documents to be delivered by each phase, with each successive set gradually moving closer to the level of the actual code to be produced. 
+
+Being the new guy on the block, I did what I was told, and followed the set of manuals pretty closely. By the time I was done with the project, I had my own set of binders, full of all the requisite documentation for the new system. 
+
+We had a physical documentation library at the time, and I will never forget the look on the librarian's face when I submitted my set of documents to her, to be filed away on her shelves. It was a hard look to read, but I saw some element of excitement in it, so I asked her if anything was wrong. 
+
+"No," she said, with some note of astonishment in her voice, "there's nothing wrong. It's just that no one has ever done these before!"
+
+Since this experience, the tools used for this project (COBOL, CICS, IDMS, 3270 terminals, TSO, Script) have mostly been relegated to historical archives, but the underlying attitudes of software developers towards documentation seem to have changed little. To put it in a nutshell, these would seem to be: "In theory, documentation is a good thing. In practice... we have better things to do."
+
+And so it comes as no surprise that, today, in my role as the manager of the group responsible for a company's application development process, the concerns I hear most frequently have to do with the degree of documentation required. 
+
+Below is a brief but representative sampling: 
+
+* "I thought Agile was about producing software, not documentation. How come our Agile process requires so many different documents?"
+
+* "I produced a two-page document that clearly spelled out the main points to be communicated, but my manager rejected it, saying it couldn't be any good, because it wasn't long enough."
+
+* "The people who work in my organization brought me a requirements document that was over 100 pages long. I had to sign off on it, but I didn't have time to actually read it."
+
+* "Our process is missing some key document types. We have to add these, otherwise developers won't possibly be able to develop software correctly!" 
+
+Clearly, we have a problem here. 
+
+

@@ -1,0 +1,37 @@
+Adaptive Startup launching at Saturday, July 7, 2012 7:26:09 AM
+ 
+Reviewing files in HB HD Spring:Users:hbowie:Backups:Bento Backups:
+Reviewing files in HB HD Spring:Users:hbowie:Backups:iWisdom Backups:
+Reviewing files in HB HD Spring:Users:hbowie:Backups:Moneydance Backups:
+Deleting Sunday, June 10, 2012 3:00:57 PM Finances for Herb and Pauline.md-2012-06-10
+Reviewing files in HB HD Spring:Users:hbowie:Backups:OmniFocus Backups:
+Deleting Sunday, June 24, 2012 6:59:32 PM OmniFocus 2012-07-05 132700.ofocus-backup
+Deleting Sunday, June 24, 2012 6:59:32 PM OmniFocus 2012-07-06 130928.ofocus-backup
+Reviewing files in HB HD Spring:Users:hbowie:Backups:Two Due Backups:
+Reviewing files in HB HD Spring:Users:hbowie:Backups:UMSeattle Backups:
+Reviewing files in HB HD Spring:Users:hbowie:Backups:URL Union Backups:
+ 
+Downloads folder thrown in the trash
+Trash emptied
+ 
+Internet is available
+External drives are available
+Mounted Home Media Drive
+ 
+Launching My Usual Apps
+Application LaunchBar launched
+Application ChronoSync launched and hidden
+Application PowerTunes launched and hidden
+Application iCal launched and hidden
+Application OmniFocus launched and hidden
+Application BBEdit launched and hidden
+Application TextMate launched and hidden
+Application Two Due launched
+Application Mail launched and hidden
+Application App Store launched and hidden
+Application MacUpdate Desktop launched and hidden
+Application URL Union launched and hidden
+Application NetBeans launched and hidden
+Opened file PSTextMerge 4.00 Release Checklist.oo3
+ 
+Adaptive Startup finishing at Saturday, July 7, 2012 7:32:26 AM

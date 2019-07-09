@@ -1,0 +1,53 @@
+Title:  Tech Titans Compete
+
+Date:   Sun Jul 29, 2012
+
+Status: 9 - Closed
+
+Tags:   Apple, Business, PaganTuna, Technology
+
+Teaser: 
+ 
+<p>Industry analysts and pundits are fond of depicting the technology marketplace as full of drama and unexpected twists resulting from unfettered competition between the giants of the industry. </p><br><br><p>Witness the recent excellent <em>Vanity Fair</em> article on &#8220;Microsoft&#8217;s Lost Decade.&#8221;</p><br><br><p>It occurred to me though, while thinking about this piece, that the truth may be a bit different.</p><br><br><p>As a matter of fact, I would assert that, once a company successfully stakes out a claim in the tech marketplace, it tends to work that area repeatedly, perhaps extending the edges a bit here and there, but rarely if ever taking over a competitor&#8217;s space. </p>
+
+
+Body:   
+ 
+<div class='img-top-right' >
+  <img src='http://www.pagantuna.com/images/google-vs-apple-vs-microsoft-picture.png' border='0' />
+</div>
+
+Industry analysts and pundits are fond of depicting the technology marketplace as full of drama and unexpected twists resulting from unfettered competition between the giants of the industry. 
+
+Witness the recent excellent [*Vanity Fair* article on "Microsoft's Lost Decade."][vanity]
+
+It occurred to me though, while thinking about this piece, that the truth may be a bit different.
+
+As a matter of fact, I would assert that, once a company successfully stakes out a claim in the tech marketplace, it tends to work that area repeatedly, perhaps extending the edges a bit here and there, but rarely if ever taking over a competitor's space. 
+
+Microsoft, after all, staked out what might be called the "personal productivity software" space with products like MS-DOS, Windows and its Office suite. Over time, it has extended its reach into business software that runs on Intel-based servers. And this space is where it continues to dominate and makes most of its money. And, not surprisingly, when it tries to venture very far outside of that space, it ends up with spectacular failures. 
+
+Apple, on the other hand, laid claim early on to what I would describe as "computers for individuals," with an emphasis on personal expression and enjoyment. Seen in this light, Apple's dark years can be seen, not so much as a victory of Microsoft and Dell over Apple, but as a period during which this entire space suffered from competition with personal productivity computing. 
+
+(Our son was in grade school during this time, and I can still remember the often-successful argument that home and school computers should mimic office devices so that our little darlings would be better prepared one day to compete in the business world, with the implication that their future earnings potential would be permanently stunted if we made the lamentable mistake of crippling their learning by forcing them to use computers made by Apple.) 
+
+Apple's recent resurgence, then, can be seen in this way: Apple figured out a way to position its "computers for individuals" -- tablet computers, touch screens you can carry in a pocket or on the palm of your hand, delivering glorious visuals and audio -- as items new and completely different from personal productivity devices made by its competitors. And as a result of this new generation of computers for individuals, Apple has revived and rejuvenated this entire space and, indeed, has demonstrated that it is larger than anyone had previously envisioned. And while Apple has had spectacular success lately, it has consistently failed or at best had only modest success when trying to venture outside of this arena. 
+
+Google? Its territory can be thought of as "all the world's information at your fingertips"; again, it has consistently dominated in this space, and failed when it's tried to enter another's territory. 
+
+Oracle's space can be thought of as business software for running large enterprises. 
+
+Dell's space: dirt cheap and reasonably reliable PCs for business. 
+
+Facebook: a social network keeping friends and relatives connected with each other. 
+
+Amazon: the world's biggest bookstore, with extensions both on the books and the store side of that claim. 
+
+Seen through this prism, the tech arena is less interesting than the pundits would have you think. Sure, as a corporate spokesperson, Steve Ballmer is less attractive, [articulate][] and sophisticated than peers such as [Jack][] and [Ronald][], but that may not be the reason why Microsoft has failed in its efforts to compete with Apple. Instead, it may be that a company's basic DNA is based on its early success staking out a claim to a piece of the tech pie, and later efforts to encroach on a competitor's slice may be pretty much doomed to failure.   
+
+[vanity]: http://www.vanityfair.com/business/2012/08/microsoft-lost-mojo-steve-ballmer
+[jack]: http://en.wikipedia.org/wiki/Jack_(mascot)
+[ronald]: http://en.wikipedia.org/wiki/Ronald_McDonald
+[articulate]: http://www.asymco.com/2012/07/10/the-poetry-of-steve-ballmer/
+
+

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UX and IT | Pagan Tuna</title>
+  <!-- #bbinclude "head_stuff.html" -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Thoughts on Technology and Leadership from Herb Bowie">
+    <meta name="author" content="Herb Bowie">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="What's New at Pagan Tuna" href="http://www.pagantuna.com/rss.xml" />
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Custom styles for Pagan Tuna -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+<!-- end bbinclude -->
+
+</head>
+
+<body>
+
+  <!-- #bbinclude "header.html" -->
+    <div class="container">
+      <div id="header">
+        <div id="logo">
+          <a href="../index.html">
+            <img alt="Pagan Tuna" src="../images/tuna5.gif" width="134" height="118">
+          </a>
+        </div>
+        <div id="title-and-slogan">
+          <div id="site-title">
+            <a href="../index.html">
+              Pagan Tuna
+            </a>
+          </div>
+          <div id="site-slogan">
+            Often irreverent<br />
+            and sometimes downright fishy<br />
+            thoughts on Technology and Leadership<br />
+            by Herb Bowie
+          </div>
+        </div>
+      </div>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "nav.html" -->
+      <!-- Static navbar -->
+      <div id="nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Pagan Tuna</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../index.html">Most Recent</a></li>
+                <li><a href="../posts/index-by-title.html">Titles</a></li>
+                <li><a href="../posts/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomPost();">Random</a></li>
+                <li><a href="javascript:nextPost();">Next</a></li>
+                <li><a href="javascript:priorPost();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../wisdom/index.html" class="dropdown-toggle" data-toggle="dropdown">Quotations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../wisdom/index-latest.html">Most Recent</a></li>
+                <li><a href="../wisdom/authors/index.html">Authors</a></li>
+                <li><a href="../wisdom/index-by-title.html">Titles</a></li>
+                <li><a href="../wisdom/tags/index.html">Tags</a></li>
+                <li><a href="javascript:randomQuote();">Random</a></li>
+                <li><a href="javascript:nextQuote();">Next</a></li>
+                <li><a href="javascript:priorQuote();">Prior</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="../about/herb-bowie.html" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../about/herb-bowie.html">About the Author</a></li>
+                <li><a href="../about/colophon.html">Colophon</a></li>
+                <li><a href="../about/locker.html">Captain&apos;s Locker</a></li>
+              </ul>
+            </li>
+
+            <li><a href="../rss.html">RSS</a></li>
+
+            <li><a href="../search.html">Search</a></li>
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+<!-- end bbinclude -->
+
+      <div id="body-container">
+        <div id="center">
+		      <p class="tags"><a href='tags/apple.html' rel='tag'>Apple</a>, <a href='tags/business.html' rel='tag'>Business</a>, <a href='tags/software-development.html' rel='tag'>Software Development</a></p>
+		      <h1>UX and IT</h1>
+
+<p><a href="http://meta.ux.stackexchange.com/questions/1105/what-qualifies-as-a-good-question-for-ux"><img class="img-top-right" src="../images/ux-and-it.jpg" alt="UX Graphic" /></a></p>
+
+<p>Usability has become a top concern for corporate CIOs in recent years. A big reason for this has been the success of Apple, since the difference between the iProducts (iPod, iPhone, iPad, iMac, etc.) and their competitors is often summed up in a single word: usability. </p>
+
+<p>Unfortunately, once we enter the walled garden of corporate IT, we quickly find many more weeds than flowers, in terms of the quality of the User Experience (UX) being offered. It is tempting to think that we can fix this problem simply by investing more time, energy and dollars on usability labs, UX experts and associated training for corporate developers, but in my experience a more nuanced approach is called for. </p>
+
+<p>Here are my top five recommendations for those who would attempt to improve the user experience for IT applications. </p>
+
+<h2>1. Temper Your Expectations.</h2>
+
+<p>The user interface (UI) for the typical corporate business application has extremely high data density. Such an app tucks away lots of data in its database, accepts lots of fields in its data entry screens, and displays lots of information in its output queries and reports. In some cases, this data can be represented elegantly via graphical displays, but in many cases, it is simple character data that needs to be input, stored, and reported back out. And the relationships between the business entities possessing these attributes tend to be complex as well. </p>
+
+<p>For applications with these sorts of characteristics, you are not going to create a simple, elegant user interface that looks like the latest best-selling iPhone app. At best, your creation is going to be a Clydesdale, not an Arabian stallion. </p>
+
+<p>The other factor at work here is the potential return on UX investments. In the consumer market, UX work can make or break a product, or even an entire company, so it is easy to justify heavy investments in such efforts. On the other hand, the major challenge for most IT shops is to keep pace with the demand for additional or modified business functionality, and the user experience tends to be the icing on the cake. </p>
+
+<p>Here&#8217;s another way to look at this &#8212; on an iPhone, Apple delivers about a dozen apps, each of which will be used by millions of people. With numbers like these, it&#8217;s easy to justify a large UX investment in each app. On the other hand, the typical CIO is responsible for hundreds or even thousands of applications, some of which will have only a handful of users, or perhaps a few thousand. With numbers like these, it&#8217;s much harder to justify large investments in optimizing the user experience for each app.  </p>
+
+<p>To talk about UX work on corporate business systems without acknowledging these sorts of realities is to risk losing credibility in this environment. </p>
+
+<h2>2. Choose Fertile Ground for Your Efforts.</h2>
+
+<p>Not all application development work is equally amenable to UX assistance. Here are a couple of factors to consider. </p>
+
+<h3>a. The Breadth of Your User Base</h3>
+
+<p>If you are developing for a large external customer base, or for a diverse group of potential customers, or for all the employees of your company, then there is a good chance of your UX work yielding important insights that will prove useful to your efforts. On the other hand, if you are developing for a small group of internal users performing a specialized function, the chances of producing such benefits are smaller, since the odds are high that the needs, wants and preferences of this sort of group are already pretty well understood. </p>
+
+<h3>b. The Degree of Alignment with Well-defined Corporate Functions</h3>
+
+<p>Whatever your company does, it&#8217;s probably organized into a number of well-defined functions: Product Development, Accounting, Human Resources, etc. And for each of these, there are likely to be documented processes describing how these functions are to be performed. And for each set of processes, there is likely to be a corresponding set of corporate functional experts with designated responsibilities to define and improve these processes. </p>
+
+<p>If you are developing an application that is closely aligned with such a function, its set of processes, and its designated experts, then there may be little room for insightful user research and creative approaches to workflow within your application. </p>
+
+<p>On the other hand, if you are developing something like a social networking app for your enterprise, or something else that cuts across existing functions and processes, then you are likely to have a clearer field for meaningful UX work. </p>
+
+<h2>3. Integrate Teams and Processes.</h2>
+
+<p>There is a temptation for UX experts to band together and set up their own tools and processes, operating like an in-house UX design shop. </p>
+
+<p>While there are definite benefits to having a separate UX team, in terms of maintaining a consistent advocacy for the discipline within the larger organization, there is also a danger that UX practices and expertise will become too far removed from the actual software development work going on. </p>
+
+<p><a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a>, in &#8220;<a href="http://www.randsinrepose.com/archives/2012/01/16/a_design_primer_for_engineers.html">A Design Primer for Engineers</a>,&#8221; posted at <cite>Rands in Repose</cite> on Jan 16, 2012, tells this tale of UX work at Apple. </p>
+
+<blockquote>
+  <p>Prior to Steve Jobs&#8217; return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. I&#8217;m certain these folks did significant work, but when Jobs returned, he shut it down and he cast the design teams to the wind. Each product team inherited part of the former usability team. </p>
+
+<p>Now, I arrived after this reorganization occurred, so I don&#8217;t know the actual reasoning, but I do know I never saw those usability labs used once and I would argue that in the past decade Apple has created some of the most usable products out there. My opinion is that the choice to spread the usability design function across the engineering team was intended to send a clear message: engineer and designer need to party more… together. </p>
+
+<p>I can&#8217;t imagine building a team responsible for consumer products where engineers and designers weren&#8217;t constantly meddling in each other&#8217;s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters.</p>
+</blockquote>
+
+<p>So even if the UX experts have a different management chain, it is important that they are well integrated with the rest of the project team for any work being done. </p>
+
+<p>Having the UX practices integrated into the software development process is also important. User-Centered Design (UCD) is often held up as an inviolable process that must be followed in order to achieve any sort of rewarding user experience, but unfortunately this tends to separate the UX design process from the software development process. So I was happy to recently see some admissions from within the design community that this process may not be as sacred as it has often been portrayed. Cennydd Bowles, in <cite>A List Apart</cite>, posted on Feb 1, 2013, talked about the need for &#8220;<a href="http://alistapart.com/column/looking-beyond-user-centered-design">Looking Beyond User-Centered Design</a>.&#8221; While Bowles points out many chinks in UCD&#8217;s armor, perhaps his most damning point is the following:</p>
+
+<blockquote>
+  <p>It’s unsurprising that a user-centered process can skew inexperienced designers’ loyalties away from business priorities. Some claim that this serves as counterweight to the business-first leanings of other employees. The argument strikes me as infantile. When a designer adopts simplistic, reductive arguments that ignore business reality, it undermines him. It limits his potential influence. Only the well-rounded designer who can fight for what’s right while accommodating business reality will be seen as a true leader.</p>
+</blockquote>
+
+<p>In my experience, UX expertise and practices are much more useful when viewed as a toolkit whose usage can be tailored and adapted and integrated into the needs of a particular project and project team, rather than as a rigid process that must always be exercised in its entirety.</p>
+
+<h2>4. Don&#8217;t Insist on Absolute Design Authority.</h2>
+
+<p>UX folks are often fond of insisting that they must be recognized as having absolute and final authority over all aspects of &#8220;Design&#8221; &#8212; that they in fact &#8220;own&#8221; the design. </p>
+
+<p>This is rarely a practical position to take in a corporate IT environment. You will often have a System Owner (aka Product Owner) who has played some role in getting your project funded, and with that fiduciary responsibility will come some sense of ownership of all aspects of the system, including the UI design. </p>
+
+<p>In practice, there will usually be a community of stakeholders with varied interests &#8212; architects, developers, users, process owners, executives, and others &#8212; and working out design issues will be a sometimes messy process that requires some discussion and give and take among all parties.   </p>
+
+<h2>5. Hey, <a href="http://www.sensible.com/rsme.html">It&#8217;s Not Rocket Surgery</a> &#8480;</h2>
+
+<p>I recently found myself the beneficiary of a modern medical miracle. I was having some problems with my vision, and my regular eye doctor referred me to a specialist. I had to wait a few days to get into his office. Once I was seated in front of him, he quickly diagnosed me with a torn and partially detached retina; injected a bubble of gas into my eye; put a green band on my wrist warning others not to take me up in any sort of air vehicle, since my eyeball would explode; and sent me home with a stern admonition to lean to the right at a 45 degree angle for 24 hours, then come back into his office for the next phase of the treatment. When I went back in, after 24 hours of feeling like my eyeball was on fire, he put me into a different chair, shot lasers into my eye for what seemed like an eternity, then pronounced me healed, and sent me home to recuperate. </p>
+
+<p>Now, did I understand what had just happened to me? No. Forty-eight hours earlier, I couldn&#8217;t have told you for sure that I even had a retina, let alone that it might be damaged. Did I ask how much the procedure was going to cost, or how much it would hurt? No. Since my only alternative was going blind, I really didn&#8217;t care. All I know is that my vision is now fully restored with no lasting ill effects. Would I do it all again, if I found myself in the same situation? Without question. Would I recommend this guy to others with vision problems? Absolutely. </p>
+
+<p>Now, I mention all this, because UX experts are often tempted to see themselves, and portray themselves to others, in this same sort of light. &#8220;Hi, I&#8217;m a UX specialist. I&#8217;ve got a Ph.D. in this stuff. What you need is a heuristic evaluation. If you don&#8217;t let me give you one immediately, then no one will ever be able to figure out how to use your application, and you will forever become a figure of ridicule to your peers and your children. Don&#8217;t bother asking how much it&#8217;s going to cost. Just give me your corporate credit card and pray that it&#8217;s not too late to save your sorry little app.&#8221;</p>
+
+<p>I do not recommend this approach. It may work once or twice. But over time, a few facts will begin to dawn on the software developers and their managers. </p>
+
+<h3>a. The results you deliver are not as clear-cut as those offered by doctors.</h3>
+
+<p>Vision or blindness? That&#8217;s a binary distinction that is easy to make. Usable or not usable? That&#8217;s a matter of degree, and of perception. So it is hard to convince others that they need your services in the same absolute, unquestioning sense that they need the services offered by doctors.</p>
+
+<h3>b. There is a certain transparency about UX concerns that is utterly lacking in many medical conditions.</h3>
+
+<p>When my vision specialist tells me that I&#8217;ve got a retine that is torn in the upper left corner of my eye, I&#8217;m going to take his word for it. He will probably want to show me a picture of my condition, thinking that he is enlightening me, or showing me something of interest. I will give it a quick glance, and nod knowingly, not having the faintest idea of what I&#8217;m looking at. Heck, it&#8217;s the inside of an eyeball. I have no idea what a normal one is supposed to look like. Just fix me, doc. </p>
+
+<p>On the other hand, when I look at a user interface, the things of interest are all visible to me, and are things that I&#8217;m used to looking at. I use Google. I use Amazon. I&#8217;ve got an iPhone. I may not fully understand what makes them so successful, but neither are these elements entirely mysterious to me. So I am not likely to accept confusing recommendations from UX specialists with the same suspension of disbelief and unquestioning acceptance that I accord to medical specialists. </p>
+
+<h3>c. UX methods are not as reliable or mysterious as those of medical specialists.</h3>
+
+<p>Whatever my eye doctor did to me, it qualifies as magic in my book. He seemed to know what he was doing, whereas I hadn&#8217;t the faintest idea what he up to. He told me it would work, and it did. He used expensive equipment that I wouldn&#8217;t be able to find at CostCo. End of story.  </p>
+
+<p>But even though UX experts often cloak their practices in terms confusing to others in IT, once they are explained, they tend to sound an awful lot like the same things that application developers have been doing all along, just done with a heightened sensitivity to UX concerns, as opposed to straightforward delivery of raw functionality. </p>
+
+<p>The bottom line here is that, if you attempt to sell yourself in the same way that a medical specialist would, you are likely to end up looking more like the <a href="http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)">grand and glorious wizard</a>  than <a href="http://en.wikipedia.org/wiki/Christiaan_Barnard">Dr. Christiaan Barnard</a>.</p>
+
+<hr />
+
+<p>So there you have it: my top recommendations for plying the UX trade within the environment of corporate IT. None of this is meant to discourage this sort of work &#8212; improved usability of corporate applications is an important goal for any business these days &#8212; but rather to equip such practitioners with the mental models they will need in order to consistently succeed in these sorts of environments.</p>
+
+          <p class="pub-date">March 30, 2013</p>
+<p class="next">Next: <a href="reflections-on-postels-law.html">Reflections on Postel's Law</a></p>
+
+        </div> <!-- end of multiple -->
+
+	    </div> <!-- end of body row -->
+  <!-- #bbinclude "footer.html" -->
+	    <hr>
+
+      <div id="footer-wrapper">
+		    <div id="footer">
+          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+		    </div>
+	    </div>
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/posts_navigate.js"></script>
+    <script src="../js/wisdom_navigate.js"></script>
+<!-- end bbinclude -->
+
+</body>
+
+</html>

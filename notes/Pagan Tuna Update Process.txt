@@ -1,0 +1,129 @@
+# Pagan Tuna Update Process
+
+The PaganTuna.com Web site is built from a number of different data sources, using a number of different [automated tools][colophon].
+
+Updates to the site are done in the following major phases. The first only need to be done when that particular data source has been updated. The last phase always needs to be performed.
+
+The local copy of the PaganTuna site, as well as other pertinent information about the site, are stored at the following location.
+
+    ~/Sites/pagantuna/
+
+## 1. Site Layout
+
+BBEdit templates are used to define common elements of the Web pages, to allow easy updates to the layout of the site.
+
+Make any desired updates to the BBEdit templates stored at the following location:
+
+    ~/Sites/pagantuna/templates
+
+Delete the following folder:
+
+    ~/Sites/pagantuna/web copy
+
+Duplicate the following folder, creating a new web copy folder:
+
+    ~/Sites/pagantuna/web
+
+Delete the entire contents of the web folder.
+
+Run the "Restore Singletons" Automator workflow within the pagantuna/scripts folder.
+
+Run the "Restore Wisdom Index" Automator workflow within the pagantuna/scripts folder.
+
+Use the BBEdit menu item Markup / Update / Site for the pagantuna/web site.
+
+Use the BBEdit menu item Markup / Update / Site for the pagantuna/factory.
+
+## 2. Quotations
+
+Quotations are updated using [iWisdom][].
+
+The quotations are stored in the following folder:
+
+    ~/Dropbox/iWisdom/
+
+After adding/updating quotations in iWisdom, publish the collection using the following steps.
+
+* Set the Tags Export application preferences to the appropriate web site.
+
+* Select the iWisdom menu item File / Publish.
+
+* Select the "/Users/hbowie/Sites/pagantuna" Publish to location from the dropdown menu within the Publish window.
+
+* Make sure the Publish Script is set to "/Users/hbowie/Sites/pagantuna/scripts/wisdom_script.tcz".
+
+* Click on the Publish Now button.
+
+The iWisdom publication process will place updated copies of the iWisdom data in the pagantuna/data folder. These files will be used as input to the final phase.
+
+## 3. Blog Posts
+
+Blog posts are stored at the following location:
+
+    ~/Dropbox/Words/
+
+Blog posts are generally written in the [Markdown][] format using BBedit. The Markdown source is stored in the notes subfolder.
+
+The metadata about the posts is updated using [TwoDue][].
+
+Use TwoDue to open the following folder.
+
+    ~/Two Due/Two Due for Words/
+
+Take the following steps when preparing a new post for publication.
+
+* Make sure the file name, minus the extension, reflects the desired title of the post.
+
+* Delete any title within the text itself.
+
+* Delete any byline from the text.
+
+* Copy any referenced graphic files to the pagantuna/web/images folder.
+
+* Change any internal PaganTuna links to relative links.
+
+* Change links for any quotations to relative links to pagantuna/web/wisdom.
+
+* Change separators in PaganTuna links from underscores to dashes.
+
+* Use BBEdit to export the post from Markdown to HTML, using the same file name, but with an extension of .html.
+
+* Run the SmartyPants text filter against the resulting HTML file to use the proper typographic symbols.
+
+* Set the due date for the corresponding item in Two Due to the publication date.
+
+* Check the Tags in Two Due and make sure they are set appropriately. Add a tag for the appropriate web site (PaganTuna, Practopian or ReasonToRock).
+
+* Select the teaser for the post to appear on the home page and copy and paste it from the HTML file to the Description block for the post in TwoDue. Remove links to images and other internal PaganTuna links from the teaser text.
+
+* Change the Two Due status to closed.
+
+Make sure the Two Due Tags Export Preferences specify the desired web site Tags to Select (i.e., PaganTuna), and the Tags to Suppress specify all site tags: PaganTuna, Practopian, ReasonToRock.
+
+Now publish the blog collection using the script at the following location:
+
+    ~/Two Due/Two Due for Words/twodue.tcz
+
+## 4. Generate Web Pages
+
+The actual Web pages are generated using [PSTextMerge][].
+
+The pages are generated using [PSTextMerge templates][pstextmerge-templates] stored in the pagantuna/factory folder.
+
+Run the tunagen.tcz script at the following location.
+
+    ~/Sites/pagantuna/scripts
+
+Use Transmit to sync the Web site with the local copy that has just been updated.
+
+The local copy of the site is stored at the following location:
+
+    ~/Sites/pagantuna/web
+
+
+[colophon]:    http://www.pagantuna.com/about/colophon.html
+[iwisdom]:     http://www.powersurgepub.com/products/iwisdom.html
+[markdown]:    http://daringfireball.net/projects/markdown/
+[pstextmerge]: http://www.powersurgepub.com/products/pstextmerge.html
+[pstextmerge-templates]: http://www.powersurgepub.com/products/pstextmerge/opguide/template.html
+[twodue]:      http://www.powersurgepub.com/products/twodue.html
