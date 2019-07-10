@@ -1,18 +1,18 @@
 Title:  Proposal for an Alternative to Facebook
 
-Date:   Wed Jun 13, 2012
+Date:   2012-06-13
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Web
+Tags:   Web
 
 Teaser: 
- 
+
 <p>Pretty much everyone I know, now including investors, is annoyed and disappointed with Facebook, for a whole host of reasons. </p><br><br><p>In truth, Facebook has become the Microsoft of social networking &#8212; bloated, monolithic and monopolistic to its core. </p><br><br><p>So what would it take to offer a viable alternative, to unseat FB from its throne?</p>
 
 
-Body:   
- 
+Body: 
+
 Pretty much everyone I know, now including investors, is annoyed and disappointed with Facebook, for a whole host of reasons. 
 
 In truth, Facebook has become the Microsoft of social networking -- bloated, monolithic and monopolistic to its core. 
@@ -72,5 +72,4 @@ How about this?
 So, what do you think? Am I nuts? Any value to something like this? Anything worth stating at a high level that I've left out? Too ambitious? Anyone with deep pockets interested in getting something like this off the ground?
 
 [smallpieces]: http://www.smallpieces.com/index.php
-
 

@@ -112,49 +112,28 @@
 
       <div id="body-container">
         <div id="center">
-		      <p class="tags"><a href='tags/business.html' rel='tag'>Business</a>, <a href='tags/culture.html' rel='tag'>Culture</a>, <a href='tags/diversity.html' rel='tag'>Diversity</a>, <a href='tags/software-development.html' rel='tag'>Software Development</a>, <a href='tags/technology.html' rel='tag'>Technology</a>, <a href='tags/web.html' rel='tag'>Web</a></p>
+		      <p class="tags"><a href='../posts/tags/business.html' rel='tag'>Business</a>, <a href='../posts/tags/culture.html' rel='tag'>Culture</a>, <a href='../posts/tags/diversity.html' rel='tag'>Diversity</a>, <a href='../posts/tags/software-development.html' rel='tag'>Software Development</a>, <a href='../posts/tags/technology.html' rel='tag'>Technology</a>, <a href='../posts/tags/web.html' rel='tag'>Web</a></p>
 		      <h1>Reflections on Postel&#8217;s Law</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>Reflections on Postel's Law</title>
-</head>
-<body>
-<p><a href="http://en.wikipedia.org/wiki/Jon_Postel">Jon Postel</a> was an American computer scientist who helped to develop the basic <a href="http://en.wikipedia.org/wiki/Internet_protocol_suite">protocols</a> on which the Internet is built. Among other accomplishments, he is remembered today for the formulation of a robustness principle, now often referred to as Postel&#8217;s Law. </p>
-
+<p><a href="http://en.wikipedia.org/wiki/Jon_Postel">Jon Postel</a> was an American computer scientist who helped to develop the basic <a href="http://en.wikipedia.org/wiki/Internet_protocol_suite">protocols</a> on which the Internet is built. Among other accomplishments, he is remembered today for the formulation of a robustness principle, now often referred to as Postel&rsquo;s Law.</p>
 <blockquote>
 <p>Be liberal in what you accept, and conservative in what you send.</p>
 </blockquote>
-
 <p>This was originally included as part of an early specification for the Transmission Control Protocol (TCP), and was stated in this way:</p>
-
 <blockquote>
 <p>TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.</p>
 </blockquote>
-
 <p>In other words, software code that sends commands or data to other programs should conform completely to the relevant specifications, but code that receives input should accept nonconforming input as long as the meaning is clear and the effects are benign.</p>
+<p>Note that, for a computer scientist, this principle is much more akin to an ethical admonition than a technical specification. That is, it does not state an absolute law or standard, but a general social code for software: be strict in your own behavior, but tolerant of harmless quirks in others.</p>
+<p>And, like most ethical principles, it is not universally accepted. Some have argued, for example, that being tolerant of minor failings is a slippery slope, and can allow problematic software to pass through implementation gates without correction, and then cause problems in the wild, when these problems may be much harder to identify and fix.</p>
+<p>In general, though, I think that the proposition and acceptance of Postel&rsquo;s law marks the passing of our computer systems from relatively small, well bounded, tightly controlled architectures to more sprawling, unbounded, and extensive systems. If a single architect can tightly control all elements of the architecture, and all instances of its implementation, then the need for Postel&rsquo;s law never arises. It is only when we enter the era of systems like the Internet and the World-Wide Web &ndash; <a href="http://www.amazon.com/Small-Pieces-Loosely-Joined-Unified/dp/0738208507">small pieces loosely joined</a> &ndash; that the value of Postel&rsquo;s law emerges. In systems like these, excessive fussiness can cause the entire network to become unreliable.</p>
+<p>Postel&rsquo;s law, as originally stated, was intended to apply to program-to-program communications. But what about communications between humans and software programs? It can be applied there as well. When a user interface asks for my phone number, and then rejects it because I&rsquo;ve entered it without dashes &ndash; or with, depending on the whims of the interface designer &ndash; then I know I&rsquo;m dealing with an intolerant interface. On the other hand, when my entry is happily accepted, however I punctuate it, and then reformatted for me to a convenient standard &ndash; as happens when I enter such information into Apple&rsquo;s <a href="http://www.apple.com/osx/apps/#contacts">Contacts</a> app, for example &ndash; I know I&rsquo;m dealing with a human interface based on Postel&rsquo;s Law: <em>be liberal in what you accept, and conservative in what you send</em>.</p>
+<p>The evolution of the Hypertext Markup Language (<a href="http://www.alistapart.com/articles/a-brief-history-of-markup/">HTML</a>) specification over the last decade or so can also be seen as an example of Postel&rsquo;s law at work. The original HTML language was designed to be written by humans, and early Web browsers were tolerant of minor irregularities in coding, so long as the intent of the author was clear. Upper-case tags? No problem. Lower-case tags? More, please. A paragraph tag without a matching closing tag before the next paragraph? Works for me.</p>
+<p>But then, along came eXtensible Markup Language (<a href="http://en.wikipedia.org/wiki/XML">XML</a>). And (despite its use of the letter &ldquo;X&rdquo; as an abbreviation for &ldquo;extensible&rdquo;) XML parsers were not at all tolerant of minor quirks in others. No. As a matter of fact, they were notoriously and intentionally fussy, making the office grammarian who insists on correcting others&rsquo; usage of &ldquo;who&rdquo; and &ldquo;whom&rdquo; seem like a generous and indulgent soul by comparison.</p>
+<p>So when someone had the bright idea of staging a shotgun wedding between HTML and XML, giving birth to little XHTML, trouble eventually ensued. No more mixed case in tags. Oh no. We can&rsquo;t put up with that. No more starting tags without matching tags, unless such tags are carefully identified as self-closing. And so forth. Web authors put up with this for a while, but when the XML zealots started to get really fundamentalist on them about interpretation of the specifications, they finally rebelled, and the result was HTML5. And the most notable feature of this new language specification is that it requires no version declaration, because one of the rules of the new HTML is that it always and forever accepts all prior versions as legitimate: <em>be liberal in what you accept&hellip;.</em></p>
+<p>And what about communications between people? Are these too subject to Postel&rsquo;s law? I believe so. As <a href="http://www.pagantuna.com/posts/developmental-levels.html">human societies develop</a> from traditional, fundamentalist levels to postmodern, pluralistic levels, they of necessity embrace Postel&rsquo;s law, just as computer systems do when they evolve in a parallel fashion. <em>Live and let live. Turn the other cheek. <a href="http://en.wikipedia.org/wiki/Everyday_People">Different strokes for different folks.</a> Do unto others as you would have them do unto you.</em> All of these maxims reflect the same underlying intent of Postel&rsquo;s Law: <em>follow the highest standards in your own behavior, but accept diversity in others.</em></p>
+<p>And so, as we continue our adventures in developing and participating in ever larger and more complex systems &ndash; whether computer systems or human societies &ndash; it is worthwhile to reflect on Postel&rsquo;s law from time to time. There&rsquo;s an awful lot of practical wisdom packed into this simple principle.</p>
 
-<p>Note that, for a computer scientist, this principle is much more akin to an ethical admonition than a technical specification. That is, it does not state an absolute law or standard, but a general social code for software: be strict in your own behavior, but tolerant of harmless quirks in others. </p>
-
-<p>And, like most ethical principles, it is not universally accepted. Some have argued, for example, that being tolerant of minor failings is a slippery slope, and can allow problematic software to pass through implementation gates without correction, and then cause problems in the wild, when these problems may be much harder to identify and fix. </p>
-
-<p>In general, though, I think that the proposition and acceptance of Postel&#8217;s law marks the passing of our computer systems from relatively small, well bounded, tightly controlled architectures to more sprawling, unbounded, and extensive systems. If a single architect can tightly control all elements of the architecture, and all instances of its implementation, then the need for Postel&#8217;s law never arises. It is only when we enter the era of systems like the Internet and the World-Wide Web &#8211; <a href="http://www.amazon.com/Small-Pieces-Loosely-Joined-Unified/dp/0738208507">small pieces loosely joined</a> &#8211; that the value of Postel&#8217;s law emerges. In systems like these, excessive fussiness can cause the entire network to become unreliable. </p>
-
-<p>Postel&#8217;s law, as originally stated, was intended to apply to program-to-program communications. But what about communications between humans and software programs? It can be applied there as well. When a user interface asks for my phone number, and then rejects it because I&#8217;ve entered it without dashes &#8211; or with, depending on the whims of the interface designer &#8211; then I know I&#8217;m dealing with an intolerant interface. On the other hand, when my entry is happily accepted, however I punctuate it, and then reformatted for me to a convenient standard &#8211; as happens when I enter such information into Apple&#8217;s <a href="http://www.apple.com/osx/apps/#contacts">Contacts</a> app, for example &#8211; I know I&#8217;m dealing with a human interface based on Postel&#8217;s Law: <em>be liberal in what you accept, and conservative in what you send</em>. </p>
-
-<p>The evolution of the Hypertext Markup Language (<a href="http://www.alistapart.com/articles/a-brief-history-of-markup/">HTML</a>) specification over the last decade or so can also be seen as an example of Postel&#8217;s law at work. The original HTML language was designed to be written by humans, and early Web browsers were tolerant of minor irregularities in coding, so long as the intent of the author was clear. Upper-case tags? No problem. Lower-case tags? More, please. A paragraph tag without a matching closing tag before the next paragraph? Works for me. </p>
-
-<p>But then, along came eXtensible Markup Language (<a href="http://en.wikipedia.org/wiki/XML">XML</a>). And (despite its use of the letter &#8220;X&#8221; as an abbreviation for &#8220;extensible&#8221;) XML parsers were not at all tolerant of minor quirks in others. No. As a matter of fact, they were notoriously and intentionally fussy, making the office grammarian who insists on correcting others&#8217; usage of &#8220;who&#8221; and &#8220;whom&#8221; seem like a generous and indulgent soul by comparison. </p>
-
-<p>So when someone had the bright idea of staging a shotgun wedding between HTML and XML, giving birth to little XHTML, trouble eventually ensued. No more mixed case in tags. Oh no. We can&#8217;t put up with that. No more starting tags without matching tags, unless such tags are carefully identified as self-closing. And so forth. Web authors put up with this for a while, but when the XML zealots started to get really fundamentalist on them about interpretation of the specifications, they finally rebelled, and the result was HTML5. And the most notable feature of this new language specification is that it requires no version declaration, because one of the rules of the new HTML is that it always and forever accepts all prior versions as legitimate: <em>be liberal in what you accept&#8230;.</em></p>
-
-<p>And what about communications between people? Are these too subject to Postel&#8217;s law? I believe so. As <a href="http://www.pagantuna.com/posts/developmental-levels.html">human societies develop</a> from traditional, fundamentalist levels to postmodern, pluralistic levels, they of necessity embrace Postel&#8217;s law, just as computer systems do when they evolve in a parallel fashion. <em>Live and let live. Turn the other cheek. <a href="http://en.wikipedia.org/wiki/Everyday_People">Different strokes for different folks.</a> Do unto others as you would have them do unto you.</em> All of these maxims reflect the same underlying intent of Postel&#8217;s Law: <em>follow the highest standards in your own behavior, but accept diversity in others.</em> </p>
-
-<p>And so, as we continue our adventures in developing and participating in ever larger and more complex systems &#8211; whether computer systems or human societies &#8211; it is worthwhile to reflect on Postel&#8217;s law from time to time. There&#8217;s an awful lot of practical wisdom packed into this simple principle. </p>
-</body>
-</html>
 
           <p class="pub-date">May 10, 2013</p>
 <p class="next">Next: <a href="fighting-organizational-friction.html">Fighting Organizational Friction</a></p>
@@ -167,7 +146,7 @@
 
       <div id="footer-wrapper">
 		    <div id="footer">
-          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+          Copyright &copy; 2005 - 2019 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
 		    </div>
 	    </div>
     </div><!-- /.container -->

@@ -1,18 +1,18 @@
 Title:  Why Is Software Documentation So Hard
 
-Date:   Sun May 10, 2009
+Date:   2009-05-10
 
 Status: 9 - Closed
 
-Tags:   Documentation, PaganTuna
+Tags:   Documentation
 
 Teaser: 
- 
+
 <p>It is perhaps a truism that software developers tend to be binary thinkers. The bit is either on or it&#8217;s off. My software compiles successfully or it doesn&#8217;t. My program ran successfully or it crashed. The user/customer is happy with my changes or they&#8217;re not. </p>
 
 
-Body:   
- 
+Body: 
+
 It is perhaps a truism that software developers tend to be binary thinkers. The bit is either on or it's off. My software compiles successfully or it doesn't. My program ran successfully or it crashed. The user/customer is happy with my changes or they're not. 
 
 (This simple truth is key to many of the developer practices recommended by the agile community, by the way. Many of these practices reduce more complex activities to simpler, pass/fail propositions: the change I just checked in broke the build or it didn't; the new code successfully passes all the automated regression tests or it doesn't; the other member of my programming pair approves of the code I just wrote, or doesn't; and so on.) 
@@ -38,5 +38,4 @@ Tune in again [next week][nextpost] for some clues to address this difficult top
 [Sharpie]: http://www.sharpie.com
 [Dickens]: http://en.wikipedia.org/wiki/Charles_Dickens
 [nextpost]: purpose-driven-documentation.html
-
 

@@ -112,49 +112,46 @@
 
       <div id="body-container">
         <div id="center">
-		      <p class="tags"><a href='tags/software.html' rel='tag'>Software</a>, <a href='tags/software-development.html' rel='tag'>Software Development</a>, <a href='tags/technology.html' rel='tag'>Technology</a></p>
+		      <p class="tags"><a href='../posts/tags/software.html' rel='tag'>Software</a>, <a href='../posts/tags/software-development.html' rel='tag'>Software Development</a>, <a href='../posts/tags/technology.html' rel='tag'>Technology</a></p>
 		      <h1>Software is Different</h1>
 
-<p>When we talk about software development, we often use terms like &#8220;engineering&#8221; or &#8220;architecture,&#8221; and draw on lessons learned from other environments, implying that developing software is like building a house, or designing a new consumer product. </p>
-
+<p>When we talk about software development, we often use terms like &ldquo;engineering&rdquo; or &ldquo;architecture,&rdquo; and draw on lessons learned from other environments, implying that developing software is like building a house, or designing a new consumer product.</p>
 <p>However, there are some very fundamental differences between software and these other sorts of products, and we need to keep these in mind in order to talk sensibly about software development.</p>
-
 <ol>
-<li><p>Triviality of Repetitive Manufacturing</p>
-
-<p>Within other forms of product development, significant attention is paid to manufacturing the product from a set of design documents. In most cases, many different units will be built of an identical design, so there is a repetitive element to the manufacturing process, resulting in a focus on driving out variation in manufacturing. Also, there is typically a human element in the manufacturing process, and so product quality and the risk of errors introduced in manufacturing receive much attention. </p>
-
-<p>For software, however, the design documents are the program source code, and &#8220;manufacturing&#8221; consists of building actual executables from the source. This is a process that is completely automated by compilers, linkers and other build tools, and so is relatively trivial.</p></li>
-<li><p>Product Malleability</p>
-
-<p>Software is easy to change. And once you have changed it, it is easy to regenerate the executables (manufacture it). So while we often talk about the high cost of change, most of the costs are in coordination and communication, and are not fixed costs based on material or manufacturing costs.</p></li>
-<li><p>Diversity of Purpose</p>
-
-<p>While aeronautical engineering, for example, is about making things fly, the purposes to which software can be applied are amazingly diverse, and becoming more so all the time. So the things that work well for someone developing image processing software may be different from what works well for someone developing software to process banking transactions. </p></li>
-<li><p>Rapidly Changing Environment</p>
-
-<p>When one considers other engineering fields, there is generally some physical context for the discipline that changes infrequently, or not at all. A chemical engineer operates within the field of chemistry, for example, and the number of elements, and the basic chemical laws rarely if ever change. Other engineering fields are based on physics, or thermodynamics, or some other relatively unchanging body of knowledge about the physical world. </p>
-
-<p>On the other hand, software &#8220;engineers&#8221; are operating within the constraints of the hardware available to them, and within the specified software environment &#8212; both of which are changing rapidly, and often in unpredictable ways. </p>
-
-<p>So if a student studies chemical engineering, then he or she can be relatively confident that what they learn will be of use to them over their entire careers as chemical engineers. </p>
-
-<p>On the other hand, software engineers often study languages, operating systems and hardware environments that may be entirely different five years after they have completed their studies. </p></li>
-<li><p>Layers of Software Abstraction</p>
-
-<p>Related issues are the complexity and mutability of the layers of software abstraction surrounding the problem domain in which the software developer is working. </p>
-
-<p>Many developers today, for example, develop software that sits on top of an operating system, a database management system, application integration middleware, a web server, an application server and a set of language subroutine/class libraries, all of which are in more or less constant flux. </p></li>
-<li><p>Scale</p>
-
-<p>Watts Humphrey has made the point that a civil engineer, when considering the height of a structure, only has to worry about roughly two orders of magnitude difference between the smallest and the largest product he is likely to be called upon to design: that is, the tallest structure he is likely to work on is no more than roughly 100 times the size of the shortest structure. </p>
-
-<p>On the other hand, software developers in college start out learning to write individual programs of roughly 1000 lines &#8212; but then, in the real world, are expected to work on projects developing more than a million lines of code: in other words, a difference of roughly three orders of magnitude. </p>
-
-<p>Humphrey has gone on to suggest strongly that practices that work well at the lower end of this range are not likely to scale well to the upper end. </p></li>
+<li>
+<p>Triviality of Repetitive Manufacturing</p>
+<p>Within other forms of product development, significant attention is paid to manufacturing the product from a set of design documents. In most cases, many different units will be built of an identical design, so there is a repetitive element to the manufacturing process, resulting in a focus on driving out variation in manufacturing. Also, there is typically a human element in the manufacturing process, and so product quality and the risk of errors introduced in manufacturing receive much attention.</p>
+<p>For software, however, the design documents are the program source code, and &ldquo;manufacturing&rdquo; consists of building actual executables from the source. This is a process that is completely automated by compilers, linkers and other build tools, and so is relatively trivial.</p>
+</li>
+<li>
+<p>Product Malleability</p>
+<p>Software is easy to change. And once you have changed it, it is easy to regenerate the executables (manufacture it). So while we often talk about the high cost of change, most of the costs are in coordination and communication, and are not fixed costs based on material or manufacturing costs.</p>
+</li>
+<li>
+<p>Diversity of Purpose</p>
+<p>While aeronautical engineering, for example, is about making things fly, the purposes to which software can be applied are amazingly diverse, and becoming more so all the time. So the things that work well for someone developing image processing software may be different from what works well for someone developing software to process banking transactions.</p>
+</li>
+<li>
+<p>Rapidly Changing Environment</p>
+<p>When one considers other engineering fields, there is generally some physical context for the discipline that changes infrequently, or not at all. A chemical engineer operates within the field of chemistry, for example, and the number of elements, and the basic chemical laws rarely if ever change. Other engineering fields are based on physics, or thermodynamics, or some other relatively unchanging body of knowledge about the physical world.</p>
+<p>On the other hand, software &ldquo;engineers&rdquo; are operating within the constraints of the hardware available to them, and within the specified software environment &ndash; both of which are changing rapidly, and often in unpredictable ways.</p>
+<p>So if a student studies chemical engineering, then he or she can be relatively confident that what they learn will be of use to them over their entire careers as chemical engineers.</p>
+<p>On the other hand, software engineers often study languages, operating systems and hardware environments that may be entirely different five years after they have completed their studies.</p>
+</li>
+<li>
+<p>Layers of Software Abstraction</p>
+<p>Related issues are the complexity and mutability of the layers of software abstraction surrounding the problem domain in which the software developer is working.</p>
+<p>Many developers today, for example, develop software that sits on top of an operating system, a database management system, application integration middleware, a web server, an application server and a set of language subroutine/class libraries, all of which are in more or less constant flux.</p>
+</li>
+<li>
+<p>Scale</p>
+<p>Watts Humphrey has made the point that a civil engineer, when considering the height of a structure, only has to worry about roughly two orders of magnitude difference between the smallest and the largest product he is likely to be called upon to design: that is, the tallest structure he is likely to work on is no more than roughly 100 times the size of the shortest structure.</p>
+<p>On the other hand, software developers in college start out learning to write individual programs of roughly 1000 lines &ndash; but then, in the real world, are expected to work on projects developing more than a million lines of code: in other words, a difference of roughly three orders of magnitude.</p>
+<p>Humphrey has gone on to suggest strongly that practices that work well at the lower end of this range are not likely to scale well to the upper end.</p>
+</li>
 </ol>
+<p>Considering the factors above, one should be skeptical of the value of any list that claims to offer the &ldquo;basic principles of software engineering&rdquo;: the factors that cause success or failure will often vary widely based on one or more of these other variables.</p>
 
-<p>Considering the factors above, one should be skeptical of the value of any list that claims to offer the &#8220;basic principles of software engineering&#8221;: the factors that cause success or failure will often vary widely based on one or more of these other variables.  </p>
 
           <p class="pub-date">April 4, 2009</p>
 <p class="next">Next: <a href="the-documentation-dilemma.html">The Documentation Dilemma</a></p>
@@ -167,7 +164,7 @@
 
       <div id="footer-wrapper">
 		    <div id="footer">
-          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+          Copyright &copy; 2005 - 2019 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
 		    </div>
 	    </div>
     </div><!-- /.container -->

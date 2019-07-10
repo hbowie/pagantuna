@@ -1,18 +1,18 @@
 Title:  Agile Project Planning
 
-Date:   Thu Jun 11, 2015
+Date:   2015-06-11
 
 Status: 9 - Closed
 
-Tags:   Agile, PaganTuna, Project Management
+Tags:   Agile, Project Management
 
 Teaser: 
- 
+
 <p>Many software development teams seem to treat &#8220;Agile&#8221; and &#8220;Project Planning&#8221; as if they were mutually exclusive concepts. The tendency, it seems, is to simply jump straight into Agile iterations &#8212; at best starting with an Iteration Zero &#8212; and then trust that things will sort themselves out strictly through a team-based Scrum-like approach. </p><br><br><p>In practice, though, teams seem to regularly run into trouble with this sort of na‚Äö√†√∂‚àö√≤ve approach to starting up an Agile project &#8212; especially any sort of large, ambitious project operating within the context of a major enterprise. </p><br><br><p>Rather than proceeding blindly ahead with nothing more than faith in Agile iterations as a panacea, here are some of the planning considerations that I think projects should explicitly address at their outset, before their first sprint. </p>
 
 
-Body:   
- 
+Body: 
+
 Many software development teams seem to treat "[Agile][]" and "[Project Planning][projplan]" as if they were mutually exclusive concepts. The tendency, it seems, is to simply jump straight into Agile iterations -- at best starting with an [Iteration Zero][iteration-zero] -- and then trust that things will sort themselves out strictly through a [team-based Scrum-like][scrum] approach. 
 
 In practice, though, teams seem to regularly run into trouble with this sort of naïve approach to starting up an Agile project -- especially any sort of large, ambitious project operating within the context of a major enterprise. 
@@ -22,11 +22,11 @@ Rather than proceeding blindly ahead with nothing more than faith in Agile itera
 ## 1. Define Your Vision and Examine its Implications
 
 Make sure you have a well-defined [vision][] to start with. What are you trying to accomplish? What are the key benefits to be delivered to stakeholders? Are there certain critical dates you must hit, in order to achieve benefits realization? Your vision should be succinct enough to be read in five minutes or so, but should be concrete enough to provide real guidance to the project team about what moves you towards the vision vs. what moves you away from it, or simply leaves you treading water.
-	
+
 Once you have a draft vision, interview key stakeholders individually and ask them what the project visions means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.
 
 As you are defining your vision, consider its implications. There will likely be elements that will need to be considered as you work your way through the items below. 
-	
+
 ## 2. Assess Project Constraints
 
 Are there key constraints that must be applied to your project, related to budget, resources, or schedule? Are there specific design constraints that must be respected? Make sure you understand these thoroughly and plan accordingly. 
@@ -40,21 +40,21 @@ Your [roadmap][] should show your planned releases, along with other key project
 ## 4. Identify Prioritization Criteria
 
 Agile depends on having a backlog that can be prioritized by your customer. However some projects -- such as those trying to build a replacement for an existing system -- may deliver none of their value until the entire project is completed, and so are not amenable to prioritization. If your customer sincerely believes that all requests are must-haves, then you will not be able to successfully leverage all the benefits of Agile. Perhaps the most critical items need to come first, or perhaps the most difficult items need to be addressed early on. But try to get agreement on some criteria for prioritizing your backlog. 
-	
+
 ## 5. Look for Key Requirements Challenges
 
 Are there certain areas of the project where requirements are likely to be hard to define? Perhaps areas where different stakeholders have conflicting requirements? Or areas where important stakeholders will be difficult to meet with regularly? 
-	
+
 Agile often stipulates that you will have a single Product Owner who is all-knowing and all-powerful, but in reality your situation may not be so simple and straightforward. 
-	
+
 If you can anticipate areas where requirements definition will be challenging, then you should plan time and resources to work these issues before attempting to throw them into a coding iteration in the hope that things will work themselves out there. 
 
 ## 6. Anticipate Design Challenges
 
 Are there any areas of your system that will need concentrated design attention? These may be areas of UI design, or areas of database design, or areas of application architecture, or application integration, or some combination of these and perhaps other areas. They may need special attention because certain requirements do not have straightforward solutions, or because certain design elements represent opportunities for achieving fresh and innovative solutions that will deliver significant additional value to your customers. 
-	
+
 In any of these cases, you should plan additional time and resources to work these design problems before throwing related user stories into a development iteration. 
-	
+
 ## 7. Consider Documentation Requirements
 
 James and Suzanne Robertson have pointed out that a project can be classified as [a rabbit, a horse, or an elephant][robertson], depending on the degree of formality needed for its requirements documentation. This need is often dictated by factors outside of the control of the project team, and simply waving your magic wand and saying "We're Agile!" will not automatically mean that the only thing you will be writing are user stories. 
@@ -78,7 +78,7 @@ The best way to address the need to include these unlike things in your developm
 ## 10. Integration and Hardening
 
 Will you have one or more teams working semi-independently on different pieces of your system? If so, be sure to factor in time and resources for integration testing and hardening of the integrated solution. This may come in the form of a periodic hardening sprint, or additional integration work as part of each development sprint. However you incorporate it into your plan, though, such work will consume additional time that would otherwise be available for development of new features. 
-	
+
 ## 11. Consider Overall Effort Estimates and Funding
 
 Agile generally recommends you focus on backlog prioritization and short-term commitments to get the most bang for your buck, without worrying too much about longer-term estimates and funding. However, if your project really has to accomplish certain long-term objectives in order to be successful, then you will need to do some level of estimating for the overall project, and will need to make sure you can secure funding to complete the entire job. 
@@ -120,5 +120,4 @@ Of course, it may be more fun to start developing code right away, but a little 
 [scrum]:    https://www.scrumalliance.org/why-scrum
 
 [vision]:   http://www.scaledagileframework.com/vision/
-
 

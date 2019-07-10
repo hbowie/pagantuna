@@ -1,17 +1,17 @@
 Title:  Benefits of the Scaled Agile Framework
 
-Date:   Sat Mar 21, 2015
+Date:   2015-03-21
 
 Status: 9 - Closed
 
-Tags:   Agile, PaganTuna
+Tags:   Agile
 
 Teaser: 
 
 <p>For those who have not yet heard of it, the Scaled Agile Framework, or SAFe&reg; for short, is a &#8220;publicly available framework for applying lean/agile practices at Enterprise scale.&#8221; </p><br><br><p>I believe that the SAFe model offers a number of benefits to those who may be considering its use. Let me enumerate them. </p><br><br><h2>1. It is publicly available and free to use.</h2>
 
 
-Body:   
+Body: 
 
 For those who have not yet heard of it, the Scaled Agile Framework, or [SAFe][]&reg; for short, is a "publicly available framework for applying lean/agile practices at Enterprise scale." 
 

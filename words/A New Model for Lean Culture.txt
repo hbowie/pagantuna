@@ -1,8 +1,16 @@
 Title:  A New Model for Lean Culture
 
-Date:   22 Apr 2016
+Date:   2016-04-22
 
 Status: 9 - Closed
+
+Tags:   Lean and Agile
+
+Teaser: 
+
+<p>When companies attempt to implement <a href="http://en.wikipedia.org/wiki/Lean_manufacturing">lean</a> principles, some of their biggest stumbling blocks seem to be the cultural elements. While some of the <a href="http://en.wikipedia.org/wiki/Toyota">Toyota</a> methods are very clear and specific, the cultural issues often seem more difficult to pin down. Many organizations seem to translate the most obvious elements into terms that they are comfortable with, but something often seems to get lost in the translation, and their lean implementations struggle because they have not really modified some of the basic ways in which they think about their work. </p>
+
+<p>It occurred to me recently that the basic differences in lean culture might be represented in a very simple model. At first the simplicity of the model seemed to be too good to be true, but the more I thought about it, the more it seemed to help clearly explain some of the issues that typically cause the most confusion. </p>
 
 Body: 
 

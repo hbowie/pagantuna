@@ -1,18 +1,18 @@
 Title:  Maximizing Returns on Software Development Investments
 
-Date:   Sun Dec 14, 2014
+Date:   2014-12-14
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Software Development
+Tags:   Software Development
 
 Teaser: 
- 
+
 <p>I sometimes wonder if many of us in Information Technology are yet taking an informed perspective when contemplating investments in new software development efforts. Here are several things I think we should be keeping in mind. </p>
 
 
-Body:   
- 
+Body: 
+
 # Maximizing Returns on Software Development Investments
 
 I sometimes wonder if many of us in Information Technology are yet taking an informed perspective when contemplating investments in new software development efforts. Here are several things I think we should be keeping in mind. 
@@ -69,5 +69,4 @@ Many [IT governance](http://en.wikipedia.org/wiki/Corporate_governance_of_inform
 I wonder if it isn't time for IT governance bodies to start acting more like venture capitalists. Everyone in the industry has been moaning for decades now about the high failure rates for IT projects (usually in order to sell us some new panacea that seems to help for a while, but does little in the long run to move the needle). But maybe IT projects -- like entrepreneurial startups -- are inherently risky investments. And so perhaps the job of an IT governance body should be to look for projects where the high opportunities for return outweigh the risks of failure -- just as a venture capitalist does when evaluating potential investment opportunities. 
 
 If our corporate IT investment boards started operating more like [Shark Tank](http://www.cnbcprime.com/shark-tank) -- taking risk factors like the ones above into account -- then perhaps we would see better overall returns on our software development investments.  
-
 

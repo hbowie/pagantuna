@@ -1,18 +1,18 @@
 Title:  My Own Damn Apple Watch Review
 
-Date:   Wed Jul 29, 2015
+Date:   2015-07-29
 
 Status: 9 - Closed
 
-Tags:   Apple, PaganTuna
+Tags:   Apple
 
 Teaser: 
- 
+
 <p>The Apple Watch is much like the Velvet Underground: just as it was famously said by Brian Eno that not many people listened to the original VU albums, but all of them started their own bands, so it is true that &#8220;not many&#8221; people are buying the first generation of the Apple Watch, but all of them are writing their own reviews of it. And so here&#8217;s mine.</p><br><br><h2>My Perspective</h2><br><br><p>I&#8217;m a fairly tech-savvy guy who already has at least one of just about everything Apple makes. I&#8217;m six feel tall. I walk and run, but not competitively. I&#8217;ve worn a watch all my life. </p><br><br><h2>The Goods</h2><br><br><p>I ordered the 42MM Steel Case with the Milanese Loop. Anything smaller would have looked silly on my big wrist. The steel case seemed much more like a real watch than the aluminum sport model. And I like the infinite adjustability of the Milanese loop, as opposed to some of the others. I also purchased a black Sport Band to use for running. And I also got a mophie watch dock to use for overnight charging. </p>
 
 
-Body:   
- 
+Body: 
+
 ![Dick Tracy Watch](http://www.slate.com/content/dam/slate/articles/technology/technology/2013/09/130904_TECH_GalaxyWatchDickTracy.jpg.CROP.article250-medium.jpg)
 
 The [Apple Watch][watch] is much like the [Velvet Underground][vu]: just as it was famously said by Brian Eno that not many people listened to the original VU albums, but all of them started their own bands, so it is true that "[not many][sales]" people are buying the first generation of the Apple Watch, but all of them are writing their own reviews of it. And so here's mine.
@@ -103,5 +103,4 @@ So if you happen to come across Ruthie and me dancing in her honky-tonk lagoon o
 [tracy]: http://www.thedailybeast.com/articles/2015/03/10/how-dick-tracy-invented-the-apple-watch.html
 [vu]:    https://en.wikipedia.org/wiki/The_Velvet_Underground
 [watch]: http://www.apple.com/watch/
-
 

@@ -1,18 +1,18 @@
 Title:  CMMI Take 2
 
-Date:   Tue Apr 15, 2008
+Date:   2008-04-15
 
 Status: 9 - Closed
 
-Tags:   CMMI, Improvement, PaganTuna, Software Development
+Tags:   CMMI, Improvement, Software Development
 
 Teaser: 
- 
+
 <p>I received a fair amount of feedback on my last post about the CMMI&reg; &#8212; all of which I very much appreciated &#8212; and I thought I would take another run at this subject in order to clarify some of my thoughts in this area.</p><br><br><p>Let me break this down a little differently than I did last time, and talk about five different areas.</p>
 
 
-Body:   
- 
+Body: 
+
 I received a fair amount of feedback on my [last post][lastpost] about the [CMMI][]&reg; -- all of which I very much appreciated -- and I thought I would take another run at this subject in order to clarify some of my thoughts in this area.
 
 Let me break this down a little differently than I did last time, and talk about five different areas.
@@ -150,5 +150,4 @@ Again, I do not argue that any of the above renders the contents of the CMMI obs
 [sei]: http://www.sei.cmu.edu/
 [record-labels]: http://www.rollingstone.com/news/story/15137581/the_record_industrys_decline/
 [sepg]: http://en.wikipedia.org/wiki/SEPG
-
 

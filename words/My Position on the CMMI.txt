@@ -1,18 +1,18 @@
 Title:  My Position on the CMMI
 
-Date:   Sat Mar 15, 2008
+Date:   2008-03-15
 
 Status: 9 - Closed
 
-Tags:   CMMI, Improvement, PaganTuna, Software Development
+Tags:   CMMI, Improvement, Software Development
 
 Teaser: 
- 
+
 <p>As someone engaged in software development process improvement, I often get challenged, directly or indirectly, to state my position on the Capability Maturity Model&reg; Integration, otherwise known as the <a href=&quot;http://www.sei.cmu.edu/cmmi/&quot;>CMMI</a>&reg;. While this is a complex subject, and an emotional one for many, I think it is worth addressing. So here goes. </p>
 
 
-Body:   
- 
+Body: 
+
 As someone engaged in software development process improvement, I often get challenged, directly or indirectly, to state my position on the Capability Maturity Model&reg; Integration, otherwise known as the [CMMI][]&reg;. While this is a complex subject, and an emotional one for many, I think it is worth addressing. So here goes. 
 
 Advantages of the CMMI
@@ -94,5 +94,4 @@ On the other hand, due to the accumulated weight of the reservations listed abov
 [sepg]: http://en.wikipedia.org/wiki/SEPG
 [medium-msg]: http://en.wikipedia.org/wiki/The_medium_is_the_message
 [hula-hoop]: http://en.wikipedia.org/wiki/Hula_hoop
-
 

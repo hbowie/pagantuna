@@ -1,18 +1,18 @@
 Title:  Customer Communication
 
-Date:   Wed May 13, 2009
+Date:   2009-05-13
 
 Status: 9 - Closed
 
-Tags:   Communication, Customers, Improvement, PaganTuna, Project Management
+Tags:   Communication, Customers, Improvement, Project Management
 
 Teaser: 
- 
+
 <p>One of the most important project practices is Communication. </p><br><br><p>At first, this might seem like a case of belaboring the obvious &#8212; sort of like stating that breathing is a best practice for living a long and healthy life. I mean, between meetings, e-mail, web sites, wikis, PowerPoint presentations and Word documents, it sometimes seems like we are constantly swimming in a veritable sea of communication, and the last thing we need is to be reminded to communicate. </p><br><br><p>Ah, not so fast, little grasshopper! For there is communication and then there is Communication. In particular, there is the practice of regular and proactive Communication with your Customer. And, if you are to achieve this, there is the need for a Communication Plan. </p><br><br><p>I learned the risks of not doing such communication many years ago, when I was developing a new Installment Loan system for my employer, a Savings and Loan in California. We already had a large and robust Mortgage Loan system, but the company had decided it would be advantageous to offer installment loans to its customers as well, and so they had requested a new system for this very purpose. </p>
 
 
-Body:   
- 
+Body: 
+
 One of the most important project practices is Communication. 
 
 At first, this might seem like a case of belaboring the obvious -- sort of like stating that breathing is a best practice for living a long and healthy life. I mean, between meetings, e-mail, web sites, wikis, PowerPoint presentations and Word documents, it sometimes seems like we are constantly swimming in a veritable sea of communication, and the last thing we need is to be reminded to communicate. 
@@ -36,5 +36,4 @@ Oh, wait a minute.
 That's all for now. Gotta run. 
 
 It's time for my weekly meeting with my customer. 
-
 

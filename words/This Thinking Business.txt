@@ -1,18 +1,18 @@
 Title:  This Thinking Business
 
-Date:   Sat Nov 23, 2013
+Date:   2013-11-23
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Software Development, Thought
+Tags:   Software Development, Thought
 
 Teaser: 
- 
+
 <p>A sure sign of danger on a software development project occurs whenever anyone says, &#8220;Don&#8217;t worry about the problem &#8211; just trust the process.&#8221; </p><br><br><p>This danger is equally present whether the process to be followed is of the waterfall variety, or of an agile persuasion. </p><br><br><p>The chief danger is not in picking the wrong process, but in placing an excess of faith in any process, no matter what it is. </p>
 
 
-Body:   
- 
+Body: 
+
 # This Thinking Business
 
 A sure sign of danger on a software development project occurs whenever anyone says, "Don't worry about the problem -- just trust the process." 
@@ -100,5 +100,4 @@ So, whichever it was, here's to thinking: there's nothing easy about it, but it 
 [dymond]: http://www.amazon.com/exec/obidos/ASIN/0964600803/pagantuna-20
 
 [kitty]: http://www.nps.gov/wrbr/historyculture/solvingtheproblemsofflight.htm
-
 

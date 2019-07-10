@@ -1,18 +1,18 @@
 Title:  The Dreyfus Model of Skill Acquisition
 
-Date:   Tue Dec 1, 2009
+Date:   2009-12-01
 
 Status: 9 - Closed
 
-Tags:   Education, Improvement, PaganTuna, Software Development
+Tags:   Education, Improvement, Software Development
 
 Teaser: 
- 
+
 <p>I&#8217;m taking a Mac programming course this semester, and as I wade into the strange world of Objective-C and the Cocoa frameworks, I&#8217;ve been forcibly reminded of the Dreyfus Model of Skill Acquisition. </p><br><br><p>First proposed by Stuart and Hubert Dreyfus in 1980, the model suggests that people go through roughly five stages as they acquire new skills.</p>
 
 
-Body:   
- 
+Body: 
+
 I'm taking a Mac programming course this semester, and as I wade into the strange world of Objective-C and the Cocoa frameworks, I've been forcibly reminded of the [Dreyfus Model of Skill Acquisition][dreyfus-model]. 
 
 First proposed by Stuart and Hubert Dreyfus in 1980, the model suggests that people go through roughly five stages as they acquire new skills.
@@ -81,5 +81,4 @@ By the way, thanks to [Dan North][north], who first made me aware of the Dreyfus
 [dreyfus-model]: http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [north]: http://www.infoq.com/articles/better-best-practices
 [new-guy]: the-documentation-dilemma.html
-
 

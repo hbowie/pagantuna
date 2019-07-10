@@ -1,13 +1,13 @@
 Title:  Service Overload
 
-Date:   Mon Nov 23, 2009
+Date:   2009-11-23
 
 Status: 9 - Closed
 
-Tags:   Improvement, PaganTuna, Technology
+Tags:   Improvement, Technology
 
-Body:   
- 
+Body: 
+
 The term "service" seems to be popping all over IT these days, so I thought it might be helpful to talk a little about the different ways in which the term is being used by different communities, as well as some potential concerns about taking "services" a bit too far. 
 
 <p><img src="http://media.eremedia.com/uploads/2011/10/22011422/CustomerService.jpg" alt="Customer Service" class="pic-left">
@@ -21,7 +21,7 @@ I am aware of four different ways in which this seemingly innocuous term is curr
 2. **[Software-Module-as-a-Service][soa]**. These sorts of services form the basis for what is known as a Service-Oriented Architecture (SOA). This is a reuse model in which applications are built on top of reusable business services, with the services being defined abstractly, and then instantiated typically as software that is loosely coupled via network connections. These types of services are often called [Web services][websvc]. 
 
 	In some ways, SOA is just the most technically up-to-date manifestation of the idea that developers should think of their software in terms of reusable modules, rather than a series of unique applications that inevitably seem to involve the production of a lot of code that ends up looking an awful lot like the code written for the last project. 
-	
+
 3. **[Everything-as-a-Service][itsm]**. The latest version of the [Information Technology Infrastructure Library][itil] (ITIL) takes the position that IT is best thought of as a service management operation in which everything IT delivers to a customer can be thought of as a service. This sort of approach tries to encourage us to take a more customer-focused view of IT work, and to reduce our tendency to consider IT as the job of finding a never-ending series of shiny new toys to bring back to the businesses we support.  
 
 4. **[Service-as-a-Service][service]**. In the midst of all this service frenzy, we should not forget that IT has typically used the term "service" in a more traditional sense to describe work that does not provide the customer with any tangible product. Transportation and installation of computing hardware might be one such example; a help desk might be another.    
@@ -39,11 +39,11 @@ So, now that we're clear on these varying usages of the term, here are a few poi
 5. The idea of treating everything as a service is not likely to be met with a warm reception by either customers or workers. 
 
 	Remember the digital music services that were around before Apple entered the market? They offered deals that allowed customers to pay a monthly membership fee, and then listen to as much music as they wanted from the service's libraries. Everybody in the industry thought that such services represented the wave of the future. 
-	
+
 	Then Apple came along. They sold iPods, which were products, not services. Customers paid once to download a particular product from an artist -- a track or an album -- and then had the right to play that piece of music forever. iTunes is the product that plays the music, and connects the iTunes store to your computer and in turn to your iPod. And, of course, this product-based model has been wildly successful. Why? _Because customers tend to become attached to products in a way that they never do to services._ 
-	
+
 	Workers tend to feel the same way. They tend to take pride in the creation of a product to a much greater degree than in the delivery of a service. For example, when Edward Weiler, chief scientist for the Hubble telescope, recently saw the telescope's camera again at the Smithsonian, he said it was like "[seeing a long-lost brother or sister][hubble]."
-	
+
 So while services in all their many forms are here to stay, it's best to remember to use the term in moderation: a little bit of "service" goes a long way.  
 
 [saas]: http://en.wikipedia.org/wiki/Software_as_a_service
@@ -55,5 +55,4 @@ So while services in all their many forms are here to stay, it's best to remembe
 [service]: http://en.wikipedia.org/wiki/Service_(economics)
 [bms]: http://en.wikipedia.org/wiki/Product_Structure_Modeling
 [som]: http://www.w3.org/TR/2003/WD-ws-arch-20030808/images/SOM.png
-
 

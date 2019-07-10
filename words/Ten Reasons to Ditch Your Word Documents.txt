@@ -1,18 +1,18 @@
 Title:  Ten Reasons to Ditch Your Word Documents
 
-Date:   Mon Jun 7, 2010
+Date:   2010-06-07
 
 Status: 9 - Closed
 
-Tags:   Communication, Documentation, PaganTuna, Web
+Tags:   Communication, Documentation, Web
 
 Teaser: 
- 
+
 <p>My first word processor was WordStar, running on an Osborne computer sporting the CP/M Operating System. Back in 1982, it seemed an amazing feat to be able to type a document, format it, save it to disk, modify it, and print it, all with a computer sitting on my desktop. Considering that the technology being replaced was a typewriter, this was a brilliant leap forward.</p><br><br><p>Since that time, of course, computing technology has evolved considerably. Computing networks, the Internet, the World Wide Web, Google, Wikipedia, cloud computing, PDAs, smart phones, tablet computers and more have all changed the way we think about computers and communication. </p><br><br><p>And yet, somehow, especially in business and organizational life, the word processor and its output &#8212; a stand-alone textual document, formatted for printing &#8212; have survived to this day substantially unchanged, with word processing and collections of words being treated essentially the same way they were thirty years ago. </p><br><br><p>Is this because such documents and the conventions of traditional word processors are still as useful as ever and continue to make modern businesses more productive?</p><br><br><p>No. Quite to the contrary, I will argue that such office documents are millstones around the necks of otherwise contemporary organizations, quaint anachronisms whose continuing usage is dragging down  productivity and gumming up the works of organizational life. </p>
 
 
-Body:   
- 
+Body: 
+
 <img src="http://www.pcmuseum.ca/images/DOSWordstar4upd-1-200.jpg" alt="WordStar" title="WordStar" class="pic-right">
 
 My first word processor was [WordStar][], running on an [Osborne computer][Osborne] sporting the [CP/M Operating System][cpm]. Back in 1982, it seemed an amazing feat to be able to type a document, format it, save it to disk, modify it, and print it, all with a computer sitting on my desktop. Considering that the technology being replaced was a [typewriter][], this was a brilliant leap forward.
@@ -94,7 +94,7 @@ Increasingly, users open documents as a result of following links from other doc
 * At some point, deal with all of these applications and windows that are now still open, even though you are no longer using them. 
 
 ## The Defense ##
- 
+
 Let me deal with some potential objections to my arguments at this point. Some readers may suspect that I've overstated my case. After all, word processing software has continued to grow and evolve over the years, and in many respects has made attempts to address many of the issues listed above. Is the situation really as bad as all that?
 
 Well, first of all, let me admit that word processing software still has one pretty good use case: production of papers for publication in academic journals. This is a relatively isolated backwater of document production that has not changed appreciably over the years, and word processing software is still a good fit for this particular task. (Unfortunately, this may be a significant contributing factor to the software's broader popularity, since it is after all the academics who teach the courses in which students learn to write class papers using this same software). 
@@ -114,33 +114,33 @@ Here are the tools that solve the problems above.
 1.	[Hypertext Markup Language][html] (HTML) 
 
 	This is the basic language understood by Web browsers. HTML has a nice clean document structure, and a single HTML document can be easily output to multiple device types. Users can typically choose from a number of available browsers, and can configure their browser as it suits them, adjusting things like font sizes and window sizes to their liking. HTML files are small, simple, and relatively easy for mere mortals to understand. Hyperlinks are an innate part of the language, rather than being bolted on as an afterthought. And a whole host of HTML editing tools and assistants are available to choose from.  
-	
+
 2.	[Cascading Style Sheets][css] (CSS)
 
 	A CSS file encapsulates all of the desired formatting information into a separate, compact, simple file that can be shared across a whole set of documents. Many different CSS editing tools are available. 
-	
+
 3.	[Uniform Resource Identifiers][uri] (URIs) and [Universal Resource Locators][url] (URLs)
 
 	These strings of characters are used to identify Web pages and other resources, with each such resource being assigned a unique identifier.
-	
+
 4.	Web Sites
 
 	A Web site offers a set of related pages as an alternative to a stand-alone document. Such an organizational scheme offers a relatively flat, networked structure that allows a user to access what they need when they need it, rather than forcing her to navigate through all the content in a linear fashion.  
-	
+
 5.	[Lightweight Markup Languages][lightweight] 
 
 	HTML is relatively simple, especially when using it for document composition, but the recent appearance of languages such as [Markdown][] and [Textile][] have made it even easier and more natural for authors to create documents in HTML. This blog post, for example, was composed using Markdown. 
-	
+
 6.	Version Control systems
 
 	Version Control software is relatively available, inexpensive and easy to use for plain text files such as those used to store HTML and CSS. And version control is often available as a baked-in function of web content management systems, including wikis. 
-	
+
 7.	[Web Content Management Systems][wcms] (WCMS)
 
 	Many such systems have emerged over the last few years, including several good open source solutions. Such systems make it relatively easy to organize, serve and administer Web sites of any size,  typically incorporating all of the items above: HTML, CSS, URLs/URIs, lightweight markup and version control. Such systems also help to separate the duties associated with Web site creation, allowing content contributors to do so easily, while shielding them from associated complexities having to do with administration and "look and feel" issues. 
 
 8.	[Wikis][]
-	
+
 	A wiki is a particular type of Web content management system, with a particular focus on the ease and speed of content creation and organization. Wikis also make it easy to author content collaboratively, and reduce the risk of errors or vandalism, since any past version of any page can be easily restored. The extraordinary success of [Wikipedia][] has given many people the impression that wikis are used solely for encyclopedias, but wiki software can be used to create any sort of Web or [intranet][] site. 
 
 ## In Summary ##
@@ -178,5 +178,4 @@ All it will take to realize these gains is for office workers of the world to un
 [WordStar]:   	http://en.wikipedia.org/wiki/WordStar
 [www]:        	http://en.wikipedia.org/wiki/World_Wide_Web
 [wysiwyg]:    	http://en.wikipedia.org/wiki/WYSIWYG
-
 

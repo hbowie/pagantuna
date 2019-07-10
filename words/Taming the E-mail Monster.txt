@@ -1,18 +1,18 @@
 Title:  Taming the E-mail Monster
 
-Date:   Sat Feb 11, 2012
+Date:   2012-02-11
 
 Status: 9 - Closed
 
-Tags:   Communication, PaganTuna
+Tags:   Communication
 
 Teaser: 
- 
+
 <p>I can still remember a time when the IT Director where I worked issued an edict stating that no further external memoranda would leave our department without his approval. </p><br><br><p>A statement like this sounds terribly ancient to us today, at least partially because e-mail and other forms of electronic communication have become so common that it is hard to imagine a time when the current overwhelming flow of written text could have been staunched by such a simple, peremptory command. </p><br><br><p>Almost everyone I talk to today is suffering from e-mail overload to one degree or another: I know it&#8217;s gotten bad when people tell me that they are pleasantly surprised to see that I actually respond to their e-mails within a few hours!</p><br><br><p>It doesn&#8217;t have to be that way. The genie can be put back in the bottle, and e-mail can once again become a willing helpmeet, rather than a rampaging monster. All it takes is the discipline to follow the steps below. </p><br><br><p>Note that these tips involve all the various pieces of the e-mail process. My experience has been that it is only through this sort of systems thinking that the problem can be addressed. Local solutions (deleting everything in your inbox at the end of the week, for example) may bring temporary relief to one user in the short run, but only adds to the overall problem in the larger view.</p><br><br><p>So here they are &#8212; 15 steps to stopping the e-mail madness!</p>
 
 
-Body:   
- 
+Body: 
+
 I can still remember a time when the IT Director where I worked issued an edict stating that no further external memoranda would leave our department without his approval. 
 
 A statement like this sounds terribly ancient to us today, at least partially because e-mail and other forms of electronic communication have become so common that it is hard to imagine a time when the current overwhelming flow of written text could have been staunched by such a simple, peremptory command. 
@@ -108,5 +108,4 @@ There are lots of things e-mail is not very good at. And it can certainly turn o
 This is a good recommendation for all written business communications, but is certainly applicable to e-mail. If you want people to read what you have written, then it helps to make it interesting. Your subject matter will not always have people on the edge of their seats, but with a little effort you can use humor, enthusiasm and punchy, direct language to maximize interest levels in your audience. I don't expect people to save all of my e-mails and mount them on the walls of their cubicles, but I know some of my electronic missives that have achieved that honor, and it's always a worthy goal to shoot for. 
 
 *Originally published on Oct. 21, 2010. Revised on Feb. 11, 2012, to add items 12 and 13.*
-
 

@@ -1,8 +1,10 @@
 Title:  EVM for Mere Mortals
 
-Date:   Oct 08, 2012
+Date:   2012-10-08
 
 Status: 9 - Closed
+
+Tags:   Metrics
 
 Body: 
 

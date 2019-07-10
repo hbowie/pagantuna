@@ -1,18 +1,18 @@
 Title:  The Inconvenient Truths of Software Development
 
-Date:   Fri Oct 11, 2013
+Date:   2013-10-11
 
 Status: 9 - Closed
 
-Tags:   Lean and Agile, PaganTuna, Software
+Tags:   Lean and Agile, Software
 
 Teaser: 
- 
+
 <p>Software development has often been managed using a predictive planning model based on the following principles. </p>
 
 
-Body:   
- 
+Body: 
+
 # The Inconvenient Truths of Software Development
 
 <p><a href="http://www.claybennett.com/pages2/theaters.html"><img src="http://www.claybennett.com/images/archivetoons2/theaters.jpg" alt="Cartoon by Clay Bennett"  title="Cartoon by Clay Bennett" class="pic-right" /></a></p>
@@ -86,5 +86,4 @@ So why do I feel the need to restate all of this now? Perhaps it is because, des
 And so it is tempting from time to time to slip into these old beliefs, and to pretend that we can have our cake and eat it too, be all modern and agile but retain some vestiges of this old predictive waterfall model.  
 
 So perhaps it is important, not just to state our support for agile, but to go through this catechism, to cast out the waterfall devils, to exorcise these ghosts one more time, to remind ourselves that, no matter how convenient and comforting these old beliefs may be, they simply are not true. 
-
 

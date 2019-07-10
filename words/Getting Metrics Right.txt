@@ -1,18 +1,18 @@
 Title:  Getting Metrics Right
 
-Date:   Thu Sep 24, 2009
+Date:   2009-09-24
 
 Status: 9 - Closed
 
-Tags:   Improvement, Metrics, PaganTuna
+Tags:   Improvement, Metrics
 
 Teaser: 
- 
+
 <p>It unfortunately seems that there are many more ways to get software development metrics &#8220;wrong&#8221; than there are ways to get them &#8220;right,&#8221; so be forewarned that much of my advice here will be about what <strong>not</strong> to do rather than what <strong>to</strong> do. Nonetheless, here are a baker&#8217;s dozen worth of tips on how to avoid the worst metrics pitfalls and produce constructive numbers.</p>
 
 
-Body:   
- 
+Body: 
+
 It unfortunately seems that there are many more ways to get software development metrics "wrong" than there are ways to get them "right," so be forewarned that much of my advice here will be about what **not** to do rather than what **to** do. Nonetheless, here are a baker's dozen worth of tips on how to avoid the worst metrics pitfalls and produce constructive numbers.
 
 1. **Don't Confuse Product Development with Manufacturing.** While there are similarities, product development processes are in some ways different from manufacturing processes: most fundamentally, the goal of product development is to develop something new (to create meaningful variation), while the goal of manufacturing is to build the same thing over and over again (to minimize or eliminate variation). If you approach metrics for software development expecting the process to be perfectly repeatable and mechanical, then you are very likely to end up looking for love in all the wrong places.
@@ -24,7 +24,7 @@ It unfortunately seems that there are many more ways to get software development
 	> Mechanistic and organic analogies are flawed because they are too simplistic. Kaplan and Norton's cockpit analogy would be more accurate if it included a multitude of tiny gremlins controlling wing flaps, fuel flow, and so on of a plane being buffeted by winds and generally struggling against nature, but with the gremlins always controlling information flow back to the cockpit instruments, for fear that the pilot might find gremlin replacements. It would not be surprising if airplanes guided this way occasionally flew into mountainsides when they seemed to be progressing smoothly toward their destinations.
 
 	In other words, if you devise a motivational metric (and don't kid yourself -- all metrics sponsored or endorsed by management are inherently motivational) that is dependent on accurate data entry and reporting from the people being "motivated," don't be surprised or shocked when they are subtly or not-so-subtly influenced to fudge the numbers to make themselves look good. 
-	
+
 3. **Maintain Balance.** Austin also points out that, if you're not careful, you may end up with unbalanced measures that push your practitioners too far in one direction or another. Let's say, for example, that you launch a new Quality program with the laudable goal of achieving zero post-release defects of any kind or severity. Sounds like a perfect world, right? If that is your only metric, though, then you are likely to find over time that you have achieved this goal at the expense of customer satisfaction, productivity and cycle time, since some of the practical ways to achieve  zero defects are to become excessively risk-adverse, to test obsessively, and to haggle with customers over whether a particular problem should be classified as a defect or an enhancement. Whoops -- probably not what you intended.
 
 4. **Measure Up.** Austin also advises -- and [Mary and Tom Poppendieck echo his recommendations][measure-up] -- that measurements be taken at a level *above* the level at which individuals can be directly held accountable for the numbers. Although this may seem counter-intuitive, or unfair, the beauty of this approach is that it encourages practitioners to collaborate to improve the performance of an overall system, rather than quickly figuring out the easiest way to improve their own numbers to make themselves look good. 
@@ -32,7 +32,7 @@ It unfortunately seems that there are many more ways to get software development
 5. **Avoid a Metrics Monument.** If you build an expensive, inflexible metrics collection mechanism and/or repository, then you will tend to continue using it long after it has outlived whatever original usefulness it may have once had, and it will ultimately become a shrine in which you have thoroughly entombed your once lofty ambitions for your metrics program. However tempting it may sound, and even if some well-meaning executive supplies you with funds to build such a thing, avoid this particular siren call. 
 
 6. **Natural Data Collection.** When information needs to be collected from practitioners, it is generally best to derive this data from sources already being populated as a natural result of process execution. The alternative -- to ask people to maintain special spreadsheets, to have them copy and transform data to feed into some special metrics repository -- often generates resentment from practitioners, and provides many opportunities for loss of data integrity.
-	
+
 7. **[The Medium is the Message][mcluhan64].** Carefully consider the messages -- intended or unintended -- that may be sent by your choice of metrics. If you measure lines of code produced per day, for example, you may be inadvertently sending the message that you are less interested in the quality of the work being performed than in its sheer quantity. If you measure customer satisfaction, on the other hand, you will be sending the message -- both to your developers and your customers -- that you are really concerned about how well your customers are pleased by your development efforts -- and sending this sort of message can be as important as the value you derive from the numbers you ultimately produce from the exercise.
 
 8. **Improvement Goals without Plans.** Some leaders seem to believe that they can induce their organizations to improve just by setting incremental improvement goals year over year, without any plans on how those goals will be achieved. While these sorts of approaches may appear to have some success in the short-term, they rarely achieve any sort of meaningful, lasting improvements.   
@@ -42,9 +42,9 @@ It unfortunately seems that there are many more ways to get software development
 10. **Performance to Plan.** Since one of the biggest problems in software development is taking much more time and/or money to deliver a solution than was originally planned, there is a natural tendency to obsess about cost and schedule performance, and to over-react to the slightest deviations from budget or schedule. In most cases, however, the things that cause slight deviations are not the same things that cause catastrophic overruns, so this compulsion to flag slight deviations as "condition red" situations is generally misplaced. 
 
 	[Jim Highsmith][highsmith07] has persuasively argued that project sponsors should establish acceptable *constraints* for cost and schedule performance -- rather than targets of perfect conformance to plan -- and then allow projects to vary from perfection without getting overly concerned. In most cases, he argues, a 5 - 10% deviation would be acceptable to the business, so long as they obtain the business benefits they are looking for. 
-	
+
 	The negative consequences of trying to drive plan conformance to zero are twofold: you encourage people to fudge the numbers, in order to avoid negative attention from management, and you send the message that plan conformance is more important than customer satisfaction or delivery of business value, focusing the team on less productive goals than you would like -- both of the outcomes that Austin warns us to avoid.
-	
+
 11. **Tell a Story.** Numbers by themselves have no meaning. Any good story has a beginning, a middle and an end, and your metrics should be part of such a progression. You had a problem/opportunity, you took certain actions, and you had these sorts of results. Even if your numbers show an improvement, without understanding the why and how of the improvement, it may be hard to make any good use of the numbers. 
 
   To this end, be sure to collect anecdotal evidence as well as the raw numbers. Real stories from actual practitioners in the field can help to provide background and context for your numbers, and help to fill in the "inside story" of what's actually going on out there. 
@@ -52,17 +52,17 @@ It unfortunately seems that there are many more ways to get software development
 12. **Different Strokes for Different Folks.** To some extent, you will have different sets of stakeholders who want to see different metrics for different purposes. While a metrics purist might want to try to rationalize and unify all these into some sort of cohesive metrics program, it is often better to allow these different sets to each be developed and maintained with some independence. Consider the following variations on the metrics theme:
 
 	1. *Annual Executive Goals.* These tend to get set yearly as part of some sort of executive goal-setting exercise, and often change from one year to the next. Don't over-think these, and try to accept them for what they are: communications mechanisms through which leadership identifies areas of particular importance, and temporary motivational measures intended to nudge organizational behavior in a certain direction.
-	
+
 	2. *Team Performance Measures.* These allow a team to gauge its own improvement over time. Team velocity is a great example often used by agile teams. The most important factors here are that the team feel ownership of the metric, and that it be aligned with organizational priorities. 
-	
+
 	3. *Organizational Performance Measures.* These allow a larger organization to determine if they are getting better over time. These are tricky, especially in IT organizations where many different teams, types of work, and customer sets may all get lumped together into a single number. 
-	
+
 	4. *CMMI Measures.* This is a null set, and a bogus category. You should not have any special metrics that exist only to please a [CMMI][] appraiser or consultant, or to help "pass" a [CMMI (aka SCAMPI) appraisal][scampi]. (And I say this, not out of any disrespect for the CMMI, but rather out of a deep respect for its underlying intentions.)
-	
+
 13. **Three Key Metrics.** The [Poppendiecks][ilsd] argue that you should really have metrics in three different areas: customer satisfaction, business value delivered, and the overall cycle time from the initiation of a request to its completion and delivery to the customer (from "concept to cash," as they describe it). If you have specific metrics in each of these three areas, they you will tend to have a balanced set of metrics that will drive substantive, long-term improvements in development practices. 
 
 	And isn't that what it's really all about?
-	
+
 [austin96]: http://www.amazon.com/gp/product/0932633366?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633366
 [highsmith07]: http://www.stickyminds.com/BetterSoftware/magazine.asp?fn=cifea&id=102
 [mcluhan64]: http://en.wikipedia.org/wiki/The_medium_is_the_message
@@ -70,5 +70,4 @@ It unfortunately seems that there are many more ways to get software development
 [ilsd]: http://www.amazon.com/gp/product/0321437381?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321437381
 [cmmi]: http://www.sei.cmu.edu/cmmi/
 [scampi]: http://www.sei.cmu.edu/cmmi/tools/appraisals/
-
 

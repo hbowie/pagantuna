@@ -1,18 +1,18 @@
 Title:  UX and IT
 
-Date:   Sat Mar 30, 2013
+Date:   2013-03-30
 
 Status: 9 - Closed
 
-Tags:   Apple, Business, PaganTuna, Software Development
+Tags:   Apple, Business, Software Development
 
 Teaser: 
- 
+
 <p>Usability has become a top concern for corporate CIOs in recent years. A big reason for this has been the success of Apple, since the difference between the iProducts (iPod, iPhone, iPad, iMac, etc.) and their competitors is often summed up in a single word: usability. </p><br><br><p>Unfortunately, once we enter the walled garden of corporate IT, we quickly find many more weeds than flowers, in terms of the quality of the User Experience (UX) being offered. It is tempting to think that we can fix this problem simply by investing more time, energy and dollars on usability labs, UX experts and associated training for corporate developers, but in my experience a more nuanced approach is called for. </p><br><br><p>Here are my top five recommendations for those who would attempt to improve the user experience for IT applications. </p>
 
 
-Body:   
- 
+Body: 
+
 <p><a href="http://meta.ux.stackexchange.com/questions/1105/what-qualifies-as-a-good-question-for-ux"><img class="img-top-right" src="../images/ux-and-it.jpg" alt="UX Graphic" /></a></p>
 
 Usability has become a top concern for corporate CIOs in recent years. A big reason for this has been the success of Apple, since the difference between the iProducts (iPod, iPhone, iPad, iMac, etc.) and their competitors is often summed up in a single word: usability. 
@@ -119,5 +119,4 @@ So there you have it: my top recommendations for plying the UX trade within the 
 [krug]: http://www.sensible.com/rsme.html
 [dilbert]: http://dilbert.com
 [wiz]: http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)
-
 

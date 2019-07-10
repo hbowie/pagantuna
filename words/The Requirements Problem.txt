@@ -1,18 +1,18 @@
 Title:  The Requirements Problem
 
-Date:   Fri May 29, 2009
+Date:   2009-05-29
 
 Status: 9 - Closed
 
-Tags:   Improvement, PaganTuna, Software, Software Development
+Tags:   Improvement, Software, Software Development
 
 Teaser: 
- 
+
 <p>One of the great myths of software development is that we can ask our customers to give us their requirements, that they will write them down for us, and we can then successfully build software based on those documents. </p><br><br><p>Watts Humphrey, the father of the Software CMM, puts it this way, in his seminal work, <cite>Managing the Software Process</cite>:</p>
 
 
-Body:   
- 
+Body: 
+
 One of the great myths of software development is that we can ask our customers to give us their requirements, that they will write them down for us, and we can then successfully build software based on those documents. 
 
 [Watts Humphrey](http://en.wikipedia.org/wiki/Watts_Humphrey), the father of the Software [CMM](http://en.wikipedia.org/wiki/Capability_Maturity_Model), puts it this way, in his seminal work, <cite>[Managing the Software Process](http://www.amazon.com/gp/product/0201180952?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201180952)</cite>:
@@ -62,5 +62,4 @@ Taking all of this wisdom into account, here are what I would consider the key p
 5. Requirements validation requires us to show our customers what we propose to give them. 
 
 6. A certain degree of risk is inherent in the process, and your best approach is not to try to avoid risk altogether, but to try to keep the degree of risk within acceptable levels, while also being mindful of cost and schedule. 
-
 

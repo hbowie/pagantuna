@@ -1,19 +1,17 @@
 Title:  Polarities in Software Development
 
-Date:   Wed Nov 19, 2014
+Date:   2014-11-19
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Software Development
+Tags:   Software Development
 
 Teaser: 
- 
+
 <p>I&#8217;ve written in the past about the importance of understanding polarities and how they need to be managed. </p><br><br><p>My previous post involving Polarity Management concerned process improvement, but the topic is equally relevant to other aspects of software development. </p><br><br><p>A polarity is most simply defined as a complex problem that has no solution. It might also be stated as an either/or question that has no single right answer. A more complete definition might be &#8220;A set of two opposing or contradictory extremes permitting wide variation along a spectrum of choices, with both opposing poles offering advantages and disadvantages.&#8221;</p><br><br><p>The pros and cons of a polarity are often represented in the form of a polarity map, in which each quadrant represents the pros or cons of one pole or another.  </p><br><br><p>Now that we know what a polarity is, let&#8217;s look at a number of different polarities that need to be commonly addressed during a software development project. </p>
 
 
-Body:   
- 
-# Polarities in Software Development 
+Body: 
 
 I've written in the past about the importance of understanding polarities and how they need to be managed. 
 
@@ -92,5 +90,4 @@ I have also found that traditional risk management often fails to help achieve a
 While Barry Goldwater may have famously said that "extremism in defense of liberty is no vice," I am strongly suggesting that extremism in defense of any of these poles on a software development project is very likely to be a vice. This is not to say that it's best to always proceed down the middle of the road, but that it's best to always have an informed, open-minded approach to achieving appropriate balance of all these polarities, in light of the characteristics of a particular project. 
 
 Software development is difficult enough under the best of circumstances. Turning any of these poles into absolute principles, to be defended as fundamental articles of faith, is likely to burden your software development project with more problems than it can handle. 
-
 

@@ -1,10 +1,14 @@
 Title:  Lessons We (Should) Have Learned from the Web
 
-Date:   Jul 26, 2015
+Date:   2015-07-26
 
 Status: 6 - Completed
 
 Tags:   Documentation, Web
+
+Teaser: 
+
+<p>There are a number of basic principles that those of us in the Information Technology field should have learned from the tremendous success of the Internet and the World Wide Web. </p>
 
 Body: 
 

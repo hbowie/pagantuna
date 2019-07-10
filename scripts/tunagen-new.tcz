@@ -1,0 +1,96 @@
+module	action	modifier	object	value
+
+<!-- Set Web Root -->
+
+template	webroot	text		#PATH#../web/
+
+<!-- Process quotations -->
+
+input	set		normalization	0
+input	open	file		#PATH#../data/export.tab
+sort	add	Ascending	itemid
+sort	set		params
+template	open	file		#PATH#../factory/wisdom/wisdom_page_template.html
+template	generate
+template	open	file		#PATH#../factory/wisdom_navigate_template.js
+template	generate
+sort	clear
+sort	set		params
+sort	add	Ascending	title
+sort	set		params
+template	open	file		#PATH#../factory/wisdom/index-by-title_template.html
+template	generate
+sort	clear
+sort	set		params
+sort	add	Descending	dateadded
+sort	set		params
+template	open	file		#PATH#../factory/wisdom/wisdom_rss_template.xml
+template	generate
+template	open	file		#PATH#../factory/wisdom/index-latest_template.html
+template	generate
+sort	clear
+sort	set		params
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	file		#PATH#../factory/wisdom/authors/author_page_template.html
+template	generate
+template	open	file		#PATH#../factory/wisdom/authors/index-by-author_template.html
+template	generate
+
+<!-- Process quotations split by tag -->
+
+input	open	file		#PATH#../data/split_export.tab
+sort	add	Ascending	category
+sort	add	Ascending	duedateymd
+sort	set		params
+template	open	file		#PATH#../factory/wisdom/tags/tag_page_template.html
+template	generate
+template	open	file		#PATH#../factory/wisdom/tags/index_by_tag_template.html
+template	generate
+
+<!-- Process Blog Posts split by tag -->
+
+input	set		normalization	0
+input	open	file		#PATH#../data/words_split.tab
+filter	add	greater than or equal to	Status	6 - Completed
+filter	set		params
+sort	add	Ascending	tag
+sort	add	Ascending	date
+sort	set		params
+template	open	file		#PATH#../factory/posts/tags/index_by_tag_template.html
+template	generate
+template	open	file		#PATH#../factory/posts/tags/tag_page_template.html
+template	generate
+
+<!-- Process Blog Posts -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../words/
+filter	add	greater than or equal to	Status	6 - Completed
+filter	set		params
+sort	add	Ascending	Date
+sort	set		params
+template	open	file		#PATH#../factory/posts_navigate_template.js
+template	generate
+template	open	file		#PATH#../factory/posts/post_page_next_template.html
+template	generate
+sort	clear
+sort	set		params
+sort	add	Ascending	title
+sort	set		params
+template	open	file		#PATH#../factory/posts/post_page_template.html
+template	generate
+template	open	file		#PATH#../factory/posts/index-by-title_template.html
+template	generate
+sort	clear
+sort	set		params
+sort	add	Descending	date
+sort	set		params
+template	open	file		#PATH#../factory/index_template.html
+template	generate
+template	open	file		#PATH#../factory/posts/posts_rss_template.xml
+template	generate
+template	open	file		#PATH#../factory/rss_template.xml
+template	generate

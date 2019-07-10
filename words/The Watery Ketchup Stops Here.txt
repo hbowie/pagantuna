@@ -1,18 +1,18 @@
 Title:  The Watery Ketchup Stops Here
 
-Date:   Fri Jun 12, 2009
+Date:   2009-06-12
 
 Status: 9 - Closed
 
-Tags:   Culture, Leadership, Lean and Agile, PaganTuna
+Tags:   Culture, Leadership, Lean and Agile
 
 Teaser: 
- 
+
 <p>Entrepreneurs sometimes get a bad rap. </p><br><br><p>Anybody recognize this gentleman?</p><br><br><p>A few years before the iPod, he developed and marketed a portable computer about the size and heft of a sewing machine, and sold it under his own name. It ran what was then the most popular operating system for home computers, and came with a slew of software, including a Basic compiler from what was then a relatively small startup in the great Northwest. </p><br><br><p>It was a revolutionary computer in many ways, and achieved some notable short-term success. However, its creator never made any money from it, and it was driven out of business by its competitors in a few years, which is why the guy who marketed that pre-Visual Basic compiler is now a lot better known than Adam Osborne. </p><br><br><p>This is our usual image of the entrepreneur: the restless loner, always willing to risk it all on one more roll of the dice, one last long shot, one final chance to grab the golden ring. </p><br><br><p>I stumbled across a wonderful book recently, <cite>The Empowered Manager: Positive Political Skills at Work</cite>, by Peter Block, and in it he talks about choosing the entrepreneurial path over the bureaucratic path when working within large organizations. </p>
 
 
-Body:   
- 
+Body: 
+
 Entrepreneurs sometimes get a bad rap. 
 
 Anybody recognize this gentleman?
@@ -68,5 +68,4 @@ At no time during our lunch did I hear anyone use the words Greatness, Courage o
 More and more, as I engage in discussions about what it takes to change corporate culture, it seems to me that this is often the key issue: how many of us are willing to stand up and say these magic words...
 
 The watery ketchup stops here.
-
 

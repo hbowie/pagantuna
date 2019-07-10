@@ -1,18 +1,18 @@
 Title:  Take the Agile Train
 
-Date:   Sat Jun 6, 2009
+Date:   2009-06-06
 
 Status: 9 - Closed
 
-Tags:   Jazz, Lean and Agile, Music, PaganTuna
+Tags:   Jazz, Lean and Agile, Music
 
 Teaser: 
- 
+
 <p>I noticed this week that jazz trumpeter and composer Wynton Marsalis was awarded an honorary Doctor of Music degree from Harvard University. </p><br><br><p>This got me thinking about some of the notable messages from his and Geoffrey Ward&#8217;s recent book <cite>Moving to Higher Ground: How Jazz Can Change Your Life</cite>.</p><br><br><p>Dr. Marsalis is a philosopher as well as a musician, and in this book he and Ward have this to say about jazz and democracy:</p>
 
 
-Body:   
- 
+Body: 
+
 I noticed this week that jazz trumpeter and composer Wynton Marsalis was awarded an honorary [Doctor of Music degree][harvard] from Harvard University. 
 
 ![Wynton Marsalis][harvard-pic]
@@ -69,5 +69,4 @@ For those interested in learning more about Marsalis, jazz and technology, see t
 [harvard-pic]: http://www.boston.com/news/local/breaking_news/marsalis_harvard_graduation_060409.jpg
 [marsalis-google]: http://www.youtube.com/watch?v=_qsVApXwCqA
 [marsalis-2008]: http://www.amazon.com/gp/product/1400060788?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400060788
-
 

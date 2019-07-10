@@ -1,18 +1,18 @@
 Title:  The Primary Functions of Management
 
-Date:   Mon Sep 8, 2014
+Date:   2014-09-08
 
 Status: 9 - Closed
 
-Tags:   Leadership, PaganTuna
+Tags:   Leadership
 
 Teaser: 
- 
+
 <p>It occurred to me recently that there are really three essential functions of management. </p><br><br><p><strong>Strategy</strong>: setting a direction for your organization.</p><br><br><p><strong>Alignment</strong>: getting organizational resources lined up to execute the strategy. </p><br><br><p><strong>Execution</strong>: delivering expected results as part of the fulfillment of your strategy.</p><br><br><p>One might argue that there are many more functions of management, but I think it is helpful to understand that these three are the primary and in fact essential functions, and that all the other things managers do must be understood to support one or more of these three functions.  </p><br><br><p>Let&#8217;s take a look, then, at the essential nature of these three functions. </p>
 
 
-Body:   
- 
+Body: 
+
 It occurred to me recently that there are really three essential functions of management. 
 
 **Strategy**: setting a direction for your organization.
@@ -78,5 +78,4 @@ Unlike strategy, which is forward-looking, execution requires a tactical focus o
 2. If you are unsure whether a certain decision has to do with elements of strategy, then ask yourself whether that decision  affects your resource allocation. If a decision requires you to acquire or get rid of resources, or to change the types of resources you are using, or to reassign resources to a different statement of work, then it is probably a decision that involves some elements of strategy.  
 
 3. As a manager, at any level of an organization, you always need to maintain an awareness of which function you are being called upon to perform in any situation. If a strategy has been set at a higher level, then it is part of your job to align resources to that strategy (or to convince your leadership that they should adopt a better strategy). 
-
 

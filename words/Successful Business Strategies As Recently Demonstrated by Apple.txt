@@ -1,17 +1,18 @@
 Title:  Successful Business Strategies (As Recently Demonstrated by Apple)
 
-Date:   Wed Mar 21, 2012
+Date:   2012-03-21
 
 Status: 9 - Closed
 
-Tags:   Apple, Business, PaganTuna
+Tags:   Apple, Business
 
 Teaser: 
- 
+
 <p>I had dinner with a group of friends a few nights ago, and we enjoyed a couple of conversations that started me thinking about the business strategies that have made Apple so successful in the last few years. </p><br><br><p>I point these out because I think all of them are worthy of emulation, and few of them are actually put into practice by many other companies. </p><br><br><p>So here they are: the seven business strategies that have arguably led Apple to the top of the global corporate heap.</p>
 
-Body:   
- 
+
+Body: 
+
 I had dinner with a group of friends a few nights ago, and we enjoyed a couple of conversations that started me thinking about the business strategies that have made Apple so successful in the last few years. 
 
 I point these out because I think all of them are worthy of emulation, and few of them are actually put into practice by many other companies. 
@@ -91,5 +92,4 @@ Unlike many of its competitors, Apple has resisted the temptation to get into ev
 Oh, and what were those conversations I was having with friends that led me to write this piece? One long-time Windows users showed up to dinner with a shiny new MacBook. When I asked him what had happened, he said he was still running Windows, but he&#8217;d purchased a MacBook because &#8220;Apple makes the best hardware.&#8221;
 
 The other friend was a Microsoft employee, and he was explaining that company&#8217;s modest goals in the smart phone and tablet markets.
-
 

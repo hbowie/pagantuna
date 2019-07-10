@@ -1,18 +1,18 @@
 Title:  Art as Apple Strategy
 
-Date:   Thu Apr 30, 2009
+Date:   2009-04-30
 
 Status: 9 - Closed
 
-Tags:   Apple, Art, Business, PaganTuna
+Tags:   Apple, Art, Business
 
 Teaser: 
- 
+
 <p>Much has been written about Apple&#8217;s recent resurgence but, in many ways, the key to Apple&#8217;s success can be expressed in a single word: <em>art</em>. </p><br><br><p>Art is something we often think of as being sequestered away in a museum, separated from our daily lives, and certainly kept at a great distance from anything to do with business. Conventional wisdom has it that art cares nothing about money, and business cares all the world about it, so trying to mix them together will only ruin both. </p><br><br><p>Apple, however, has proven that nothing could be further from the truth. Let&#8217;s look at how art has shaped Apple&#8217;s business strategy and ultimately led to the success it currently enjoys in the marketplace. </p>
 
 
-Body:   
- 
+Body: 
+
 Much has been written about Apple's recent resurgence but, in many ways, the key to Apple's success can be expressed in a single word: *art*. 
 
 Art is something we often think of as being sequestered away in a museum, separated from our daily lives, and certainly kept at a great distance from anything to do with business. Conventional wisdom has it that art cares nothing about money, and business cares all the world about it, so trying to mix them together will only ruin both. 
@@ -54,5 +54,4 @@ So, if Bill Gates, Michael Dell and other competing CEOs wish some advice on how
 [breakthrough deal]: http://www.apple.com/pr/library/2007/04/02Apple-Unveils-Higher-Quality-DRM-Free-Music-on-the-iTunes-Store.html
 
 [Henry Miller]: http://en.wikipedia.org/wiki/Henry_Miller
-
 

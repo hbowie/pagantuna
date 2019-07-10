@@ -1,18 +1,18 @@
 Title:  The Apple Checklist
 
-Date:   Fri Sep 7, 2012
+Date:   2012-09-07
 
 Status: 9 - Closed
 
-Tags:   Apple, PaganTuna, Technology
+Tags:   Apple, Technology
 
 Teaser: 
- 
+
 <p>There has been much discussion in recent years of the chief reason for Apple&#8217;s phenomenal success. Apple&#8217;s design skills, for example, are often cited as the primary discriminator between Apple and its competition. </p><br><br><p>In some ways, though, I think that long-time Apple users and fans are sometimes misled in this regard by their traditional loyalties: there is a certain tendency among us to seek vindication, and to assume that Apple is now succeeding because others are finally learning to appreciate the virtues that we had recognized long ago. </p><br><br><p>It occurred to me recently, however, that an explanation for Apple&#8217;s ability to dominate its chosen market segments may rest more on its ability to satisfy a long checklist for each of its products, rather than to simply succeed in one key area. </p><br><br><p>This product checklist might look something like the following.</p>
 
 
-Body:   
- 
+Body: 
+
 <p><a href="http://itunes.apple.com/us/app/checklist/id335312465?mt=8"><img class="img-top-right" src="http://a2.mzstatic.com/us/r1000/106/Purple/66/a7/21/mzl.yjprjgfe.320x480-75.jpg" alt="CheckList App" title="CheckList App" /></a></p>
 
 There has been much discussion in recent years of the chief reason for Apple's phenomenal success. Apple's design skills, for example, are often cited as the primary discriminator between Apple and its competition. 
@@ -62,5 +62,4 @@ This product checklist might look something like the following.
 19. Prices that are at or below those of their competitors, and inexpensive enough to make impulse purchases possible. 
 
 I would argue that, while we might individually have our favorite items on this list, it is the ability of Apple to succeed simultaneously in all these areas that enables the sort of market domination that we have seen for the iPod, the iPhone and now the iPad. So long as Apple can offer all of the above for its products, it leaves consumers with little reason to consider other options, and maximizes the challenges for its competitors. 
-
 

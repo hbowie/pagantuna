@@ -1,18 +1,18 @@
 Title:  The Progress Polarity
 
-Date:   Mon May 11, 2009
+Date:   2009-05-11
 
 Status: 9 - Closed
 
-Tags:   Improvement, PaganTuna
+Tags:   Improvement
 
 Teaser: 
- 
+
 <p>Every once in a while, an idea crosses my path at the right time and gets fixed in my brain as part of my general Thinking Toolkit.</p><br><br><p>I experienced one of these events a few years back during a leadership class I was attending. The course contained a module on Polarity Management(R), and this struck me as such an eminently useful concept that it has stayed with me ever since. The basic concepts came from the book <cite>Polarity Management</cite>  by Barry Johnson.</p>
 
 
-Body:   
- 
+Body: 
+
 Every once in a while, an idea crosses my path at the right time and gets fixed in my brain as part of my general Thinking Toolkit.
 
 I experienced one of these events a few years back during a leadership class I was attending. The course contained a module on [Polarity Management](http://www.polaritypartnerships.com)(R), and this struck me as such an eminently useful concept that it has stayed with me ever since. The basic concepts came from the book <cite>[Polarity Management](http://www.amazon.com/gp/product/0874251761?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0874251761)</cite>  by Barry Johnson.
@@ -77,5 +77,4 @@ For many years now, we have stuck with the following pace:
 * Minor defect correction and cosmetic/clarifying changes done whenever they are ready.
 
 We recognize that this is not a perfect solution -- not the "right" answer to this complex problem. On balance, though, it seems to be the pace that strikes the best balance for our community, that gets us closest to that ideal of preserving order amid change, and change amid order.
-
 

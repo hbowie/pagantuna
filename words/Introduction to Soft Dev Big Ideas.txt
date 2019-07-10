@@ -1,8 +1,20 @@
 Title:  Introduction to Soft Dev Big Ideas
 
-Date:   12 Sep 2016
+Date:   2016-09-12
 
 Status: 9 - Closed
+
+Tags:   Software Development
+
+Teaser: 
+
+<p>I have been practicing software development for more than four decades now, and over that time, in addition to writing a lot of code, and being part of numerous projects in varying capacities, I&#8217;ve done a fair amount of reading on the topic. In fact, I have shelves full of books on the subject, starting with classics like <em>The Mythical Man Month</em>, proceeding through the CMM period and then on into the Lean/Agile years.</p>
+
+<p>And, of course, the number of new words written on the topic increases daily.</p>
+
+<p>How can a software developer keep up?</p><p>I&#8217;m a firm believer that new ideas are generated from time to time, and that it is worthwhile to read about software development as well as to do it; on the other hand, I&#8217;m now at the point of wondering whether it wouldn&#8217;t be possible to communicate the most important ideas about the field in a simpler, more concise, more easily accessible fashion.</p>
+
+<p>And so I am setting off to test my hypothesis by trying to document the <a href="http://www.softdevbigideas.com">Big Ideas in Software Development</a> in a concrete, manageable, sequential list.</p>
 
 Body: 
 

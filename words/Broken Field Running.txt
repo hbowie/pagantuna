@@ -1,18 +1,18 @@
 Title:  Broken Field Running
 
-Date:   Wed Sep 23, 2009
+Date:   2009-09-23
 
 Status: 9 - Closed
 
-Tags:   Lean and Agile, PaganTuna
+Tags:   Lean and Agile
 
 Teaser: 
- 
+
 <p>Now that we&#8217;re in the thick of another US college football season, it occurs to me that IT application developers might benefit from having a different mental model to represent the work they do. </p><br><br><p>When I talk to architects, analysts and programmers about their projects, they often describe them as if they were heading in a straight line from some known starting point to a clearly defined end state &#8212; almost as if they were running at a track meet. </p><br><br><p>And yet, when I watch football on autumn Saturdays, I can&#8217;t help but notice&#8230; very few touchdowns get scored this way. This is because the ball carriers have to avoid obstacles on the way to the goal line. And so what you see is something described by the picturesque phrase, &#8220;broken field running,&#8221; meaning &#8220;varying in direction suddenly and frequently.&#8221;</p>
 
 
-Body:   
- 
+Body: 
+
 Now that we're in the thick of another US college football season, it occurs to me that IT application developers might benefit from having a different mental model to represent the work they do. 
 
 When I talk to architects, analysts and programmers about their projects, they often describe them as if they were heading in a straight line from some known starting point to a clearly defined end state -- almost as if they were running at a track meet. 
@@ -64,5 +64,4 @@ Well, frankly, I'm not so sure. My sense is that, when reading some of the early
 [scrum-dev]: http://en.wikipedia.org/wiki/Scrum_(development)
 [running-back-agility]: http://www.wikihow.com/Improve-Agility-for-Running-Backs
 [agile]: http://agilemanifesto.org/principles.html
-
 

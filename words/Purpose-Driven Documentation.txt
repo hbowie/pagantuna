@@ -1,18 +1,18 @@
 Title:  Purpose-Driven Documentation
 
-Date:   Sun May 10, 2009
+Date:   2009-05-10
 
 Status: 9 - Closed
 
-Tags:   Documentation, PaganTuna
+Tags:   Documentation
 
 Teaser: 
- 
+
 <p>So how do software developers know whether they are doing too little or too much documentation?</p><br><br><p>The first step on the road to documentation sanity is to ask ourselves whether we have a good reason for creating a document.</p><br><br><p>I will assert that there are three, and only three, reasons to create software documentation. These three broad purposes really correspond to three distinct audiences. All software documentation should be aligned with one (or, ideally, more) of these three purposes. </p>
 
 
-Body:   
- 
+Body: 
+
 So how do software developers know whether they are doing too little or too much documentation?
 
 The first step on the road to documentation sanity is to ask ourselves whether we have a good reason for creating a document.
@@ -88,5 +88,4 @@ I believe there is some very practical guidance we can provide, based on the pur
 1. The larger the project, the more tangled these issues become so, again, shorter and smaller projects tend to require less documentation. 
 
 2. The best way to accomplish the needed traceability is through automated change management and version control systems that are joined at the hip, with both the source code itself and the system documentation being under version control. 
-
 

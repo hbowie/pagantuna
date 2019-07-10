@@ -1,18 +1,18 @@
 Title:  To COTS or Not That is the Question
 
-Date:   Wed May 13, 2009
+Date:   2009-05-13
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Software, Software Development, Technology
+Tags:   Software, Software Development, Technology
 
 Teaser: 
- 
+
 <p>When I talk to IT software developers, one of the areas of controversy that comes up frequently is the use of purchased applications packages. </p><br><br><p>Too often we in IT seem to be lured by the promise of off-the-shelf functionality whose development costs will be spread over a large customer base, yet end up with purchased software that we then have to modify or extend to fit our special requirements, ensuring that we end up with the worst of both worlds.</p>
 
 
-Body:   
- 
+Body: 
+
 When I talk to IT software developers, one of the areas of controversy that comes up frequently is the use of purchased applications packages. 
 
 Too often we in IT seem to be lured by the promise of off-the-shelf functionality whose development costs will be spread over a large customer base, yet end up with purchased software that we then have to modify or extend to fit our special requirements, ensuring that we end up with the worst of both worlds.
@@ -55,5 +55,4 @@ Well, there you have it. Answer these six questions honestly and thoughtfully an
 [1]: http://en.wikipedia.org/wiki/Material_requirements_planning
 [2]: http://www.apics.org
 [3]: http://en.wikipedia.org/wiki/Independent_software_vendor
-
 

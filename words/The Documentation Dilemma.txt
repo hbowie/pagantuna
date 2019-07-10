@@ -1,18 +1,18 @@
 Title:  The Documentation Dilemma
 
-Date:   Sat Apr 4, 2009
+Date:   2009-04-04
 
 Status: 9 - Closed
 
-Tags:   Documentation, PaganTuna
+Tags:   Documentation
 
 Teaser: 
- 
+
 <p>I remember being hired a few years back to develop a new system for my employer.</p><br><br><p>On my very first day, I was handed a couple of thick manuals that spelled out, in great detail, the development methodology that the company was using. As with any such approach, it described the various phases of our systems development lifecycle, and the primary documents to be delivered by each phase, with each successive set gradually moving closer to the level of the actual code to be produced. </p><br><br><p>Being the new guy on the block, I did what I was told, and followed the set of manuals pretty closely. By the time I was done with the project, I had my own set of binders, full of all the requisite documentation for the new system. </p>
 
 
-Body:   
- 
+Body: 
+
 I remember being hired a few years back to develop a new system for my employer.
 
 On my very first day, I was handed a couple of thick manuals that spelled out, in great detail, the development methodology that the company was using. As with any such approach, it described the various phases of our systems development lifecycle, and the primary documents to be delivered by each phase, with each successive set gradually moving closer to the level of the actual code to be produced. 
@@ -38,5 +38,4 @@ Below is a brief but representative sampling:
 * "Our process is missing some key document types. We have to add these, otherwise developers won't possibly be able to develop software correctly!" 
 
 Clearly, we have a problem here. 
-
 

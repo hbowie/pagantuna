@@ -1,20 +1,20 @@
 Title:  Model Mania
 
-Date:   Fri Nov 6, 2009
+Date:   2009-11-06
 
 Status: 9 - Closed
 
-Tags:   Improvement, PaganTuna
+Tags:   Improvement
 
 Teaser: 
- 
+
 <p>I just finished an interesting new book by Rob Austin, Richard Nolan and Shannon O&#8217;Donnell, called <cite>Adventures of an IT Leader</cite>. The authors offer a fictionalized account of a business executive&#8217;s ups and downs after being assigned the job of CIO for his company. The book does a good job of describing the dilemmas faced by Information Technology leaders, and offers some helpful (although not always simple) advice on how to confront these issues. </p><br><br><p>At the end of the book, just as our hero is starting to feel like he has a handle on this whole CIO thing, he meets up with a shadowy, wizardly character who has been offering cryptic, sometimes zen-like advice over the course of the tale, and this guy proceeds to burst our hero&#8217;s bubble. </p>
 
 
-Body:   
- 
+Body: 
+
 <img src="http://hbr.org/products/11990-HBK-ENG/thumbnail/thumbnail.gif" alt="Adventures of an IT Leader Book Cover" title="" class="pic-right"> I just finished an interesting new book by Rob Austin, Richard Nolan and Shannon O'Donnell, called <cite>[Adventures of an IT Leader][adventures]</cite>. The authors offer a fictionalized account of a business executive's ups and downs after being assigned the job of CIO for his company. The book does a good job of describing the dilemmas faced by Information Technology leaders, and offers some helpful (although not always simple) advice on how to confront these issues. 
-	
+
 At the end of the book, just as our hero is starting to feel like he has a handle on this whole CIO thing, he meets up with a shadowy, wizardly character who has been offering cryptic, sometimes zen-like advice over the course of the tale, and this guy proceeds to burst our hero's bubble. 
 
 > ...you said you think you know some things. What you *mean* is, you've constructed simplified representations of how those things work. But don't confuse yourself by thinking your simplified mental constructions are *realistic*, or worse yet, *true* ... Nothing useful is real. If it's complicated enough to be realistic, it's too complicated to be useful. That's why we build models. Representations. When we say we know things, we just mean we have mental models of those things that we like. Often we like them because they've been useful. But let's not confuse having a useful model with actual knowing. 
@@ -69,5 +69,4 @@ But let's keep them off the pedestals and on their leashes, please, to remind us
 [uft]: http://en.wikipedia.org/wiki/Unified_field_theory
 [itil-vs-mof]: http://www.smbworldasia.com/en/content/itil-vs-mof-find-best-it-framework-option-midmarket
 [pmbok]: http://en.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge
-
 

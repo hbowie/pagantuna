@@ -1,18 +1,18 @@
 Title:  The Process Prescription Polarity
 
-Date:   Fri May 15, 2009
+Date:   2009-05-15
 
 Status: 9 - Closed
 
-Tags:   Improvement, PaganTuna
+Tags:   Improvement
 
 Teaser: 
- 
+
 <p>I talked in a recent post about the concepts of Polarity Management and what I called the Progress Polarity<br>. </p><br><br><p>Another polarity often encountered in Software Process Improvement is what might be called that of Process Prescription. In other words: </p><br><br><h3>Should our organizational processes tell projects exactly what to do, or should these processes allow projects considerable latitude and discretion?</h3>
 
 
-Body:   
- 
+Body: 
+
 I talked in a recent post about the concepts of [Polarity Management][polarity-mgmt] and what I called the [Progress Polarity][progress-polarity]. 
 
 Another polarity often encountered in Software Process Improvement is what might be called that of Process Prescription. In other words: 
@@ -85,5 +85,4 @@ Some of the typical ways to achieve compromise are:
 [polarity-mgmt]:      http://www.polaritypartnerships.com/
 [progress-polarity]:  the-progress-polarity.html
 [sei]:                http://www.sei.cmu.edu/
-
 

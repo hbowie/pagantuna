@@ -1,18 +1,18 @@
 Title:  Tech Titans Compete
 
-Date:   Sun Jul 29, 2012
+Date:   2012-07-29
 
 Status: 9 - Closed
 
-Tags:   Apple, Business, PaganTuna, Technology
+Tags:   Apple, Business, Technology
 
 Teaser: 
- 
+
 <p>Industry analysts and pundits are fond of depicting the technology marketplace as full of drama and unexpected twists resulting from unfettered competition between the giants of the industry. </p><br><br><p>Witness the recent excellent <em>Vanity Fair</em> article on &#8220;Microsoft&#8217;s Lost Decade.&#8221;</p><br><br><p>It occurred to me though, while thinking about this piece, that the truth may be a bit different.</p><br><br><p>As a matter of fact, I would assert that, once a company successfully stakes out a claim in the tech marketplace, it tends to work that area repeatedly, perhaps extending the edges a bit here and there, but rarely if ever taking over a competitor&#8217;s space. </p>
 
 
-Body:   
- 
+Body: 
+
 <div class='img-top-right' >
   <img src='http://www.pagantuna.com/images/google-vs-apple-vs-microsoft-picture.png' border='0' />
 </div>
@@ -49,5 +49,4 @@ Seen through this prism, the tech arena is less interesting than the pundits wou
 [jack]: http://en.wikipedia.org/wiki/Jack_(mascot)
 [ronald]: http://en.wikipedia.org/wiki/Ronald_McDonald
 [articulate]: http://www.asymco.com/2012/07/10/the-poetry-of-steve-ballmer/
-
 

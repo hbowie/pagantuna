@@ -1,18 +1,18 @@
 Title:  The 4-D Lifecycle
 
-Date:   Tue May 12, 2009
+Date:   2009-05-12
 
 Status: 9 - Closed
 
-Tags:   Documentation, PaganTuna, Software Development
+Tags:   Documentation, Software Development
 
 Teaser: 
- 
+
 <p>As I look back over my development career, it occurs to me that &#8212; no matter what methodology was in use at the time &#8212; all projects seemed to go through three essential phases. Being in an alliterative frame of mind, I will call these Discover, Drive to Decisions, and Deliver. </p>
 
 
-Body:   
- 
+Body: 
+
 As I look back over my development career, it occurs to me that -- no matter what methodology was in use at the time -- all projects seemed to go through three essential phases. Being in an alliterative frame of mind, I will call these Discover, Drive to Decisions, and Deliver. 
 
 In the first phase, a project team is discovering all they can about the problem space, and about potential elements of a solution. Questions are mostly open-ended, and you are working to get the general lay of the land. 
@@ -45,5 +45,4 @@ And if you think of a good name for my single 4-D deliverable, let me know!
 
 [0]: http://www.joelonsoftware.com/
 [1]: http://www.amazon.com/gp/product/1590593898?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590593898
-
 

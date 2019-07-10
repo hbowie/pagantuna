@@ -1,18 +1,18 @@
 Title:  What does it mean to be World Class IT
 
-Date:   Fri May 21, 2010
+Date:   2010-05-21
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Technology
+Tags:   Technology
 
 Teaser: 
- 
+
 <p>Someone recently asked me the question, &#8220;What does it mean for us to be a &#8216;World Class IT&#8217; organization?&#8221; and I thought it might be worthwhile to share my thoughts on this with others as well. </p><br><br><p>First of all, in my experience, this phrase is often used more as a carrot to motivate organizations than a meaningful description of any sort of specific end state. In particular, its appearance may be a signal that someone thinks an IT organization has become too inwardly focused and complacent about the way they do business, and use of this expression may be a way to get them to consider what&#8217;s going on in the rest of the industry and to think about constructive ways they could improve.</p><br><br><p>That being said, in order to be &#8220;World Class IT,&#8221; I think you have to be effectively doing a delicate balancing act between all of the following, usually opposing, forces:</p>
 
 
-Body:   
- 
+Body: 
+
 Someone recently asked me the question, "What does it mean for us to be a 'World Class IT' organization?" and I thought it might be worthwhile to share my thoughts on this with others as well. 
 
 First of all, in my experience, this phrase is often used more as a carrot to motivate organizations than a meaningful description of any sort of specific end state. In particular, its appearance may be a signal that someone thinks an IT organization has become too inwardly focused and complacent about the way they do business, and use of this expression may be a way to get them to consider what's going on in the rest of the industry and to think about constructive ways they could improve.
@@ -44,5 +44,4 @@ That being said, in order to be "World Class IT," I think you have to be effecti
 12. Being open to the opinions of consultants, industry experts and vendors vs. a healthy skepticism of the latest snake oil that's being peddled on the street. 
 
 One might argue that, for some specific situation, there is at least theoretically some perfect "sweet spot" where you are achieving the appropriate balance between all these, and call that "world class IT." But that is a very tenuous, fragile, delicate balance between constantly shifting forces, and so, rather than it being some place you finally arrive at, "World Class IT" is a constant rebalancing act with occasional positive feedback that are getting it right more often than not. 
-
 

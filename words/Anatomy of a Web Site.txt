@@ -1,18 +1,18 @@
 Title:  Anatomy of a Web Site
 
-Date:   Mon May 30, 2011
+Date:   2011-05-30
 
 Status: 9 - Closed
 
-Tags:   Communication, PaganTuna, Technology, Web
+Tags:   Communication, Technology, Web
 
 Teaser: 
- 
+
 <p>Many small businesses, non-profits and organizational users have a fairly simple mental model of what a Web site consists of. If they were to visualize it, such a model might look something like this....</p><br><br><p>While this model is sufficient for read-only users, it is probably overly simplistic for those interested in having a site built for them. In this case, we should at least consider the following.... </p>
 
 
-Body:   
- 
+Body: 
+
 Many small businesses, non-profits and organizational users have a fairly simple mental model of what a Web site consists of. If they were to visualize it, such a model might look something like this.
 
 ![Web Site Diagram 1](../images/anatomy_of_web_site_diagram_1.jpg)
@@ -60,5 +60,4 @@ So there you have it! If you're in the market for a Web site for your business o
 [info]: types-of-web-sites.html#info
 [Drupal]: http://www.drupal.org
 [wiki]: why-wiki.html
-
 

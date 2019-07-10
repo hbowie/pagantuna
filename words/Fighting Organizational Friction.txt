@@ -1,18 +1,18 @@
 Title:  Fighting Organizational Friction
 
-Date:   Wed Aug 28, 2013
+Date:   2013-08-28
 
 Status: 9 - Closed
 
-Tags:   Leadership, Lean and Agile, PaganTuna
+Tags:   Leadership, Lean and Agile
 
 Teaser: 
- 
+
 <p>Elimination of waste is one of the core principles of lean. But we often think of waste and its elimination in purely economic terms: a particular lean improvement saved a certain number of dollars, or a certain number of hours per year. </p><br><br><p>There is also value, though, in visualizing waste in the form of organizational friction: the resistance that workers encounter when trying to do their jobs, or when trying to change the way that their jobs are done. </p><br><br><p>I say this because, in my experience, managers and workers often have different motivations when it comes to lean. Managers are often motivated by numbers, especially when they figure prominently in their annual goals and objectives, and especially when they have dollar signs in front of them. </p><br><br><p>As managers, though, we need to realize that these sorts of quantitative measures are in some sense just an abstraction of what is happening on the floor, or wherever the work gets done in our organizations. </p>
 
 
-Body:   
- 
+Body: 
+
 # Fighting Organizational Friction
 
 Elimination of waste is one of the core principles of [lean][]. But we often think of waste and its elimination in purely economic terms: a particular lean improvement saved a certain number of dollars, or a certain number of hours per year. 
@@ -38,5 +38,4 @@ So what is happening in your organization? Are your employees constantly fightin
 Or, to put it most simply: are you fighting to eliminate friction from your organization, or are your employees constantly fighting against it? 
 
 [lean]: http://en.m.wikipedia.org/wiki/Lean_manufacturing
-
 

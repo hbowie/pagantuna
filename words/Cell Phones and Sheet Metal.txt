@@ -1,18 +1,18 @@
 Title:  Cell Phones and Sheet Metal
 
-Date:   Wed May 4, 2011
+Date:   2011-05-04
 
 Status: 9 - Closed
 
-Tags:   Apple, PaganTuna, Technology
+Tags:   Apple, Technology
 
 Teaser: 
- 
+
 <p>When I was growing up in the sixties, gas and steel were plentiful and cheap, and the major US automakers were unchallenged by foreign competitors. There was little real innovation in autos at the time &#8212; every car had its engine in the front, and drive wheels in the back, for example &#8212; yet the big three manufacturers seemed to produce an almost endless variation in makes and models, with a fresh batch appearing each year. In fact, it was common practice for both Ford and GM to take the same car and make it available as part of two different lines, with different model names and slightly different sheet metal. There was little real differentiation, but seemingly unlimited variation, all driven by market demand. All of these automobiles satisfied the basic requirements for transportation, but buyers craved variety, even if the differences were only superficial. Some owners even bought a new car every year or two, not because of any significant advances in the newer models, but simply because they were tired of their old models and ready for something new, something different.</p><br><br><p>I mention all of this now because the mobile phone market today reminds me of nothing so much as the automobile market of the sixties. Barriers to entry limit limit the number of major carriers in the market to less than a handful. There is little fundamental differentiation between the major providers, in that all of them satisfy a buyer&#8217;s basic requirements reasonably well. The purchase of a new device is not viewed as a major financial investment, nor as a commitment for more than a year or two. The devices in question reflect, to a significant degree, the public personas of their owners.</p>
 
 
-Body:   
- 
+Body: 
+
 <p><img src="http://www.pagantuna.com/images/affordable-android-phones.jpg" alt="Affordable Android phones"  title="Affordable Android phones" class="pic-right" /></p>
 
 <img src="http://www.fiftiesweb.com/cars/60.ford.falcon.jpg" alt="Ford Falcon" title="Ford Falcon" class="pic-left" /> When I was growing up in the sixties, gas and steel were plentiful and cheap, and the major US automakers were unchallenged by foreign competitors.  There was little real innovation in autos at the time -- every car had its engine in the front, and drive wheels in the back, for example -- yet the big three manufacturers seemed to produce an almost endless variation in makes and models, with a fresh batch appearing each year. In fact, it was common practice for both Ford and GM to take the same car and make it available as part of two different lines, with different model names and slightly different sheet metal. There was little real differentiation, but seemingly unlimited variation, all driven by market demand. All of these automobiles satisfied the basic requirements for transportation, but buyers craved variety, even if the differences were only superficial. Some owners even bought a new car every year or two, not because of any significant advances in the newer models, but simply because they were tired of their old models and ready for something new, something different.
@@ -26,5 +26,4 @@ This analogy is significant, I think, because it helps to explain the rapid upta
 Viewed from this perspective, though, it is hard to see Android as any sort of threat to Apple and the iPhone, as some have suggested. Seen in this light, Android is not succeeding because it is in any sense better than Apple's iOS, but just because it is different, and because it allows rapid adaptation and variation by a large number of device manufacturers and carriers. Will this sort of superficial variation continue to appeal to a large portion of the smart phone market? In all likelihood, yes. But will there be a significant portion of the market that will continue to prefer a more refined and consistent user experience, a higher aesthetic standard, and the Apple brand? In all likelihood, yes. Can the two markets and their respective providers coexist more or less peacefully? It is hard to see, frankly, why one would threaten the other (except for the fact that Apple's approach seems so much more profitable).
 
 In the long run, of course, there will be winners and losers, and the future is hard to predict. But it is hard to see why Android should pose any significant threat to the iPhone and its iOS in the foreseeable future. 
-
 

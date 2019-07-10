@@ -1,17 +1,17 @@
 Title:  Agile Architecture
 
-Date:   Jan 31, 2016
+Date:   2016-01-31
 
 Status: 9 - Closed
 
-Tags:   Agile, PaganTuna
+Tags:   Agile
 
-Teaser:
+Teaser: 
 
 <p>Many Agilistas view any discussion of architecture as the first step down a slippery slope that, once taken, will inevitably lead a project into the fiery pit of waterfall.</p> <p>Let&#8217;s see if we can unpack this subject a bit, and possibly even reach agreement on a sensible way to do architecture on agile software development projects, especially large and complex ones.</p>
 
 
-Body:
+Body: 
 
 Many [Agilistas][] view any discussion of architecture as the first step down a slippery slope that, once taken, will inevitably lead a project into the fiery pit of waterfall.
 

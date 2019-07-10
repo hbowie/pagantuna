@@ -1,18 +1,18 @@
 Title:  The Importance of the Team
 
-Date:   Thu Sep 17, 2015
+Date:   2015-09-17
 
 Status: 9 - Closed
 
-Tags:   Leadership, PaganTuna, Software Development
+Tags:   Leadership, Software Development, Teams
 
 Teaser: 
- 
+
 <p>At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer. </p><br><br><p>Note that teams such as these are found in contexts as different as Jazz bands, Rock groups, filmmaking, Agile Software Development and Lean Manufacturing, to name just a few obvious examples. </p><br><br><p>It&#8217;s now commonplace in business to take the work of teams for granted, but in my experience that passive acceptance doesn&#8217;t always translate into active support.</p><br><br><p>Let me break my opening assertion down, and explain the significance of each of its components. </p>
 
 
-Body:   
- 
+Body: 
+
 <a href="http://www.cbs.com/shows/star_trek/"><img src="http://www.pagantuna.com/images/star-trek.jpg" alt="The Star Trek Team" title="Star Trek" class="pic-right" /></a>
 
 At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer. 
@@ -102,5 +102,4 @@ If this is true, then you need to ask yourself: what is your organization doing 
 [rock]:  http://www.reasontorock.com/elements/collaboration.html
 [spot]:  https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 [steno]: http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif
-
 

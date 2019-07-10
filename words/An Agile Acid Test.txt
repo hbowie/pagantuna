@@ -1,18 +1,18 @@
 Title:  An Agile Acid Test
 
-Date:   Mon Jul 20, 2009
+Date:   2009-07-20
 
 Status: 9 - Closed
 
-Tags:   Lean and Agile, PaganTuna
+Tags:   Lean and Agile
 
 Teaser: 
- 
+
 <p>One of the problems with Agile Software Development is the lack of any rigorous tool or method for determining any given project&#8217;s agility. To some extent, this can be considered a &#8220;feature&#8221; of Agile (and not a bug) since one of the core Agile values is a preference for &#8220;individuals and interactions over processes and tools.&#8221; At the same time, when managing a large-scale agile deployment at an organizational level, or providing consulting help to a number of different teams, there arises a legitimate need to distinguish between projects that can be fairly classified as Agile vs. others that may only be aspiring to this state. </p><br><br><p>The way in which Agile Development is defined makes this somewhat difficult. At a lower level of detail, we have sources that define specific practices. However, we have multiple such sources &#8212; most notably, for Scrum and Extreme Programming &#8212; and these various sources are far from congruent. The Agile Manifesto successfully generalizes these lower-level practices into a higher-level definition, but this definition is so general as to leave it open to broad interpretation, and so offers no easy way to assure consistent application.  </p><br><br><p>While I can&#8217;t claim any definitive authority for such a list, it does seem to me that there is a fairly small set of essential elements that can be used to determine whether a project is &#8220;really&#8221; Agile. So here, then, are the constituents of what I would call an &#8220;Agile Acid Test.&#8221;</p>
 
 
-Body:   
- 
+Body: 
+
 One of the problems with Agile Software Development is the lack of any rigorous tool or method for determining any given project's agility. To some extent, this can be considered a "feature" of Agile (and not a bug) since one of the core [Agile values][agile-manifesto] is a preference for "individuals and interactions over processes and tools." At the same time, when managing a large-scale agile deployment at an organizational level, or providing consulting help to a number of different teams, there arises a legitimate need to distinguish between projects that can be fairly classified as Agile vs. others that may only be aspiring to this state. 
 
 The way in which Agile Development is defined makes this somewhat difficult. At a lower level of detail, we have sources that define specific practices. However, we have multiple such sources -- most notably, for Scrum and Extreme Programming -- and these various sources are far from congruent. The [Agile Manifesto][agile-manifesto] successfully generalizes these lower-level practices into a higher-level definition, but this definition is so general as to leave it open to broad interpretation, and so offers no easy way to assure consistent application.  
@@ -42,11 +42,11 @@ While I can't claim any definitive authority for such a list, it does seem to me
 4. The project must focus on fulfilling an overarching product vision. 
 
     The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat. A product vision provides the cohesion necessary to make both the project team and the features being implemented more than just the sums of their respective parts. 
-	
+
 5. The project should produce just enough documentation that is done as needed, on a just-in-time basis.
 
     Documentation can be useful to help clarify issues before committing them to code, but it should be the software code, not a separate set of documents, that serves as the primary repository for the knowledge gained by the team over the course of the project. 
-    
+
 6. The project team must regularly engage in retrospectives that help the team continuously improve their development practices. 
 
 7. Most team communication must happen on a direct, real-time basis, and the team must be small enough -- fifteen members at the most -- to allow this to be practical.   
@@ -136,5 +136,4 @@ As confessed above, I can offer no definitive authority for this list. But if we
 If Agile offers -- as I believe it does -- an approach to software development that is essentially different from others, then we owe it to ourselves to draw the line between Agile and non-Agile in such a way that the two cannot easily be confused. From my perspective, the practices I've listed above are all essential: if any one of them is missing, then I would suggest that a project's approach would be better described using some other terminology.  
 
 [agile-manifesto]: http://agilemanifesto.org/
-
 

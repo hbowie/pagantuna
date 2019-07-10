@@ -1,17 +1,18 @@
 Title:  Reflections on Postel's Law
 
-Date:   Fri May 10, 2013
+Date:   2013-05-10
 
 Status: 9 - Closed
 
-Tags:   Business, Culture, Diversity, PaganTuna, Software Development, Technology, Web
+Tags:   Business, Culture, Diversity, Software Development, Technology, Web
 
 Teaser: 
- 
+
 <p>Jon Postel was an American computer scientist who helped to develop the basic protocols on which the Internet is built. Among other accomplishments, he is remembered today for the formulation of a robustness principle, now often referred to as Postel&#8217;s Law. </p><br><br><blockquote><br><p>Be liberal in what you accept, and conservative in what you send.</p><br></blockquote>
 
-Body:   
- 
+
+Body: 
+
 [Jon Postel][postel] was an American computer scientist who helped to develop the basic [protocols][] on which the Internet is built. Among other accomplishments, he is remembered today for the formulation of a robustness principle, now often referred to as Postel's Law. 
 
 > Be liberal in what you accept, and conservative in what you send.
@@ -40,7 +41,7 @@ And what about communications between people? Are these too subject to Postel's 
 
 And so, as we continue our adventures in developing and participating in ever larger and more complex systems -- whether computer systems or human societies -- it is worthwhile to reflect on Postel's law from time to time. There's an awful lot of practical wisdom packed into this simple principle. 
 
- 
+
 
 [contacts]: http://www.apple.com/osx/apps/#contacts
 [html]: http://www.alistapart.com/articles/a-brief-history-of-markup/
@@ -51,5 +52,4 @@ And so, as we continue our adventures in developing and participating in ever la
 [xml]: http://en.wikipedia.org/wiki/XML
 [levels]: http://www.pagantuna.com/posts/developmental-levels.html
 [sly]: http://en.wikipedia.org/wiki/Everyday_People
-
 

@@ -112,86 +112,101 @@
 
       <div id="body-container">
         <div id="center">
-		      <p class="tags"><a href='tags/documentation.html' rel='tag'>Documentation</a></p>
+		      <p class="tags"><a href='../posts/tags/documentation.html' rel='tag'>Documentation</a></p>
 		      <h1>Purpose&#8211;Driven Documentation</h1>
 
 <p>So how do software developers know whether they are doing too little or too much documentation?</p>
-
 <p>The first step on the road to documentation sanity is to ask ourselves whether we have a good reason for creating a document.</p>
-
-<h2 id="reasons_for_documentation">Reasons for Documentation</h2>
-
-<p>I will assert that there are three, and only three, reasons to create software documentation. These three broad purposes really correspond to three distinct audiences. All software documentation should be aligned with one (or, ideally, more) of these three purposes. </p>
-
+<h2>Reasons for Documentation</h2>
+<p>I will assert that there are three, and only three, reasons to create software documentation. These three broad purposes really correspond to three distinct audiences. All software documentation should be aligned with one (or, ideally, more) of these three purposes.</p>
 <p>These three purposes are:</p>
-
 <p>A. To clarify expectations among those involved in the project.</p>
-
 <p>B. To define and explain aspects of the system useful to future users and developers, and not readily apparent from examination of the software itself.</p>
-
 <p>C. To provide transparency of agency and intention to potentially interested parties outside of the project.</p>
-
-<h2 id="clarification">Clarification</h2>
-
-<p>Now that you&#8217;ve seen the list in its entirety, let me elaborate with some additional comments and corollaries. </p>
-
-<h3 id="a_to_clarify_expectations_among_those_involved_in_the_project">A. To clarify expectations among those involved in the project.</h3>
-
+<h2>Clarification</h2>
+<p>Now that you&rsquo;ve seen the list in its entirety, let me elaborate with some additional comments and corollaries.</p>
+<h3>A. To clarify expectations among those involved in the project.</h3>
 <ol>
-<li><p>By &#8220;those involved in the project,&#8221; I mean to include people and organizations involved in the project to any degree, including customers, sponsors, architects, etc.</p></li>
-<li><p>By &#8220;clarify expectations,&#8221; I mean to imply that written documentation will not necessarily be the only, or even the primary, communications vehicle used to establish those expectations. </p></li>
-<li><p>An important corollary is that, if expectations are already clear, or can be more readily clarified through some other, more effective or cost-efficient form of communication, then the software documentation is not needed. </p></li>
-<li><p>Another important corollary is that, if the documentation does not actually provide any clarity, then it&#8217;s not fulfilling its purpose. </p></li>
-<li><p>Note that expectations can become muddied over time, due to memory lapses, or competition with other information, so part of this clarification of expectations may actually be as a reminder of what had been clear at one time in the past. </p></li>
+<li>
+<p>By &ldquo;those involved in the project,&rdquo; I mean to include people and organizations involved in the project to any degree, including customers, sponsors, architects, etc.</p>
+</li>
+<li>
+<p>By &ldquo;clarify expectations,&rdquo; I mean to imply that written documentation will not necessarily be the only, or even the primary, communications vehicle used to establish those expectations.</p>
+</li>
+<li>
+<p>An important corollary is that, if expectations are already clear, or can be more readily clarified through some other, more effective or cost-efficient form of communication, then the software documentation is not needed.</p>
+</li>
+<li>
+<p>Another important corollary is that, if the documentation does not actually provide any clarity, then it&rsquo;s not fulfilling its purpose.</p>
+</li>
+<li>
+<p>Note that expectations can become muddied over time, due to memory lapses, or competition with other information, so part of this clarification of expectations may actually be as a reminder of what had been clear at one time in the past.</p>
+</li>
+</ol>
+<h3>B. To define and explain aspects of the system useful to future users and developers, and not readily apparent from examination of the software itself.</h3>
+<ol>
+<li>
+<p>Some level of system documentation typically needs to be done to help clarify aspects of the system over what is often a fairly long useful life for the software we write.</p>
+</li>
+<li>
+<p>Both users and developers tend to develop their knowledge of a system through examination of the software itself: users, through the user interface and actual behavior of the software, and developers, additionally, through the examination of the source code. This is often the case because the actual software is typically more credible and as easy or easier to understand than the documentation.</p>
+</li>
+</ol>
+<h3>C. To provide transparency of agency and intention to potentially interested parties outside of the project.</h3>
+<ol>
+<li>
+<p>This is often the purpose that is hardest for developers to understand and accept.</p>
+</li>
+<li>
+<p>In cases where software produces inaccurate or even dangerous results, outside parties often need access to documentation that will indicate who authorized the offending code, and with what intent.</p>
+</li>
+<li>
+<p>Even if such problems seem unlikely (as they often do, to people closest to the software), such transparency can be argued to help deter malicious or careless software changes.</p>
+</li>
+<li>
+<p>A critical aspect of this sort of documentation is that it be part of an unbroken chain starting with a real request from a real person, and ending with the actual lines of software that were changed.</p>
+</li>
+</ol>
+<h2>Guidance</h2>
+<p>OK, now that we&rsquo;re clear on the purpose of our documentation, how does this help?</p>
+<p>I believe there is some very practical guidance we can provide, based on the purpose of the documentation.</p>
+<h3>If the purpose of your documentation is to clarify expectations among those involved in the project, then:</h3>
+<ol>
+<li>
+<p>Be aware that the need for such documentation (although not its effectiveness) seems to increase exponentially with the size of the project, both in terms of team size and duration. The smaller the project, the less of this sort of documentation you will need.</p>
+</li>
+<li>
+<p>If you are stuck with a large project, then chunking it up into smaller sub-projects that can be done in parallel and/or serially can help to reduce the amount of documentation needed.</p>
+</li>
+<li>
+<p>On large projects, plan for the necessary resources to do a good job of the documentation, with enough time and the right resources to produce documentation that team members will actually find useful. Remember that, all other things being equal, more documentation is worse, and concise, easily understood documentation that focuses on the most likely issues of confusion/contention is better.</p>
+</li>
+</ol>
+<h3>If the purpose of your documentation is to define and explain aspects of the system useful to future users and developers, and not readily apparent from examination of the software itself, then:</h3>
+<ol>
+<li>
+<p>Detailed developer documentation is best maintained within the source code itself. Since developers will look at the code anyway, your documentation is much more likely to be read and maintained if it is included as comments within the program code.</p>
+</li>
+<li>
+<p>High level documentation should be sparse enough that it has a reasonable chance of being read and maintained over the life of the system. Focus on high-level information, like design intent, that is often hard to abstract from the code itself.</p>
+</li>
+<li>
+<p>If your users are having a hard time understanding your system, then your time may be better spent on improving the user interface than on additional documentation (that many will likely not read anyway).</p>
+</li>
+</ol>
+<h3>If the purpose of your documentation is to provide transparency of agency and intention to potentially interested parties outside of the project, then:</h3>
+<ol>
+<li>
+<p>The larger the project, the more tangled these issues become so, again, shorter and smaller projects tend to require less documentation.</p>
+</li>
+<li>
+<p>The best way to accomplish the needed traceability is through automated change management and version control systems that are joined at the hip, with both the source code itself and the system documentation being under version control.</p>
+</li>
 </ol>
 
-<h3 id="b_to_define_and_explain_aspects_of_the_system_useful_to_future_users_and_developers_and_not_readily_apparent_from_examination_of_the_software_itself">B. To define and explain aspects of the system useful to future users and developers, and not readily apparent from examination of the software itself.</h3>
-
-<ol>
-<li><p>Some level of system documentation typically needs to be done to help clarify aspects of the system over what is often a fairly long useful life for the software we write. </p></li>
-<li><p>Both users and developers tend to develop their knowledge of a system through examination of the software itself: users, through the user interface and actual behavior of the software, and developers, additionally, through the examination of the source code. This is often the case because the actual software is typically more credible and as easy or easier to understand than the documentation.</p></li>
-</ol>
-
-<h3 id="c_to_provide_transparency_of_agency_and_intention_to_potentially_interested_parties_outside_of_the_project">C. To provide transparency of agency and intention to potentially interested parties outside of the project.</h3>
-
-<ol>
-<li><p>This is often the purpose that is hardest for developers to understand and accept. </p></li>
-<li><p>In cases where software produces inaccurate or even dangerous results, outside parties often need access to documentation that will indicate who authorized the offending code, and with what intent. </p></li>
-<li><p>Even if such problems seem unlikely (as they often do, to people closest to the software), such transparency can be argued to help deter malicious or careless software changes. </p></li>
-<li><p>A critical aspect of this sort of documentation is that it be part of an unbroken chain starting with a real request from a real person, and ending with the actual lines of software that were changed. </p></li>
-</ol>
-
-<h2 id="guidance">Guidance</h2>
-
-<p>OK, now that we&#8217;re clear on the purpose of our documentation, how does this help?</p>
-
-<p>I believe there is some very practical guidance we can provide, based on the purpose of the documentation. </p>
-
-<h3 id="if_the_purpose_of_your_documentation_is_to_clarify_expectations_among_those_involved_in_the_project_then">If the purpose of your documentation is to clarify expectations among those involved in the project, then:</h3>
-
-<ol>
-<li><p>Be aware that the need for such documentation (although not its effectiveness) seems to increase exponentially with the size of the project, both in terms of team size and duration. The smaller the project, the less of this sort of documentation you will need.</p></li>
-<li><p>If you are stuck with a large project, then chunking it up into smaller sub-projects that can be done in parallel and/or serially can help to reduce the amount of documentation needed. </p></li>
-<li><p>On large projects, plan for the necessary resources to do a good job of the documentation, with enough time and the right resources to produce documentation that team members will actually find useful. Remember that, all other things being equal, more documentation is worse, and concise, easily understood documentation that focuses on the most likely issues of confusion/contention is better. </p></li>
-</ol>
-
-<h3 id="if_the_purpose_of_your_documentation_is_to_define_and_explain_aspects_of_the_system_useful_to_future_users_and_developers_and_not_readily_apparent_from_examination_of_the_software_itself_then">If the purpose of your documentation is to define and explain aspects of the system useful to future users and developers, and not readily apparent from examination of the software itself, then:</h3>
-
-<ol>
-<li><p>Detailed developer documentation is best maintained within the source code itself. Since developers will look at the code anyway, your documentation is much more likely to be read and maintained if it is included as comments within the program code. </p></li>
-<li><p>High level documentation should be sparse enough that it has a reasonable chance of being read and maintained over the life of the system. Focus on high-level information, like design intent, that is often hard to abstract from the code itself. </p></li>
-<li><p>If your users are having a hard time understanding your system, then your time may be better spent on improving the user interface than on additional documentation (that many will likely not read anyway). </p></li>
-</ol>
-
-<h3 id="if_the_purpose_of_your_documentation_is_to_provide_transparency_of_agency_and_intention_to_potentially_interested_parties_outside_of_the_project_then">If the purpose of your documentation is to provide transparency of agency and intention to potentially interested parties outside of the project, then:</h3>
-
-<ol>
-<li><p>The larger the project, the more tangled these issues become so, again, shorter and smaller projects tend to require less documentation. </p></li>
-<li><p>The best way to accomplish the needed traceability is through automated change management and version control systems that are joined at the hip, with both the source code itself and the system documentation being under version control. </p></li>
-</ol>
 
           <p class="pub-date">May 10, 2009</p>
-<p class="next">Next: <a href="the-progress-polarity.html">The Progress Polarity</a></p>
+<p class="next">Next: <a href="why-is-software-documentation-so-hard.html">Why Is Software Documentation So Hard</a></p>
 
         </div> <!-- end of multiple -->
 
@@ -201,7 +216,7 @@
 
       <div id="footer-wrapper">
 		    <div id="footer">
-          Copyright &copy; 2005 - 2018 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
+          Copyright &copy; 2005 - 2019 by Herb Bowie per this <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>, except where otherwise noted
 		    </div>
 	    </div>
     </div><!-- /.container -->

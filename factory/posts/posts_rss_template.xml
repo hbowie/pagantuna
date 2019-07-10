@@ -25,9 +25,9 @@
 			</title>
 			<link>http://www.PaganTuna.com/posts/=$title&f$=.html</link>
 			<description>
-				=$description&x$=
+				=$teaser&x$=
 			</description>
-			<pubDate>=$duedate&EEE, dd MMM yyyy HH:mm:ss zzz$=</pubDate>
+			<pubDate>=$date&EEE, dd MMM yyyy HH:mm:ss zzz$=</pubDate>
 			<guid>http://www.PaganTuna.com/posts/=$title&f$=.html</guid>
 		</item>
 <?endif?>

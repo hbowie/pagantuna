@@ -1,17 +1,19 @@
 Title:  Agile Software Development and the Core Design Principles for Teams
 
-Date:   Jul 9 2019
+Date:   2019-07-09
 
 Status: 9 - Closed
 
 Tags:   Agile, Teams
 
 Teaser: 
- 
-<p>I just came across a wonderfully scientific confirmation of the wisdom of agile software development teams. The source was a surprising one: Evolutionary Biologist David Sloan Wilson's latest book <cite>This View of Life: Completing the Darwinian Revolution</cite>. </p>
+
+<p>I just came across a wonderfully scientific confirmation of the wisdom of agile software development teams. The source was a surprising one: Evolutionary Biologist David Sloan Wilson's latest book <i>This View of Life: Completing the Darwinian Revolution</i>. </p>
 
 
 Body: 
+
+<p><img src="../images/team.jpg" alt="TEAM" title="TEAM" /></p>
 
 I just came across a wonderfully scientific confirmation of the wisdom of [agile software development teams](https://www.softdevbigideas.com/self-organizing-teams.html). 
 
@@ -38,8 +40,11 @@ Wilson lays out in his book, based on this published and recognized research, th
 
 It's interesting to note that Ostrom's research was based on observations of the actual success and failure of many small teams, rather than on the invention of increasingly complex formulas and models often favored by traditional economists -- certainly a vivid reminder of the way that [Agile principles and methods came to be defined and accepted](https://en.wikipedia.org/wiki/Agile_software_development), often flying in the face of guidance offered by organizations such as the [Software Engineering Institute](https://www.sei.cmu.edu) and their [Capability Maturity Models](https://en.wikipedia.org/wiki/Capability_Maturity_Model). 
 
-While Wilson's teachings validate much of what Agile proponents have been preaching for some time now, they also provide a rigorous set of principles that can be used to evaluate any organization's use of teams, as well as the operation of any particular team. This strikes me as valuable, because it can help free software developers from the sometimes insular guidance of one particular coach or manager, and potentially help resolve debates on these topics more quickly and authoritatively -- an outcome right in line with CDP 6, as defined above. 
+While Wilson's teachings validate much of what Agile proponents have been preaching for some time now, they also provide a rigorous set of principles that can be used to evaluate [any organization's use of teams](https://www.pagantuna.com/posts/the-importance-of-the-team.html), as well as the operation of any particular team. This strikes me as valuable, because it can help free software developers from the sometimes insular guidance of one particular coach or manager, and potentially help resolve debates on these topics more quickly and authoritatively -- an outcome right in line with CDP 6, as defined above. 
 
 I've excerpted some of Wilson's work in this short piece in order to highlight material that should be of particular interest to software developers and their managers, but in doing so I certainly haven't cherry-picked all the good stuff. I can enthusiastically recommend the [entire book](https://amzn.to/2xkpCPl) to everyone reading this, not just for its insights into the workings of teams, but perhaps even more importantly for insights into what it means to be human in the 21st century. 
 
 I'm always excited to find ideas and models that can be used across disciplines, and Wilson's book amply delivers the goods in this department. 
+
+<p><a href="https://amzn.to/2xkpCPl"><img src="../images/this-view-of-life.jpg" alt="This View of Life" title="This View of Life" /></a></p>
+

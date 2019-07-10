@@ -1,18 +1,18 @@
 Title:  Types of Web Sites
 
-Date:   Fri Dec 24, 2010
+Date:   2010-12-24
 
 Status: 9 - Closed
 
-Tags:   Communication, PaganTuna, Technology, Web
+Tags:   Communication, Technology, Web
 
 Teaser: 
- 
+
 <p>Before designing, building and implementing a website &#8212; whether for the World Wide Web or a corporate intranet &#8212; it may be helpful to consider what type of site you are interested in.</p><br><br><p>Of course there is no single, universally accepted taxonomy of websites. The Web is constantly evolving, hybrids of various types are common, and different authors may categorize sites in different ways for different needs and different audiences.</p><br><br><p>With all that said, however, I think the following scheme can be useful, both for WWW and intranet users, to help steer them towards appropriate choices of the most useful resources needed, based on the site&#8217;s intended purpose.</p><br><br><p>So let&#8217;s take a look at the most common types of sites found on both the World Wide Web and corporate intranets.</p>
 
 
-Body:   
- 
+Body: 
+
 Before designing, building and implementing a website -- whether for the World Wide Web or a corporate intranet -- it may be helpful to consider what type of site you are interested in.
 
 Of course there is no single, universally accepted taxonomy of websites. The Web is constantly evolving, hybrids of various types are common, and different authors may categorize sites in different ways for different needs and different audiences.
@@ -73,5 +73,4 @@ So there they are -- eleven different types of Web sites, and some general tips 
 One of the important considerations is the ease or difficulty of adding and maintaining content on a site. The software usually used for personal/family sites, blogs, social sharing sites, community building sites, office sharing sites and wikis all make it easy for content experts to add and update content directly. The remaining types often require the services of a Web professional to make changes to a site's content.
 
 I'll talk more about wikis in a future post, but wanted to get this basic web site taxonomy defined first.
-
 

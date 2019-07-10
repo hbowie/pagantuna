@@ -1,18 +1,18 @@
 Title:  Process QA
 
-Date:   Sun Jan 17, 2010
+Date:   2010-01-17
 
 Status: 9 - Closed
 
-Tags:   CMMI, Improvement, PaganTuna
+Tags:   CMMI, Improvement
 
 Teaser: 
- 
+
 <p>Process Quality Assurance seems to be one of the most often misunderstood elements of the CMMI. </p>
 
 
-Body:   
- 
+Body: 
+
 Process Quality Assurance seems to be one of the most often misunderstood elements of the [CMMI][]. 
 
 I think there a number of strictly semantic reasons for this widespread lack of understanding. 
@@ -74,5 +74,4 @@ But then they asked one more question. "If you were to have an operation, would 
 [checklist-manifesto]: http://www.amazon.com/gp/product/0805091742?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0805091742
 [npr-gawande]: http://www.npr.org/templates/story/story.php?storyId=122226184
 [watts]: http://en.wikipedia.org/wiki/Watts_Humphrey
-
 

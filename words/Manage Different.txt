@@ -1,18 +1,18 @@
 Title:  Manage Different
 
-Date:   Tue Feb 23, 2010
+Date:   2010-02-23
 
 Status: 9 - Closed
 
-Tags:   Leadership, PaganTuna
+Tags:   Leadership
 
 Teaser: 
- 
+
 <p>Perhaps it is time for modern corporations to begin consideration of a different model for management excellence. I&#8217;ve recently made note of three items that might lead one to this conclusion.</p>
 
 
-Body:   
- 
+Body: 
+
 <img src="http://media.wwnorton.com/cms/books/9780393065534_300.jpg" alt="The Management Myth Book Cover" class="pic-right"> Perhaps it is time for modern corporations to begin consideration of a different model for management excellence. I've recently made note of three items that might lead one to this conclusion.
 
 The first comes from Jim Womack, author of <cite>[Lean Thinking][lean-thinking]</cite>, and Chairman of the [Lean Enterprise Institute][lei], who recently shared via e-mail the summarized responses he received from over 300 correspondents about "where we go from here in the Lean Community." What he called Theme Number Three was that "most of you suggested failures of management at the top, middle, and bottom of your organization as the most important challenge you face in creating a sustainable lean enterprise." Wow. So, in the quest to "create ever more value for customers with ever fewer resources," (Womack's definition of lean), most improvement professionals state that management is not their ally, not passive bystanders, but their biggest challenge. And they find this to be true whether they are talking about executives, line managers, or middle management. 
@@ -44,5 +44,4 @@ What, then, are we to say about good management practice? Perhaps, to paraphrase
 [management-myth]: http://www.amazon.com/gp/product/0393065537?ie=UTF8&tag=pagantuna-20
 
 [chandler-quote]: ../wisdom/vital-and-significant-forms-of-art.html
-
 

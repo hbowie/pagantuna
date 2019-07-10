@@ -1,18 +1,18 @@
 Title:  Thinking Differently about Perfectionism
 
-Date:   Tue Dec 20, 2011
+Date:   2011-12-20
 
 Status: 9 - Closed
 
-Tags:   Apple, Culture, Leadership, PaganTuna
+Tags:   Apple, Culture, Leadership
 
 Teaser: 
- 
+
 <blockquote><br>  <p>Perfectionism (noun) &#8212; a disposition to regard anything short of perfection as unacceptable.  </p><br></blockquote><br><br><p>I find it peculiar that so many of the articles about Steve Jobs following his death have used the term &#8220;perfectionism&#8221; to describe one of his key traits, as if this were a bad thing. For example,  &#8220;Perfectionism is the disease that plagued Jobs,&#8221; from a piece in <em><a href=&quot;http://www.theatlanticwire.com/technology/2011/11/crazy-perfectionism-drove-steve-jobs/44623/&quot;>The Atlantic Wire</a></em>.</p><br><br><p>Really? I wonder what the more desirable &#8220;healthy&#8221; state might be? And what sort of slogans might these anti-perfectionists choose for their endeavors? </p>
 
 
-Body:   
- 
+Body: 
+
 > Perfectionism (noun) -- a disposition to regard anything short of perfection as unacceptable.  
 
 I find it peculiar that so many of the articles about Steve Jobs following his death have used the term "perfectionism" to describe one of his key traits, as if this were a bad thing. For example,  "Perfectionism is the disease that plagued Jobs," from a piece in *[The Atlantic Wire](http://www.theatlanticwire.com/technology/2011/11/crazy-perfectionism-drove-steve-jobs/44623/)*.
@@ -64,5 +64,4 @@ The truth is that Steve Jobs had a refined design sense that made him sensitive 
 I, for one, am thankful for the perfectionism that pervades Apple every time I power up one of its products. I'm grateful for all the little touches, and all the grand design concepts, that reflect the seemingly infinite thoughtfulness and care that go into each of their works.
 
 Perfectionism may be a demanding pursuit, but when it comes to getting the important things right, it sure beats all the alternatives that I've seen.  
-
 

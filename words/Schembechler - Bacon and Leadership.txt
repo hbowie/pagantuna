@@ -1,17 +1,18 @@
 Title:  Schembechler, Bacon and Leadership
 
-Date:   Fri Mar 12, 2010
+Date:   2010-03-12
 
 Status: 9 - Closed
 
-Tags:   Leadership, PaganTuna
+Tags:   Leadership
 
 Teaser: 
- 
+
 <p>I have a leadership video I&#8217;d like to share with you.</p><br><br><p>First, some explanation. Every year at the University of Michigan the students select their favorite professors and present them with a &#8220;Golden Apple Award.&#8221; The recipients are then invited to deliver their &#8220;ideal last lecture.&#8221;</p><br><br><p>John U. Bacon was a recipient of this award for 2009. Bacon is the co-author, with the late Michigan Football coach Bo Schembechler, of the recent business book, <cite>Bo&#8217;s Lasting Lessons: The Legendary Coach Teaches the Fundamentals of Leadership</cite>.</p><br><br><p>The video clip I&#8217;d like to share is an excerpt from Bacon&#8217;s Ideal Last Lecture. In it, he recounts a story about Schembechler. Now, if you&#8217;re a fan of Wolverine football, then you probably need no further recommendation. But even if you&#8217;re not, I think it&#8217;s a great leadership tale, and Bacon&#8217;s telling of the story is a work of art all its own.</p>
 
-Body:   
- 
+
+Body: 
+
 <img src="http://www.johnubacon.com/images/books/bo.gif" alt="Bo's Lasting Lessons" title="" class="pic-right"> 
 
 I have a leadership video I'd like to share with you.
@@ -47,5 +48,4 @@ Now it's obvious that many elements of Bo's leadership style would not translate
 -- Herb Bowie, [U-M College of Literature, Science & the Arts](http://www.lsa.umich.edu/), B.A in English, 1973
 
 [bo-bacon]: http://www.amazon.com/gp/product/044658200X?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=044658200X
-
 

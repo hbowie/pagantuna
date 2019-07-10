@@ -1,18 +1,18 @@
 Title:  Software Defects
 
-Date:   Thu Dec 4, 2014
+Date:   2014-12-04
 
 Status: 9 - Closed
 
-Tags:   PaganTuna, Quality, Software Development
+Tags:   Quality, Software Development
 
 Teaser: 
- 
+
 <p>Some of the most troublesome topics in software development are those surrounding defects:</p><br><br><ul><br><li>Why do defects happen?</li><br><li>How can we prevent them?</li><br><li>Can they be eliminated?</li><br><li>What metrics can we use to measure our success (or lack thereof)? </li><br></ul><br><br><p>Let me introduce my thoughts on this topic with a little story.</p>
 
 
-Body:   
- 
+Body: 
+
 # Software Defects
 
 Some of the most troublesome topics in software development are those surrounding defects:
@@ -112,5 +112,4 @@ For quality escapes, my advice would be to use something like the [GQM](http://e
 ----
 
 The first programmers were able to blame their problems on actual insects crawling around inside their computing hardware; these days, however, everyone knows that software bugs should not be treated as a branch of entomology. How they should be treated, however, is often a topic of much debate. Hopefully the comments above can help to steer such conversations into productive channels. 
-
 
