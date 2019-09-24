@@ -4,9 +4,9 @@ pfilename[pix] = "my-position-on-the-cmmi.html";
 pix++;
 pfilename[pix] = "cmmi-take-2.html";
 pix++;
-pfilename[pix] = "software-is-different.html";
-pix++;
 pfilename[pix] = "the-documentation-dilemma.html";
+pix++;
+pfilename[pix] = "software-is-different.html";
 pix++;
 pfilename[pix] = "art-as-apple-strategy.html";
 pix++;
@@ -130,83 +130,83 @@ var now = new Date();
 var seed = now.getTime() % 0xffffffff;
 
 function rand(n) {
-  seed = (0x015a4e35 * seed) % 0x7fffffff;
-  return (seed >> 16) % n;
+seed = (0x015a4e35 * seed) % 0x7fffffff;
+return (seed >> 16) % n;
 }
 
 function setPostContent(n) {
-  var thisURL = document.URL;
-  var postIx = thisURL.indexOf("/posts/");
-  var tagsIx = thisURL.indexOf("/tags/");
-  var wisdomIx = thisURL.indexOf("/wisdom/");
-  var authorsIx = thisURL.indexOf("/authors/");
-  var aboutIx = thisURL.indexOf("/about/");
-  var page = pfilename[n];
-  if (authorsIx > 0 || tagsIx > 0) {
-    page = "../../posts/" + page;
-  }
-  else
-  if (wisdomIx < 0 && postIx < 0 && aboutIx < 0) {
-    page = "posts/" + page;
-  } else {
-    page = "../posts/" + page;
-  }
-  window.location.replace(page);
+var thisURL = document.URL;
+var postIx = thisURL.indexOf("/posts/");
+var tagsIx = thisURL.indexOf("/tags/");
+var wisdomIx = thisURL.indexOf("/wisdom/");
+var authorsIx = thisURL.indexOf("/authors/");
+var aboutIx = thisURL.indexOf("/about/");
+var page = pfilename[n];
+if (authorsIx > 0 || tagsIx > 0) {
+page = "../../posts/" + page;
+}
+else
+if (wisdomIx < 0 && postIx < 0 && aboutIx < 0) {
+page = "posts/" + page;
+} else {
+page = "../posts/" + page;
+}
+window.location.replace(page);
 }
 
 function randomPost() {
-  rq = rand(pmax);
-  if (rq < 0) {
-    rq = 0;
-  }
-  if (rq >= pmax) {
-    rq = pmax - 1;
-  }
-  setPostContent (rq);
+rq = rand(pmax);
+if (rq < 0) {
+rq = 0;
+}
+if (rq >= pmax) {
+rq = pmax - 1;
+}
+setPostContent (rq);
 }
 
 function firstPost() {
-  var pix = 0;
-  setPostContent(pix);
+var pix = 0;
+setPostContent(pix);
 }
 
 function lastPost() {
-  var pix = pmax - 1;
-  setPostContent(pix);
+var pix = pmax - 1;
+setPostContent(pix);
 }
 
 function nextPost() {
-  bumpPostIx(1);
+bumpPostIx(1);
 }
 
 function priorPost() {
-  bumpPostIx(-1);
+bumpPostIx(-1);
 }
 
 function bumpPostIx(inc) {
-  var thisURL = document.URL;
-  var lastSlash = thisURL.lastIndexOf("/");
-  var thisPage = thisURL.substr(lastSlash + 1);
-  var pix = 0;
-  var found = false;
-  while (pix < pmax && (! found)) {
-    var page = pfilename[pix];
-    if (thisPage == page) {
-      found = true;
-    } else {
-      pix++;
-    }
-  }
-  if (found) {
-    pix = pix + inc;
-    if (pix >= pmax) {
-      pix = 0;
-    }
-    if (pix < 0) {
-      pix = pmax - 1;
-    }
-    setPostContent(pix);
-  } else {
-    setPostContent(0);
-  }
+var thisURL = document.URL;
+var lastSlash = thisURL.lastIndexOf("/");
+var thisPage = thisURL.substr(lastSlash + 1);
+var pix = 0;
+var found = false;
+while (pix < pmax && (! found)) {
+var page = pfilename[pix];
+if (thisPage == page) {
+found = true;
+} else {
+pix++;
+}
+}
+if (found) {
+pix = pix + inc;
+if (pix >= pmax) {
+pix = 0;
+}
+if (pix < 0) {
+pix = pmax - 1;
+}
+setPostContent(pix);
+} else {
+setPostContent(0);
+}
 }

@@ -2,113 +2,7 @@ var qfilename = new Array();
 var ix = 0;
 qfilename[ix] = "fuzzy-concept.html";
 ix++;
-qfilename[ix] = "keep-creating-throughout-the-construction-process.html";
-ix++;
-qfilename[ix] = "a-dark-procession.html";
-ix++;
-qfilename[ix] = "the-sanctity-and-importance-of-sudden-death.html";
-ix++;
-qfilename[ix] = "we-dont-even-own-suits.html";
-ix++;
-qfilename[ix] = "model-ii-decision-making.html";
-ix++;
 qfilename[ix] = "model-ii-values.html";
-ix++;
-qfilename[ix] = "entertain-a-thought.html";
-ix++;
-qfilename[ix] = "the-four-fold-way.html";
-ix++;
-qfilename[ix] = "cockpits-with-instruments-controlled-by-gremlins.html";
-ix++;
-qfilename[ix] = "artful-making.html";
-ix++;
-qfilename[ix] = "careful-thoughtful-small-practical-efforts.html";
-ix++;
-qfilename[ix] = "real-creation-is-sloppy.html";
-ix++;
-qfilename[ix] = "the-hedgehog-and-the-fox.html";
-ix++;
-qfilename[ix] = "dj-vu-all-over-again.html";
-ix++;
-qfilename[ix] = "minute-particulars.html";
-ix++;
-qfilename[ix] = "cost-of-education.html";
-ix++;
-qfilename[ix] = "judgments-of-users.html";
-ix++;
-qfilename[ix] = "principle-of-least-astonishment.html";
-ix++;
-qfilename[ix] = "one-test-result.html";
-ix++;
-qfilename[ix] = "conceptual-integrity.html";
-ix++;
-qfilename[ix] = "drive-through-coding.html";
-ix++;
-qfilename[ix] = "nirvana-antipattern.html";
-ix++;
-qfilename[ix] = "focus-on-high-performers.html";
-ix++;
-qfilename[ix] = "work-soul-and-life.html";
-ix++;
-qfilename[ix] = "six-impossible-things-before-breakfast.html";
-ix++;
-qfilename[ix] = "vital-and-significant-forms-of-art.html";
-ix++;
-qfilename[ix] = "conservatives-and-progressives.html";
-ix++;
-qfilename[ix] = "taking-a-fence-down.html";
-ix++;
-qfilename[ix] = "the-difference-between-construction-and-creation.html";
-ix++;
-qfilename[ix] = "we-are-doing-our-best.html";
-ix++;
-qfilename[ix] = "system-architects-as-storytellers.html";
-ix++;
-qfilename[ix] = "prototyping-no-substitute-for-analysis-and-design.html";
-ix++;
-qfilename[ix] = "system-simplification.html";
-ix++;
-qfilename[ix] = "user-interface-architectures.html";
-ix++;
-qfilename[ix] = "difficulty-of-requirements-discovery.html";
-ix++;
-qfilename[ix] = "just-enough-requirements.html";
-ix++;
-qfilename[ix] = "level-of-requirements-detail.html";
-ix++;
-qfilename[ix] = "lists-of-requirements.html";
-ix++;
-qfilename[ix] = "multiple-design-approaches.html";
-ix++;
-qfilename[ix] = "requirements-elicitation-triage-and-specification.html";
-ix++;
-qfilename[ix] = "belief-in-impossible-things.html";
-ix++;
-qfilename[ix] = "template-zombies.html";
-ix++;
-qfilename[ix] = "paper-mill.html";
-ix++;
-qfilename[ix] = "the-power-of-thought.html";
-ix++;
-qfilename[ix] = "simplicity-and-complexity.html";
-ix++;
-qfilename[ix] = "the-supreme-goal-of-all-theory.html";
-ix++;
-qfilename[ix] = "a-first-rate-intelligence.html";
-ix++;
-qfilename[ix] = "faster-horses.html";
-ix++;
-qfilename[ix] = "only-connect.html";
-ix++;
-qfilename[ix] = "education-and-genius.html";
-ix++;
-qfilename[ix] = "every-body-cries-a-union-is-absolutely-necessary.html";
-ix++;
-qfilename[ix] = "conventional-views.html";
-ix++;
-qfilename[ix] = "an-intuitive-taste-for-people-and-products.html";
-ix++;
-qfilename[ix] = "software-more-than-code.html";
 ix++;
 qfilename[ix] = "underlying-intent-of-process-improvement.html";
 ix++;
@@ -128,6 +22,8 @@ qfilename[ix] = "control-over-plans-and-commitments.html";
 ix++;
 qfilename[ix] = "herding-software-engineers.html";
 ix++;
+qfilename[ix] = "entertain-a-thought.html";
+ix++;
 qfilename[ix] = "key-software-problems.html";
 ix++;
 qfilename[ix] = "magic-answers-to-software-crisis.html";
@@ -145,6 +41,8 @@ ix++;
 qfilename[ix] = "simplicity-as-a-design-goal.html";
 ix++;
 qfilename[ix] = "user-interfaces-dont-exist.html";
+ix++;
+qfilename[ix] = "the-four-fold-way.html";
 ix++;
 qfilename[ix] = "design-is-the-fundamental-soul-of-a-human-made-creation.html";
 ix++;
@@ -164,6 +62,8 @@ qfilename[ix] = "satisfied-employees-are-in-the-know.html";
 ix++;
 qfilename[ix] = "the-discomfort-of-thought.html";
 ix++;
+qfilename[ix] = "cockpits-with-instruments-controlled-by-gremlins.html";
+ix++;
 qfilename[ix] = "aesthetics-of-programming.html";
 ix++;
 qfilename[ix] = "design-patterns.html";
@@ -171,6 +71,8 @@ ix++;
 qfilename[ix] = "solution-reuse.html";
 ix++;
 qfilename[ix] = "extensible-systems.html";
+ix++;
+qfilename[ix] = "artful-making.html";
 ix++;
 qfilename[ix] = "good-mission-statements.html";
 ix++;
@@ -191,6 +93,8 @@ ix++;
 qfilename[ix] = "managers-cant-forget-how-to-develop-software.html";
 ix++;
 qfilename[ix] = "once-a-week-meetings.html";
+ix++;
+qfilename[ix] = "careful-thoughtful-small-practical-efforts.html";
 ix++;
 qfilename[ix] = "integrity-and-conviction.html";
 ix++;
@@ -224,6 +128,8 @@ qfilename[ix] = "intranet-maintenance.html";
 ix++;
 qfilename[ix] = "the-makers-of-things.html";
 ix++;
+qfilename[ix] = "real-creation-is-sloppy.html";
+ix++;
 qfilename[ix] = "freedom-of-expression-in-business.html";
 ix++;
 qfilename[ix] = "we-like-to-think-of-ourselves-as-winners.html";
@@ -238,6 +144,8 @@ qfilename[ix] = "postels-law.html";
 ix++;
 qfilename[ix] = "open-source-development-styles.html";
 ix++;
+qfilename[ix] = "the-hedgehog-and-the-fox.html";
+ix++;
 qfilename[ix] = "active-requirements-analysis.html";
 ix++;
 qfilename[ix] = "men-fear-thought.html";
@@ -251,6 +159,10 @@ ix++;
 qfilename[ix] = "learning-from-experience.html";
 ix++;
 qfilename[ix] = "espn-president-meets-steve-jobs.html";
+ix++;
+qfilename[ix] = "keep-creating-throughout-the-construction-process.html";
+ix++;
+qfilename[ix] = "dj-vu-all-over-again.html";
 ix++;
 qfilename[ix] = "progress-depends-on-the-unreasonable-man.html";
 ix++;
@@ -288,6 +200,8 @@ qfilename[ix] = "everybody-has-some-important-pieces-of-the-truth.html";
 ix++;
 qfilename[ix] = "levels-of-development.html";
 ix++;
+qfilename[ix] = "minute-particulars.html";
+ix++;
 qfilename[ix] = "lean.html";
 ix++;
 qfilename[ix] = "price-of-success.html";
@@ -304,6 +218,8 @@ qfilename[ix] = "introduction-of-a-new-order-of-things.html";
 ix++;
 qfilename[ix] = "steve-jobs-ideals.html";
 ix++;
+qfilename[ix] = "cost-of-education.html";
+ix++;
 qfilename[ix] = "equals.html";
 ix++;
 qfilename[ix] = "what-do-you-mean-six-months.html";
@@ -313,6 +229,8 @@ ix++;
 qfilename[ix] = "good-management-is-like-the-beatles.html";
 ix++;
 qfilename[ix] = "the-ultimate-democracy.html";
+ix++;
+qfilename[ix] = "judgments-of-users.html";
 ix++;
 qfilename[ix] = "the-status-of-each-as-an-amateur.html";
 ix++;
@@ -370,6 +288,8 @@ qfilename[ix] = "environment-creation-integrated-into-the-development-process.ht
 ix++;
 qfilename[ix] = "ten-deploys-a-day.html";
 ix++;
+qfilename[ix] = "a-dark-procession.html";
+ix++;
 qfilename[ix] = "start-with-the-customer-experience.html";
 ix++;
 qfilename[ix] = "torturing-the-data.html";
@@ -378,89 +298,169 @@ qfilename[ix] = "the-enormous-extension-of-our-being.html";
 ix++;
 qfilename[ix] = "great-minds-discuss-ideas.html";
 ix++;
+qfilename[ix] = "principle-of-least-astonishment.html";
+ix++;
+qfilename[ix] = "one-test-result.html";
+ix++;
+qfilename[ix] = "conceptual-integrity.html";
+ix++;
+qfilename[ix] = "drive-through-coding.html";
+ix++;
+qfilename[ix] = "nirvana-antipattern.html";
+ix++;
+qfilename[ix] = "focus-on-high-performers.html";
+ix++;
+qfilename[ix] = "work-soul-and-life.html";
+ix++;
+qfilename[ix] = "six-impossible-things-before-breakfast.html";
+ix++;
+qfilename[ix] = "vital-and-significant-forms-of-art.html";
+ix++;
+qfilename[ix] = "conservatives-and-progressives.html";
+ix++;
+qfilename[ix] = "taking-a-fence-down.html";
+ix++;
+qfilename[ix] = "the-difference-between-construction-and-creation.html";
+ix++;
+qfilename[ix] = "we-are-doing-our-best.html";
+ix++;
+qfilename[ix] = "system-architects-as-storytellers.html";
+ix++;
+qfilename[ix] = "prototyping-no-substitute-for-analysis-and-design.html";
+ix++;
+qfilename[ix] = "system-simplification.html";
+ix++;
+qfilename[ix] = "user-interface-architectures.html";
+ix++;
+qfilename[ix] = "the-sanctity-and-importance-of-sudden-death.html";
+ix++;
+qfilename[ix] = "difficulty-of-requirements-discovery.html";
+ix++;
+qfilename[ix] = "just-enough-requirements.html";
+ix++;
+qfilename[ix] = "level-of-requirements-detail.html";
+ix++;
+qfilename[ix] = "lists-of-requirements.html";
+ix++;
+qfilename[ix] = "multiple-design-approaches.html";
+ix++;
+qfilename[ix] = "requirements-elicitation-triage-and-specification.html";
+ix++;
+qfilename[ix] = "belief-in-impossible-things.html";
+ix++;
+qfilename[ix] = "template-zombies.html";
+ix++;
+qfilename[ix] = "paper-mill.html";
+ix++;
+qfilename[ix] = "we-dont-even-own-suits.html";
+ix++;
+qfilename[ix] = "the-power-of-thought.html";
+ix++;
+qfilename[ix] = "simplicity-and-complexity.html";
+ix++;
+qfilename[ix] = "the-supreme-goal-of-all-theory.html";
+ix++;
+qfilename[ix] = "model-ii-decision-making.html";
+ix++;
+qfilename[ix] = "a-first-rate-intelligence.html";
+ix++;
+qfilename[ix] = "faster-horses.html";
+ix++;
+qfilename[ix] = "only-connect.html";
+ix++;
+qfilename[ix] = "education-and-genius.html";
+ix++;
+qfilename[ix] = "every-body-cries-a-union-is-absolutely-necessary.html";
+ix++;
+qfilename[ix] = "conventional-views.html";
+ix++;
+qfilename[ix] = "an-intuitive-taste-for-people-and-products.html";
+ix++;
+qfilename[ix] = "software-more-than-code.html";
+ix++;
 var max = ix;
 
 var now = new Date();
 var seed = now.getTime() % 0xffffffff;
 
 function rand(n) {
-  seed = (0x015a4e35 * seed) % 0x7fffffff;
-  return (seed >> 16) % n;
+seed = (0x015a4e35 * seed) % 0x7fffffff;
+return (seed >> 16) % n;
 }
 
 function setContent(n) {
-  var thisURL = document.URL;
-  var postIx = thisURL.indexOf("/posts/");
-  var tagsIx = thisURL.indexOf("/tags/");
-  var wisdomIx = thisURL.indexOf("/wisdom/");
-  var authorsIx = thisURL.indexOf("/authors/");
-  var aboutIx = thisURL.indexOf("/about/");
-  var page = qfilename[n];
-  if (authorsIx > 0 || tagsIx > 0) {
-    page = "../../wisdom/" + page;
-  }
-  else
-  if (wisdomIx < 0 && postIx < 0 && aboutIx < 0) {
-    page = "wisdom/" + page;
-  } else {
-    page = "../wisdom/" + page;
-  }
-  window.location.replace(page);
+var thisURL = document.URL;
+var postIx = thisURL.indexOf("/posts/");
+var tagsIx = thisURL.indexOf("/tags/");
+var wisdomIx = thisURL.indexOf("/wisdom/");
+var authorsIx = thisURL.indexOf("/authors/");
+var aboutIx = thisURL.indexOf("/about/");
+var page = qfilename[n];
+if (authorsIx > 0 || tagsIx > 0) {
+page = "../../wisdom/" + page;
+}
+else
+if (wisdomIx < 0 && postIx < 0 && aboutIx < 0) {
+page = "wisdom/" + page;
+} else {
+page = "../wisdom/" + page;
+}
+window.location.replace(page);
 }
 
 function randomQuote() {
-  rq = rand(max);
-  if (rq < 0) {
-    rq = 0;
-  }
-  if (rq >= max) {
-    rq = max - 1;
-  }
-  setContent (rq);
+rq = rand(max);
+if (rq < 0) {
+rq = 0;
+}
+if (rq >= max) {
+rq = max - 1;
+}
+setContent (rq);
 }
 
 function firstQuote() {
-  var ix = 0;
-  setContent(ix);
+var ix = 0;
+setContent(ix);
 }
 
 function lastQuote() {
-  var ix = max - 1;
-  setContent(ix);
+var ix = max - 1;
+setContent(ix);
 }
 
 function nextQuote() {
-  bumpQuote(1);
+bumpQuote(1);
 }
 
 function priorQuote() {
-  bumpQuote(-1);
+bumpQuote(-1);
 }
 
 function bumpQuote(inc) {
-  var thisURL = document.URL;
-  var lastSlash = thisURL.lastIndexOf("/");
-  var thisPage = thisURL.substr(lastSlash + 1);
-  var ix = 0;
-  var found = false;
-  while (ix < max && (! found)) {
-    var page = qfilename[ix];
-    if (thisPage == page) {
-      found = true;
-    } else {
-      ix++;
-    }
-  }
-  if (found) {
-    ix = ix + inc;
-    if (ix >= max) {
-      ix = 0;
-    }
-    if (ix < 0) {
-      ix = max - 1;
-    }
-    setContent(ix);
-  } else {
-    setContent(0);
-  }
+var thisURL = document.URL;
+var lastSlash = thisURL.lastIndexOf("/");
+var thisPage = thisURL.substr(lastSlash + 1);
+var ix = 0;
+var found = false;
+while (ix < max && (! found)) {
+var page = qfilename[ix];
+if (thisPage == page) {
+found = true;
+} else {
+ix++;
+}
+}
+if (found) {
+ix = ix + inc;
+if (ix >= max) {
+ix = 0;
+}
+if (ix < 0) {
+ix = max - 1;
+}
+setContent(ix);
+} else {
+setContent(0);
+}
 }

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <channel>
-		<title>
-			Pagan Tuna
-		</title>
-		<link>
-			http://www.PaganTuna.com/
-		</link>
-		<description>
-			A web log from the irreverent, slightly fishy world of Herb Bowie
-		</description>
-		<language>en-us</language>
-    <pubDate>Wed, 10 Jul 2019 11:29:41 PDT</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 11:29:41 PDT</lastBuildDate>
-		<generator>PSTextMerge</generator>
-		<managingEditor>Herb Bowie</managingEditor>
-		<item>
-			<title>
-			Agile Software Development and the Core Design Principles for Teams
-			</title>
-			<link>http://www.PaganTuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html</link>
-			<description>
-				&lt;p&gt;I just came across a wonderfully scientific confirmation of the wisdom of agile software development teams. The source was a surprising one: Evolutionary Biologist David Sloan Wilson&apos;s latest book &lt;i&gt;This View of Life: Completing the Darwinian Revolution&lt;/i&gt;. &lt;/p&gt;
+<channel>
+<title>
+Pagan Tuna
+</title>
+<link>
+http://www.PaganTuna.com/
+</link>
+<description>
+A web log from the irreverent, slightly fishy world of Herb Bowie
+</description>
+<language>en-us</language>
+<pubDate>Tue, 24 Sep 2019 00:00:00 PDT</pubDate>
+<lastBuildDate>Tue, 24 Sep 2019 00:00:00 PDT</lastBuildDate>
+<generator>PSTextMerge</generator>
+<managingEditor>Herb Bowie</managingEditor>
+<item>
+<title>
+Agile Software Development and the Core Design Principles for Teams
+</title>
+<link>http://www.PaganTuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html</link>
+<description>
+&lt;p&gt;I just came across a wonderfully scientific confirmation of the wisdom of agile software development teams. The source was a surprising one: Evolutionary Biologist David Sloan Wilson&apos;s latest book &lt;i&gt;This View of Life: Completing the Darwinian Revolution&lt;/i&gt;. &lt;/p&gt;
 
-			</description>
-			<pubDate>Tue, 09 Jul 2019 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html</guid>
-		</item>
-		<item>
-			<title>
-			Introduction to Soft Dev Big Ideas
-			</title>
-			<link>http://www.PaganTuna.com/posts/introduction-to-soft-dev-big-ideas.html</link>
-			<description>
-				&lt;p&gt;I have been practicing software development for more than four decades now, and over that time, in addition to writing a lot of code, and being part of numerous projects in varying capacities, I&amp;#8217;ve done a fair amount of reading on the topic. In fact, I have shelves full of books on the subject, starting with classics like &lt;em&gt;The Mythical Man Month&lt;/em&gt;, proceeding through the CMM period and then on into the Lean/Agile years.&lt;/p&gt;
+</description>
+<pubDate>Tue, 09 Jul 2019 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html</guid>
+</item>
+<item>
+<title>
+Introduction to Soft Dev Big Ideas
+</title>
+<link>http://www.PaganTuna.com/posts/introduction-to-soft-dev-big-ideas.html</link>
+<description>
+&lt;p&gt;I have been practicing software development for more than four decades now, and over that time, in addition to writing a lot of code, and being part of numerous projects in varying capacities, I&amp;#8217;ve done a fair amount of reading on the topic. In fact, I have shelves full of books on the subject, starting with classics like &lt;em&gt;The Mythical Man Month&lt;/em&gt;, proceeding through the CMM period and then on into the Lean/Agile years.&lt;/p&gt;
 
 &lt;p&gt;And, of course, the number of new words written on the topic increases daily.&lt;/p&gt;
 
@@ -41,107 +41,107 @@
 
 &lt;p&gt;And so I am setting off to test my hypothesis by trying to document the &lt;a href=&quot;http://www.softdevbigideas.com&quot;&gt;Big Ideas in Software Development&lt;/a&gt; in a concrete, manageable, sequential list.&lt;/p&gt;
 
-			</description>
-			<pubDate>Mon, 12 Sep 2016 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/introduction-to-soft-dev-big-ideas.html</guid>
-		</item>
-		<item>
-			<title>
-			A New Model for Lean Culture
-			</title>
-			<link>http://www.PaganTuna.com/posts/a-new-model-for-lean-culture.html</link>
-			<description>
-				&lt;p&gt;When companies attempt to implement &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean&lt;/a&gt; principles, some of their biggest stumbling blocks seem to be the cultural elements. While some of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Toyota&quot;&gt;Toyota&lt;/a&gt; methods are very clear and specific, the cultural issues often seem more difficult to pin down. Many organizations seem to translate the most obvious elements into terms that they are comfortable with, but something often seems to get lost in the translation, and their lean implementations struggle because they have not really modified some of the basic ways in which they think about their work. &lt;/p&gt;
+</description>
+<pubDate>Mon, 12 Sep 2016 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/introduction-to-soft-dev-big-ideas.html</guid>
+</item>
+<item>
+<title>
+A New Model for Lean Culture
+</title>
+<link>http://www.PaganTuna.com/posts/a-new-model-for-lean-culture.html</link>
+<description>
+&lt;p&gt;When companies attempt to implement &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean&lt;/a&gt; principles, some of their biggest stumbling blocks seem to be the cultural elements. While some of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Toyota&quot;&gt;Toyota&lt;/a&gt; methods are very clear and specific, the cultural issues often seem more difficult to pin down. Many organizations seem to translate the most obvious elements into terms that they are comfortable with, but something often seems to get lost in the translation, and their lean implementations struggle because they have not really modified some of the basic ways in which they think about their work. &lt;/p&gt;
 
 &lt;p&gt;It occurred to me recently that the basic differences in lean culture might be represented in a very simple model. At first the simplicity of the model seemed to be too good to be true, but the more I thought about it, the more it seemed to help clearly explain some of the issues that typically cause the most confusion. &lt;/p&gt;
 
-			</description>
-			<pubDate>Fri, 22 Apr 2016 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/a-new-model-for-lean-culture.html</guid>
-		</item>
-		<item>
-			<title>
-			Agile Architecture
-			</title>
-			<link>http://www.PaganTuna.com/posts/agile-architecture.html</link>
-			<description>
-				&lt;p&gt;Many Agilistas view any discussion of architecture as the first step down a slippery slope that, once taken, will inevitably lead a project into the fiery pit of waterfall.&lt;/p&gt; &lt;p&gt;Let&amp;#8217;s see if we can unpack this subject a bit, and possibly even reach agreement on a sensible way to do architecture on agile software development projects, especially large and complex ones.&lt;/p&gt;
+</description>
+<pubDate>Fri, 22 Apr 2016 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/a-new-model-for-lean-culture.html</guid>
+</item>
+<item>
+<title>
+Agile Architecture
+</title>
+<link>http://www.PaganTuna.com/posts/agile-architecture.html</link>
+<description>
+&lt;p&gt;Many Agilistas view any discussion of architecture as the first step down a slippery slope that, once taken, will inevitably lead a project into the fiery pit of waterfall.&lt;/p&gt; &lt;p&gt;Let&amp;#8217;s see if we can unpack this subject a bit, and possibly even reach agreement on a sensible way to do architecture on agile software development projects, especially large and complex ones.&lt;/p&gt;
 
-			</description>
-			<pubDate>Sun, 31 Jan 2016 11:29:41 PST</pubDate>
-			<guid>http://www.PaganTuna.com/posts/agile-architecture.html</guid>
-		</item>
-		<item>
-			<title>
-			Effective Compliance
-			</title>
-			<link>http://www.PaganTuna.com/posts/effective-compliance.html</link>
-			<description>
-				&lt;p&gt;In a corporate environment, the term &amp;#8220;compliance&amp;#8221; is often used to mean a number of different things. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;The practice of following one or more sets of binding laws, regulations, policies and/or procedures. &lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;An organization or function that is put in place to validate that compliance (in the sense above) is maintained.&lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;The demonstration, or the ability to demonstrate upon demand, that compliance (in the first sense) is being maintained. &lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Compliance in the second and third senses above &amp;#8212; what we might call the big &amp;#8220;C&amp;#8221; Compliance &amp;#8212; often becomes most important in areas where failure to comply may produce long-term negative consequences, without any corresponding short-term issues or visibility. Information Security and Disaster Recovery Planning are good examples. Because there are no other quick feedback loops in cases like these, special oversight is often put in place to ensure that everyone is doing the right thing now to prevent or mitigate some possible catastrophe in the future. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In my experience, it&amp;#8217;s important to keep in mind a number of key ideas in order to maximize the effectiveness of your compliance activities. &lt;/p&gt;
+</description>
+<pubDate>Sun, 31 Jan 2016 00:00:00 PST</pubDate>
+<guid>http://www.PaganTuna.com/posts/agile-architecture.html</guid>
+</item>
+<item>
+<title>
+Effective Compliance
+</title>
+<link>http://www.PaganTuna.com/posts/effective-compliance.html</link>
+<description>
+&lt;p&gt;In a corporate environment, the term &amp;#8220;compliance&amp;#8221; is often used to mean a number of different things. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;The practice of following one or more sets of binding laws, regulations, policies and/or procedures. &lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;An organization or function that is put in place to validate that compliance (in the sense above) is maintained.&lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;p&gt;The demonstration, or the ability to demonstrate upon demand, that compliance (in the first sense) is being maintained. &lt;/p&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Compliance in the second and third senses above &amp;#8212; what we might call the big &amp;#8220;C&amp;#8221; Compliance &amp;#8212; often becomes most important in areas where failure to comply may produce long-term negative consequences, without any corresponding short-term issues or visibility. Information Security and Disaster Recovery Planning are good examples. Because there are no other quick feedback loops in cases like these, special oversight is often put in place to ensure that everyone is doing the right thing now to prevent or mitigate some possible catastrophe in the future. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In my experience, it&amp;#8217;s important to keep in mind a number of key ideas in order to maximize the effectiveness of your compliance activities. &lt;/p&gt;
 
-			</description>
-			<pubDate>Sat, 05 Dec 2015 11:29:41 PST</pubDate>
-			<guid>http://www.PaganTuna.com/posts/effective-compliance.html</guid>
-		</item>
-		<item>
-			<title>
-			The Importance of the Team
-			</title>
-			<link>http://www.PaganTuna.com/posts/the-importance-of-the-team.html</link>
-			<description>
-				&lt;p&gt;At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Note that teams such as these are found in contexts as different as Jazz bands, Rock groups, filmmaking, Agile Software Development and Lean Manufacturing, to name just a few obvious examples. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;It&amp;#8217;s now commonplace in business to take the work of teams for granted, but in my experience that passive acceptance doesn&amp;#8217;t always translate into active support.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Let me break my opening assertion down, and explain the significance of each of its components. &lt;/p&gt;
+</description>
+<pubDate>Sat, 05 Dec 2015 00:00:00 PST</pubDate>
+<guid>http://www.PaganTuna.com/posts/effective-compliance.html</guid>
+</item>
+<item>
+<title>
+The Importance of the Team
+</title>
+<link>http://www.PaganTuna.com/posts/the-importance-of-the-team.html</link>
+<description>
+&lt;p&gt;At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Note that teams such as these are found in contexts as different as Jazz bands, Rock groups, filmmaking, Agile Software Development and Lean Manufacturing, to name just a few obvious examples. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;It&amp;#8217;s now commonplace in business to take the work of teams for granted, but in my experience that passive acceptance doesn&amp;#8217;t always translate into active support.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Let me break my opening assertion down, and explain the significance of each of its components. &lt;/p&gt;
 
-			</description>
-			<pubDate>Thu, 17 Sep 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/the-importance-of-the-team.html</guid>
-		</item>
-		<item>
-			<title>
-			My Own Damn Apple Watch Review
-			</title>
-			<link>http://www.PaganTuna.com/posts/my-own-damn-apple-watch-review.html</link>
-			<description>
-				&lt;p&gt;The Apple Watch is much like the Velvet Underground: just as it was famously said by Brian Eno that not many people listened to the original VU albums, but all of them started their own bands, so it is true that &amp;#8220;not many&amp;#8221; people are buying the first generation of the Apple Watch, but all of them are writing their own reviews of it. And so here&amp;#8217;s mine.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;My Perspective&lt;/h2&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I&amp;#8217;m a fairly tech-savvy guy who already has at least one of just about everything Apple makes. I&amp;#8217;m six feel tall. I walk and run, but not competitively. I&amp;#8217;ve worn a watch all my life. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;The Goods&lt;/h2&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I ordered the 42MM Steel Case with the Milanese Loop. Anything smaller would have looked silly on my big wrist. The steel case seemed much more like a real watch than the aluminum sport model. And I like the infinite adjustability of the Milanese loop, as opposed to some of the others. I also purchased a black Sport Band to use for running. And I also got a mophie watch dock to use for overnight charging. &lt;/p&gt;
+</description>
+<pubDate>Thu, 17 Sep 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/the-importance-of-the-team.html</guid>
+</item>
+<item>
+<title>
+My Own Damn Apple Watch Review
+</title>
+<link>http://www.PaganTuna.com/posts/my-own-damn-apple-watch-review.html</link>
+<description>
+&lt;p&gt;The Apple Watch is much like the Velvet Underground: just as it was famously said by Brian Eno that not many people listened to the original VU albums, but all of them started their own bands, so it is true that &amp;#8220;not many&amp;#8221; people are buying the first generation of the Apple Watch, but all of them are writing their own reviews of it. And so here&amp;#8217;s mine.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;My Perspective&lt;/h2&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I&amp;#8217;m a fairly tech-savvy guy who already has at least one of just about everything Apple makes. I&amp;#8217;m six feel tall. I walk and run, but not competitively. I&amp;#8217;ve worn a watch all my life. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;The Goods&lt;/h2&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I ordered the 42MM Steel Case with the Milanese Loop. Anything smaller would have looked silly on my big wrist. The steel case seemed much more like a real watch than the aluminum sport model. And I like the infinite adjustability of the Milanese loop, as opposed to some of the others. I also purchased a black Sport Band to use for running. And I also got a mophie watch dock to use for overnight charging. &lt;/p&gt;
 
-			</description>
-			<pubDate>Wed, 29 Jul 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/my-own-damn-apple-watch-review.html</guid>
-		</item>
-		<item>
-			<title>
-			Lessons We (Should) Have Learned from the Web
-			</title>
-			<link>http://www.PaganTuna.com/posts/lessons-we-should-have-learned-from-the-web.html</link>
-			<description>
-				&lt;p&gt;There are a number of basic principles that those of us in the Information Technology field should have learned from the tremendous success of the Internet and the World Wide Web. &lt;/p&gt;
+</description>
+<pubDate>Wed, 29 Jul 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/my-own-damn-apple-watch-review.html</guid>
+</item>
+<item>
+<title>
+Lessons We (Should) Have Learned from the Web
+</title>
+<link>http://www.PaganTuna.com/posts/lessons-we-should-have-learned-from-the-web.html</link>
+<description>
+&lt;p&gt;There are a number of basic principles that those of us in the Information Technology field should have learned from the tremendous success of the Internet and the World Wide Web. &lt;/p&gt;
 
-			</description>
-			<pubDate>Sun, 26 Jul 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/lessons-we-should-have-learned-from-the-web.html</guid>
-		</item>
-		<item>
-			<title>
-			Agile Project Planning
-			</title>
-			<link>http://www.PaganTuna.com/posts/agile-project-planning.html</link>
-			<description>
-				&lt;p&gt;Many software development teams seem to treat &amp;#8220;Agile&amp;#8221; and &amp;#8220;Project Planning&amp;#8221; as if they were mutually exclusive concepts. The tendency, it seems, is to simply jump straight into Agile iterations &amp;#8212; at best starting with an Iteration Zero &amp;#8212; and then trust that things will sort themselves out strictly through a team-based Scrum-like approach. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In practice, though, teams seem to regularly run into trouble with this sort of na‚Äö√†√∂‚àö√≤ve approach to starting up an Agile project &amp;#8212; especially any sort of large, ambitious project operating within the context of a major enterprise. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Rather than proceeding blindly ahead with nothing more than faith in Agile iterations as a panacea, here are some of the planning considerations that I think projects should explicitly address at their outset, before their first sprint. &lt;/p&gt;
+</description>
+<pubDate>Sun, 26 Jul 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/lessons-we-should-have-learned-from-the-web.html</guid>
+</item>
+<item>
+<title>
+Agile Project Planning
+</title>
+<link>http://www.PaganTuna.com/posts/agile-project-planning.html</link>
+<description>
+&lt;p&gt;Many software development teams seem to treat &amp;#8220;Agile&amp;#8221; and &amp;#8220;Project Planning&amp;#8221; as if they were mutually exclusive concepts. The tendency, it seems, is to simply jump straight into Agile iterations &amp;#8212; at best starting with an Iteration Zero &amp;#8212; and then trust that things will sort themselves out strictly through a team-based Scrum-like approach. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In practice, though, teams seem to regularly run into trouble with this sort of na‚Äö√†√∂‚àö√≤ve approach to starting up an Agile project &amp;#8212; especially any sort of large, ambitious project operating within the context of a major enterprise. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Rather than proceeding blindly ahead with nothing more than faith in Agile iterations as a panacea, here are some of the planning considerations that I think projects should explicitly address at their outset, before their first sprint. &lt;/p&gt;
 
-			</description>
-			<pubDate>Thu, 11 Jun 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/agile-project-planning.html</guid>
-		</item>
-		<item>
-			<title>
-			Benefits of the Scaled Agile Framework
-			</title>
-			<link>http://www.PaganTuna.com/posts/benefits-of-the-scaled-agile-framework.html</link>
-			<description>
-				&lt;p&gt;For those who have not yet heard of it, the Scaled Agile Framework, or SAFe&amp;reg; for short, is a &amp;#8220;publicly available framework for applying lean/agile practices at Enterprise scale.&amp;#8221; &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I believe that the SAFe model offers a number of benefits to those who may be considering its use. Let me enumerate them. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;1. It is publicly available and free to use.&lt;/h2&gt;
+</description>
+<pubDate>Thu, 11 Jun 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/agile-project-planning.html</guid>
+</item>
+<item>
+<title>
+Benefits of the Scaled Agile Framework
+</title>
+<link>http://www.PaganTuna.com/posts/benefits-of-the-scaled-agile-framework.html</link>
+<description>
+&lt;p&gt;For those who have not yet heard of it, the Scaled Agile Framework, or SAFe&amp;reg; for short, is a &amp;#8220;publicly available framework for applying lean/agile practices at Enterprise scale.&amp;#8221; &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;I believe that the SAFe model offers a number of benefits to those who may be considering its use. Let me enumerate them. &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;1. It is publicly available and free to use.&lt;/h2&gt;
 
-			</description>
-			<pubDate>Sat, 21 Mar 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/posts/benefits-of-the-scaled-agile-framework.html</guid>
-		</item>
-	</channel>
+</description>
+<pubDate>Sat, 21 Mar 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/posts/benefits-of-the-scaled-agile-framework.html</guid>
+</item>
+</channel>
 </rss>

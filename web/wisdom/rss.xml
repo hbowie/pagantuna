@@ -1,129 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <channel>
-		<title>
-			Portable Wisdom from Pagan Tuna
-		</title>
-		<link>
-			http://www.PaganTuna.com/
-		</link>
-		<description>
-			A collection of insightful quotations.
-		</description>
-		<language>en-us</language>
-    <pubDate>Wed, 10 Jul 2019 11:29:41 PDT</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 11:29:41 PDT</lastBuildDate>
-		<generator>iWisdom</generator>
-		<managingEditor>Herb Bowie</managingEditor>
-		<item>
-			<title>
-			Great minds discuss ideas
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/great-minds-discuss-ideas.html</link>
-			<description>
-				&lt;p&gt; Great minds discuss ideas, average ones discuss events, and small minds discuss people. &lt;/p&gt;
-			</description>
-			<pubDate>Sun, 30 Aug 2015 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/great-minds-discuss-ideas.html</guid>
-		</item>
-		<item>
-			<title>
-			The Enormous Extension of our Being
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/the-enormous-extension-of-our-being.html</link>
-			<description>
-				&lt;p&gt; Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors. We realize it best when we talk with an unliterary friend. He may be full of goodness and good sense but he inhabits a tiny world. In it, we should be suffocated. The man who is contented to be only himself, and therefore less a self, is in prison. My own eyes are not enough for me, I will see through those of others. Reality, even seen through the eyes of many, is not enough. I will see what others have invented. Even the eyes of all humanity are not enough. I regret that the brutes cannot write books. Very gladly would I learn what face things present to a mouse or a bee; more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog. &lt;/p&gt;
-			</description>
-			<pubDate>Sat, 06 Dec 2014 11:29:41 PST</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/the-enormous-extension-of-our-being.html</guid>
-		</item>
-		<item>
-			<title>
-			Torturing the Data
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/torturing-the-data.html</link>
-			<description>
-				&lt;p&gt; If you torture the data long enough, it will confess to anything. &lt;/p&gt;
-			</description>
-			<pubDate>Wed, 03 Dec 2014 11:29:41 PST</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/torturing-the-data.html</guid>
-		</item>
-		<item>
-			<title>
-			Start with the Customer Experience
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/start-with-the-customer-experience.html</link>
-			<description>
-				&lt;p&gt; One of the things I&apos;ve always found is that you&apos;ve got to start with the customer experience and work backwards to the technology. You can&apos;t start with the technology and then figure out where you&apos;re going to try to sell it. &lt;/p&gt;
-			</description>
-			<pubDate>Fri, 31 Oct 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/start-with-the-customer-experience.html</guid>
-		</item>
-		<item>
-			<title>
-			Ten Deploys a Day
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/ten-deploys-a-day.html</link>
-			<description>
-				&lt;p&gt; &amp;#8220;He saw a presentation given by John Allspaw and his colleague Paul Hammond that flipped the world on its head. Allspaw and Hammond ran the IT Operations and Engineering groups at Flickr. Instead of fighting like cats and dogs, they talked about how they were working together to routinely do ten deploys a day! This is in a world when most IT organizations were mostly doing quarterly or annual deployments. Imagine that. He was doing deploys at a rate one thousand times faster than the previous state of the art. &lt;/p&gt; &lt;p&gt; &amp;#8220;Allspaw taught us that Dev and Ops working together, along with QA and the business, are a super-tribe that can achieve amazing things. They also knew that until code is in production, no value is actually being generated, because it&apos;s merely WIP stuck in the system. He kept reducing the batch size, enabling fast feature flow. In part, he did this by ensuring environments were always available when they were needed. He automated the build and deployment process, recognizing that infrastructure could be treated as code, just like the application that Development ships. That enabled him to create a one-step environment creation and deploy procedure, just like we figured out a way to do one-step painting and curing.&amp;#8221; &lt;/p&gt;
-			</description>
-			<pubDate>Sun, 20 Jul 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/ten-deploys-a-day.html</guid>
-		</item>
-		<item>
-			<title>
-			Environment Creation Integrated into the Development Process
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/environment-creation-integrated-into-the-development-process.html</link>
-			<description>
-				&lt;p&gt; Chris seems excited. &amp;#8220;Brent, if it&apos;s okay with you and everyone else, I&apos;d like to invite you to our team sprints, so that we can get environment creation integrated into the development process as early as possible. Right now, we focus mostly on having deployable code at the end of the project. I propose we change that requirement. At each three-week sprint interval, we not only need to have deployable code but also the exact environment that the code deploys into, and have that checked into version control, too.&amp;#8221; &lt;/p&gt;
-			</description>
-			<pubDate>Sun, 20 Jul 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/environment-creation-integrated-into-the-development-process.html</guid>
-		</item>
-		<item>
-			<title>
-			The Other Side of Complexity
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/the-other-side-of-complexity.html</link>
-			<description>
-				&lt;p&gt; I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity. &lt;/p&gt;
-			</description>
-			<pubDate>Wed, 16 Jul 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/the-other-side-of-complexity.html</guid>
-		</item>
-		<item>
-			<title>
-			Technical Debt
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/technical-debt.html</link>
-			<description>
-				&lt;p&gt; &amp;#8220;Well put, Bill. You&apos;ve just described ‘technical debt&amp;#8217; that is not being paid down. It comes from taking shortcuts, which may make sense in the short-term. But like financial debt, the compounding interest costs grow over time. If an organization doesn&apos;t pay down its technical debt, every calorie in the organization can be spent just paying interest, in the form of unplanned work.&amp;#8221; &lt;/p&gt;
-			</description>
-			<pubDate>Sat, 14 Jun 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/technical-debt.html</guid>
-		</item>
-		<item>
-			<title>
-			What Constitutes a Work Center
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/what-constitutes-a-work-center.html</link>
-			<description>
-				&lt;p&gt; ...every work center is made up of four things: the machine, the man, the method, and the measures. &lt;/p&gt;
-			</description>
-			<pubDate>Sat, 14 Jun 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/what-constitutes-a-work-center.html</guid>
-		</item>
-		<item>
-			<title>
-			We Need a Place to Stand
-			</title>
-			<link>http://www.PaganTuna.com/wisdom/we-need-a-place-to-stand.html</link>
-			<description>
-				&lt;p&gt; Researching my latest book, Fourth and Long, I met Dr. Ed Zeiders, the pastor of St. Paul&apos;s United Methodist Church in State College. He has seen what a college football team can do for a community in ways others might not. &lt;/p&gt; &lt;p&gt; &amp;#8216;We are desperately needy,&amp;#8217; he told me. &amp;#8216;We need a place to stand, and a people to stand with, and a cause to stand for. That is not original with me. That came out of World Methodism. And those three propositions hold the key to healthy and value-oriented living. Our culture is devoid of these things.&amp;#8217; &lt;/p&gt;
-			</description>
-			<pubDate>Fri, 13 Jun 2014 11:29:41 PDT</pubDate>
-			<guid>http://www.PaganTuna.com/wisdom/we-need-a-place-to-stand.html</guid>
-		</item>
-	</channel>
+<channel>
+<title>
+Portable Wisdom from Pagan Tuna
+</title>
+<link>
+http://www.PaganTuna.com/
+</link>
+<description>
+A collection of insightful quotations.
+</description>
+<language>en-us</language>
+<pubDate>Tue, 24 Sep 2019 00:00:00 PDT</pubDate>
+<lastBuildDate>Tue, 24 Sep 2019 00:00:00 PDT</lastBuildDate>
+<generator>iWisdom</generator>
+<managingEditor>Herb Bowie</managingEditor>
+<item>
+<title>
+Great minds discuss ideas
+</title>
+<link>http://www.PaganTuna.com/wisdom/great-minds-discuss-ideas.html</link>
+<description>
+&lt;p&gt; Great minds discuss ideas, average ones discuss events, and small minds discuss people. &lt;/p&gt;
+</description>
+<pubDate>Sun, 30 Aug 2015 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/great-minds-discuss-ideas.html</guid>
+</item>
+<item>
+<title>
+The Enormous Extension of our Being
+</title>
+<link>http://www.PaganTuna.com/wisdom/the-enormous-extension-of-our-being.html</link>
+<description>
+&lt;p&gt; Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors. We realize it best when we talk with an unliterary friend. He may be full of goodness and good sense but he inhabits a tiny world. In it, we should be suffocated. The man who is contented to be only himself, and therefore less a self, is in prison. My own eyes are not enough for me, I will see through those of others. Reality, even seen through the eyes of many, is not enough. I will see what others have invented. Even the eyes of all humanity are not enough. I regret that the brutes cannot write books. Very gladly would I learn what face things present to a mouse or a bee; more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog. &lt;/p&gt;
+</description>
+<pubDate>Sat, 06 Dec 2014 00:00:00 PST</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/the-enormous-extension-of-our-being.html</guid>
+</item>
+<item>
+<title>
+Torturing the Data
+</title>
+<link>http://www.PaganTuna.com/wisdom/torturing-the-data.html</link>
+<description>
+&lt;p&gt; If you torture the data long enough, it will confess to anything. &lt;/p&gt;
+</description>
+<pubDate>Wed, 03 Dec 2014 00:00:00 PST</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/torturing-the-data.html</guid>
+</item>
+<item>
+<title>
+Start with the Customer Experience
+</title>
+<link>http://www.PaganTuna.com/wisdom/start-with-the-customer-experience.html</link>
+<description>
+&lt;p&gt; One of the things I&apos;ve always found is that you&apos;ve got to start with the customer experience and work backwards to the technology. You can&apos;t start with the technology and then figure out where you&apos;re going to try to sell it. &lt;/p&gt;
+</description>
+<pubDate>Fri, 31 Oct 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/start-with-the-customer-experience.html</guid>
+</item>
+<item>
+<title>
+Environment Creation Integrated into the Development Process
+</title>
+<link>http://www.PaganTuna.com/wisdom/environment-creation-integrated-into-the-development-process.html</link>
+<description>
+&lt;p&gt; Chris seems excited. &amp;#8220;Brent, if it&apos;s okay with you and everyone else, I&apos;d like to invite you to our team sprints, so that we can get environment creation integrated into the development process as early as possible. Right now, we focus mostly on having deployable code at the end of the project. I propose we change that requirement. At each three-week sprint interval, we not only need to have deployable code but also the exact environment that the code deploys into, and have that checked into version control, too.&amp;#8221; &lt;/p&gt;
+</description>
+<pubDate>Sun, 20 Jul 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/environment-creation-integrated-into-the-development-process.html</guid>
+</item>
+<item>
+<title>
+Ten Deploys a Day
+</title>
+<link>http://www.PaganTuna.com/wisdom/ten-deploys-a-day.html</link>
+<description>
+&lt;p&gt; &amp;#8220;He saw a presentation given by John Allspaw and his colleague Paul Hammond that flipped the world on its head. Allspaw and Hammond ran the IT Operations and Engineering groups at Flickr. Instead of fighting like cats and dogs, they talked about how they were working together to routinely do ten deploys a day! This is in a world when most IT organizations were mostly doing quarterly or annual deployments. Imagine that. He was doing deploys at a rate one thousand times faster than the previous state of the art. &lt;/p&gt; &lt;p&gt; &amp;#8220;Allspaw taught us that Dev and Ops working together, along with QA and the business, are a super-tribe that can achieve amazing things. They also knew that until code is in production, no value is actually being generated, because it&apos;s merely WIP stuck in the system. He kept reducing the batch size, enabling fast feature flow. In part, he did this by ensuring environments were always available when they were needed. He automated the build and deployment process, recognizing that infrastructure could be treated as code, just like the application that Development ships. That enabled him to create a one-step environment creation and deploy procedure, just like we figured out a way to do one-step painting and curing.&amp;#8221; &lt;/p&gt;
+</description>
+<pubDate>Sun, 20 Jul 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/ten-deploys-a-day.html</guid>
+</item>
+<item>
+<title>
+The Other Side of Complexity
+</title>
+<link>http://www.PaganTuna.com/wisdom/the-other-side-of-complexity.html</link>
+<description>
+&lt;p&gt; I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity. &lt;/p&gt;
+</description>
+<pubDate>Wed, 16 Jul 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/the-other-side-of-complexity.html</guid>
+</item>
+<item>
+<title>
+Technical Debt
+</title>
+<link>http://www.PaganTuna.com/wisdom/technical-debt.html</link>
+<description>
+&lt;p&gt; &amp;#8220;Well put, Bill. You&apos;ve just described ‘technical debt&amp;#8217; that is not being paid down. It comes from taking shortcuts, which may make sense in the short-term. But like financial debt, the compounding interest costs grow over time. If an organization doesn&apos;t pay down its technical debt, every calorie in the organization can be spent just paying interest, in the form of unplanned work.&amp;#8221; &lt;/p&gt;
+</description>
+<pubDate>Sat, 14 Jun 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/technical-debt.html</guid>
+</item>
+<item>
+<title>
+What Constitutes a Work Center
+</title>
+<link>http://www.PaganTuna.com/wisdom/what-constitutes-a-work-center.html</link>
+<description>
+&lt;p&gt; &hellip;every work center is made up of four things: the machine, the man, the method, and the measures. &lt;/p&gt;
+</description>
+<pubDate>Sat, 14 Jun 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/what-constitutes-a-work-center.html</guid>
+</item>
+<item>
+<title>
+We Need a Place to Stand
+</title>
+<link>http://www.PaganTuna.com/wisdom/we-need-a-place-to-stand.html</link>
+<description>
+&lt;p&gt; Researching my latest book, Fourth and Long, I met Dr. Ed Zeiders, the pastor of St. Paul&apos;s United Methodist Church in State College. He has seen what a college football team can do for a community in ways others might not. &lt;/p&gt; &lt;p&gt; &amp;#8216;We are desperately needy,&amp;#8217; he told me. &amp;#8216;We need a place to stand, and a people to stand with, and a cause to stand for. That is not original with me. That came out of World Methodism. And those three propositions hold the key to healthy and value-oriented living. Our culture is devoid of these things.&amp;#8217; &lt;/p&gt;
+</description>
+<pubDate>Fri, 13 Jun 2014 00:00:00 PDT</pubDate>
+<guid>http://www.PaganTuna.com/wisdom/we-need-a-place-to-stand.html</guid>
+</item>
+</channel>
 </rss>
